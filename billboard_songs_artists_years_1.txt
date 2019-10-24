@@ -1,0 +1,2948 @@
+artist,data-has-content,rank,song,year
+Johnny Horton ,true ,1 ,The Battle Of New Orleans,1959
+George Jones ,true ,2 ,White Lightning,1959
+Jim Reeves ,true ,3 ,Home,1959
+George Morgan ,true ,4 ,I'm In Love Again,1959
+Ray Price ,true ,5 ,Heartaches By The Number,1959
+Webb Pierce ,true ,6 ,A Thousand Miles Ago,1959
+Frankie Miller ,true ,7 ,Black Land Farmer,1959
+Skeeter Davis ,true ,8 ,Set Him Free,1959
+Johnny Cash ,true ,9 ,Luther Played The Boogie,1959
+Johnny Horton ,true ,10 ,When It's Springtime In Alaska (It's Forty Below),1959
+Johnny Cash ,true ,11 ,Frankie's Man, Johnny,1959
+Carl Belew ,true ,12 ,Am I That Easy To Forget,1959
+Johnny Cash ,true ,14 ,You Dreamer You,1959
+Johnny Cash ,true ,15 ,Thanks A Lot,1959
+Margie ,true ,16 ,Poor Old Heartsick Me,1959
+Ernest Tubb ,true ,17 ,I Cried A Tear,1959
+Don Gibson ,true ,18 ,Lonesome Old House,1959
+Wilma Lee &amp; Stoney Cooper ,false ,19 ,Big Midnight Special,1959
+Johnny Cash ,true ,20 ,Don't Take Your Guns To Town,1959
+Wilburn Brothers ,true ,21 ,Somebody's Back In Town,1959
+Hank Thompson ,true ,22 ,Anybody's Girl,1959
+Kitty Wells ,true ,23 ,Mommy For A Day,1959
+Faron Young ,true ,24 ,That's The Way It's Gotta Be,1959
+Wilma Lee &amp; Stoney Cooper ,true ,25 ,Come Walk With Me,1959
+Rose Maddox ,true ,26 ,Gambler's Love,1959
+Eddy Arnold ,true ,27 ,Chip Off The Old Block,1959
+Jimmy Martin ,false ,28 ,Night,1959
+James O'Gwynn ,true ,29 ,How Can I Think Of Tomorrow,1959
+Bob Gallion ,true ,30 ,You Take The Table And I'll Take The Chairs,1959
+Hank Locklin ,true ,1 ,Please Help Me, I'm Falling,1960
+Jim Reeves ,true ,2 ,He'll Have To Go,1960
+Don Gibson ,true ,3 ,Just One Time,1960
+Ray Price ,true ,4 ,One More Time,1960
+Buck Owens ,true ,5 ,Above And Beyond,1960
+Stonewall Jackson ,true ,6 ,Why I'm Walkin',1960
+Jeanne Black ,true ,7 ,He'll Have To Stay,1960
+Roy Drusky ,true ,8 ,Another,1960
+Marty Robbins ,true ,9 ,Big Iron,1960
+Kitty Wells ,true ,10 ,Left To Right,1960
+Johnny Horton ,true ,11 ,Sink The Bismark,1960
+Faron Young ,true ,12 ,Your Old Used To Be,1960
+Johnny Cash ,true ,13 ,Smiling Bill McCall,1960
+Hank Thompson ,true ,14 ,A Six Pack To Go,1960
+Marion Worth ,true ,15 ,That's My Kind Of Love,1960
+Johnny Cash ,true ,16 ,Seasons Of My Heart,1960
+The Stanley Brothers ,true ,17 ,How Far To Little Rock,1960
+Lonnie Irving ,true ,18 ,Pinball Machine,1960
+George Jones ,true ,19 ,Accidently On Purpose,1960
+Ernest ,false ,20 ,Each Moment ('spent With You),1960
+Skeeter Davis ,true ,21 ,Am I That Easy To Forget?,1960
+Webb Pierce ,true ,22 ,Is It Wrong (For Loving You),1960
+Claude Gray ,true ,23 ,Family Bible,1960
+Webb Pierce ,true ,24 ,(Doin' The) Lovers Leap,1960
+Frankie Miller ,true ,25 ,Baby Rocked Her Dolly,1960
+Wynn Stewart ,false ,26 ,Wrong Company,1960
+Elvis Presley ,false ,27 ,Stuck On You,1960
+Sonny James ,true ,28 ,Jenny Lou,1960
+Charlie ,true ,29 ,Who Will Buy The Wine,1960
+Freddie Hart ,true ,30 ,The Key's In The Mailbox,1960
+Faron Young ,true ,1 ,Hello Walls,1961
+Buck Owens ,true ,2 ,Foolin' Around,1961
+Patsy Cline/Jim Reeves ,true ,3 ,I Fall To Pieces,1961
+Roy Drusky ,true ,4 ,Three Hearts In A Tangle,1961
+Jim Reeves ,true ,5 ,The Blizzard,1961
+George Jones ,true ,6 ,The Window Up Above,1961
+Marty Robbins ,true ,7 ,Don't Worry,1961
+Ray Price ,true ,8 ,Heart Over Mind,1961
+Johnny Horton ,true ,9 ,Sleepy-Eyed John,1961
+Claude Gray ,true ,10 ,I'll Just Have A Cup Of Coffee (Then I'll Go),1961
+Skeeter Davis ,true ,11 ,The Hand You're Holding Now,1961
+Buck Owens ,true ,12 ,Loose Talk,1961
+Hank Snow ,true ,13 ,Beggar To A King,1961
+Jimmy Newman ,true ,14 ,Everybody's Dying For Love,1961
+Moon Mullican ,false ,15 ,Ragged But Right,1961
+George Jones ,false ,16 ,Family Bible,1961
+The Louvin Brothers ,true ,17 ,I Love You Best Of All,1961
+Warren Smith ,true ,18 ,Odds And Ends (Bits And Pieces),1961
+Porter Wagoner ,true ,19 ,Your Old Love Letters,1961
+Ray Sanders ,true ,20 ,Lonelyville,1961
+Webb Pierce ,true ,21 ,Let Forgiveness In,1961
+Buck Owens ,true ,22 ,Mental Cruelty,1961
+Ray Price ,true ,23 ,The Twenty-Fourth Hour,1961
+Kitty Wells ,false ,24 ,Heartbreak U.S.A.,1961
+Hank Thompson ,false ,25 ,Teach Me How To Lie,1961
+Reno &amp; Smiley ,false ,26 ,Don't Let Your Sweet Love Die,1961
+Eddy Arnold ,false ,27 ,(Jim) I Wore A Tie Today,1961
+Cowboy Copas ,true ,28 ,Flat Top,1961
+Hank Thompson ,false ,29 ,Oklahoma Hills,1961
+Lewis Pruitt ,true ,30 ,Crazy Bullfrog,1961
+George Jones ,true ,1 ,She Thinks I Still Care,1962
+Billy Walker ,true ,2 ,Charlie's Shoes,1962
+Patsy Cline ,true ,3 ,She's Got You,1962
+Claude King ,true ,4 ,Wolverton Mountain,1962
+Leroy Van Dyke ,true ,5 ,If A Woman Answers (Hang Up The Phone),1962
+Porter Wagoner ,true ,6 ,Misery Loves Company,1962
+Jimmy Dean ,true ,7 ,P.T. 109,1962
+Walter Brennan ,true ,8 ,Old Rivers,1962
+Stonewall Jackson ,true ,9 ,A Wound Time Can't Erase,1962
+Willie Nelson ,true ,10 ,Willingly,1962
+Burl Ives ,true ,11 ,Funny Way Of Laughin',1962
+Don Gibson ,true ,12 ,I Can Mend Your Broken Heart,1962
+Faron Young ,true ,13 ,Three Days,1962
+Wilburn Brothers ,true ,14 ,Trouble's Back In Town,1962
+Webb Pierce ,true ,15 ,Alla My Love,1962
+Flatt &amp; Scruggs ,true ,16 ,Just Ain't,1962
+Kitty Wells ,true ,17 ,Unloved Unwanted,1962
+Jim Reeves ,false ,18 ,Adios Amigo,1962
+James O'Gwynn ,true ,19 ,My Name Is Mud,1962
+Burl Ives ,true ,20 ,A Little Bitty Tear,1962
+Webb Pierce ,false ,21 ,Crazy Wild Desire,1962
+Charlie ,true ,22 ,I Guess I'll Never Learn,1962
+Ferlin Husky ,false ,23 ,Somebody Save Me,1962
+David Allan Coe And Bill Anderson ,true ,24 ,Get A Little Dirt On Your Hands,1962
+George Jones ,true ,25 ,Sometimes You Just Can't Win,1962
+Buck Owens ,true ,26 ,Nobody's Fool But Yours,1962
+Willie Nelson ,false ,27 ,Touch Me,1962
+Johnny Horton ,true ,28 ,Honky-Tonk Man,1962
+Carl Smith ,true ,29 ,The Best Dressed Beggar (In Town),1962
+Patti Page ,true ,30 ,Go On Home,1962
+Bill Anderson ,true ,1 ,Still,1963
+Hawkshaw Hawkins ,true ,2 ,Lonesome 7-7203,1963
+Buck Owens And Ringo Starr ,true ,3 ,Act Naturally,1963
+Faron Young ,true ,4 ,The Yellow Bandana,1963
+Jim Reeves ,true ,5 ,Is This Me?,1963
+Patsy Cline ,true ,6 ,Sweet Dreams (Of You),1963
+Skeeter Davis ,true ,7 ,The End Of The World,1963
+Justin Tubb ,true ,8 ,Take A Letter, Miss Gray,1963
+Hank Snow ,true ,9 ,The Man Who Robbed The Bank At Santa Fe,1963
+George Jones &amp; Melba Montgomery ,true ,10 ,We Must Have Been Out Of Our Minds,1963
+Wilburn Brothers ,true ,11 ,Roll Muddy River,1963
+Ray Price ,true ,12 ,Walk Me To The Door,1963
+Ray Price ,true ,13 ,You Took Her Off My Hands (Now Please Take Her Off My Mind),1963
+George Jones ,true ,14 ,Not What I Had In Mind,1963
+Johnny A. ,true ,15 ,Don't Call Me From A Honky Tonk,1963
+Flatt &amp; Scruggs ,true ,16 ,Pearl Pearl Pearl,1963
+Eddy Arnold ,true ,17 ,Yesterday's Memories,1963
+Cowboy Copas ,true ,18 ,Goodbye Kisses,1963
+Del Reeves ,true ,19 ,The Only Girl I Can't Forget,1963
+Don Gibson ,true ,20 ,Head Over Heels In Love With You,1963
+Country Johnny Mathis ,true ,21 ,Please Talk To My Heart,1963
+Skeeter Davis ,false ,22 ,I'm Saving My Love,1963
+Judy Lynn ,true ,23 ,My Father's Voice,1963
+Patsy Cline ,true ,24 ,Leavin' On Your Mind,1963
+Bill Goodwin ,true ,25 ,Shoes Of A Fool,1963
+Stonewall Jackson ,true ,26 ,Old Showboat,1963
+Kitty Wells ,true ,27 ,Cold And Lonely (Is The Forecast For Tonight),1963
+Benny Martin ,false ,28 ,Rosebuds And You,1963
+Buddy Cagle ,true ,29 ,Your Mother's Prayer,1963
+Ned Miller ,false ,30 ,One Among The Many,1963
+Buck Owens ,true ,1 ,My Heart Skips A Beat,1964
+Ray Price ,true ,2 ,Burning Memories,1964
+Johnny Cash ,true ,3 ,Understand Your Man,1964
+Buck Owens ,true ,4 ,Together Again,1964
+Jim Reeves ,true ,5 ,Welcome To My World,1964
+Sonny James ,true ,6 ,Baltimore,1964
+Jim Reeves ,true ,7 ,Love Is No Excuse,1964
+Loretta Lynn ,true ,8 ,Wine Women And Song,1964
+Faron Young ,true ,9 ,Keeping Up With The Joneses,1964
+Kitty Wells ,true ,10 ,This White Circle On My Finger,1964
+Porter Wagoner ,true ,11 ,Sorrow On The Rocks,1964
+Hank Snow ,true ,12 ,Breakfast With The Blues,1964
+Ned Miller ,true ,13 ,Invisible Tears,1964
+Lefty Frizzell ,true ,14 ,Saginaw, Michigan,1964
+Hank Locklin ,true ,15 ,Followed Closely By My Teardrops,1964
+Skeeter Davis ,true ,16 ,Gonna Get Along Without You Now,1964
+David Houston ,true ,17 ,Chickashay,1964
+Jim Nesbitt ,true ,18 ,Looking For More In '64,1964
+Hank Williams Jr. ,true ,19 ,Long Gone Lonesome Blues,1964
+Ferlin Husky ,true ,20 ,Timber I'm Falling,1964
+Johnny &amp; Jonie Mosby ,true ,21 ,Keep Those Cards And Letters Coming In,1964
+Roy Drusky ,true ,22 ,Pick Of The Week,1964
+Ernest ,true ,23 ,A Week In The Country,1964
+Billy Walker ,true ,24 ,Circumstances,1964
+Stonewall Jackson ,true ,25 ,Not My Kind Of People,1964
+Webb Pierce ,true ,26 ,Memory #1,1964
+Bill Anderson ,true ,27 ,Easy Come-Easy Go,1964
+Eddy Arnold ,true ,28 ,Molly,1964
+Johnny Wright ,true ,29 ,Walkin', Talkin', Cryin', Barely Beatin' Broken Heart,1964
+Tillman Franks Singers ,true ,30 ,When The World's On Fire,1964
+Flatt &amp; Scruggs ,true ,31 ,You Are My Flower,1964
+Johnny Sea ,true ,32 ,My Baby Walks All Over Me,1964
+Marion Worth ,true ,33 ,You Took Him Off My Hands (Now Please Take Him Off My Mind),1964
+George Jones ,true ,34 ,Your Heart Turned Left (And I Was On The Right),1964
+Bob Jennings ,true ,35 ,The First Step Down (Is The Longest),1964
+The Browns ,true ,36 ,Then I'll Stop Loving You,1964
+Bill Phillips ,true ,37 ,I Can Stand It (As Long As She Can),1964
+Jimmy C. Newman ,true ,38 ,Angel On Leave,1964
+Ernest Tubb ,false ,39 ,Be Better To Your Baby,1964
+Jimmy C. Newman ,false ,40 ,Summer Skies And Golden Sands,1964
+Margie ,true ,41 ,Understand Your Gal,1964
+Jean Shepard ,false ,42 ,Second Fiddle (To An Old Guitar),1964
+Wanda Jackson ,true ,44 ,The Violet And A Rose,1964
+Kitty Wells ,false ,45 ,Password,1964
+Marion Worth &amp; George Morgan ,true ,46 ,Slipping Around,1964
+Claude Gray ,true ,47 ,Eight Years (And Two Children Later),1964
+Norma Jean ,false ,48 ,I'm A Walkin' Advertisement (For The Blues),1964
+Bobby Bare ,true ,49 ,Miller's Cave,1964
+Billy Walker ,true ,50 ,It's Lonesome,1964
+Jim Reeves ,true ,1 ,This Is It,1965
+Del Reeves ,true ,2 ,Girl On The Billboard,1965
+Eddy Arnold ,true ,3 ,What's He Doing In My World,1965
+Sonny James ,true ,4 ,I'll Keep Holding On (Just To Your Love),1965
+Kitty Wells ,true ,5 ,You Don't Hear,1965
+Marty Robbins ,true ,6 ,Ribbon Of Darkness,1965
+Charlie Louvin ,true ,7 ,See The Big Man Cry,1965
+Dick Curless ,true ,8 ,A Tombstone Every Mile,1965
+Billy Walker ,true ,9 ,Matamoros,1965
+Johnny Bond ,true ,10 ,10 Little Bottles,1965
+George Jones ,true ,11 ,Things Have Gone To Pieces,1965
+Bill Anderson ,true ,12 ,Certain,1965
+Connie Smith ,true ,13 ,Then And Only Then,1965
+Roger Miller ,true ,14 ,King Of The Road,1965
+Stonewall Jackson ,true ,15 ,I Washed My Hands In Muddy Water,1965
+George &amp; Gene ,true ,16 ,I've Got Five Dollars And It's Saturday Night,1965
+Buck Owens ,true ,17 ,Before You Go,1965
+Dave Dudley ,true ,18 ,Two Six Packs Away,1965
+Johnny Sea ,true ,19 ,My Old Faded Rose,1965
+Hank Snow ,true ,20 ,The Wishing Well (Down In The Well),1965
+Porter Wagoner ,true ,21 ,I'm Gonna Feed You Now,1965
+Carl Butler &amp; Pearl ,true ,22 ,Just Thought I'd Let You Know,1965
+Buck Owens ,true ,23 ,I've Got A Tiger By The Tail,1965
+Lefty Frizzell ,true ,24 ,She's Gone Gone Gone,1965
+Loretta Lynn ,true ,25 ,Blue Kentucky Girl,1965
+Webb Pierce ,true ,26 ,Loving You Then Losing You,1965
+Jimmy Newman ,true ,27 ,Back In Circulation,1965
+Roy Drusky ,true ,28 ,(From Now On All My Friends Are Gonna Be) Strangers,1965
+Ernest ,true ,29 ,Because I Cared,1965
+Johnny Cash ,true ,30 ,Orange Blossom Special,1965
+'Little Jimmy Dickens' ,true ,32 ,He Stands Real Tall,1965
+Kitty Wells ,true ,33 ,Six Lonely Hours,1965
+Johnny Wright ,true ,34 ,Blame It On The Moonlight,1965
+Skeeter Davis ,true ,35 ,A Dear John Letter,1965
+Merle Haggard ,true ,36 ,(My Friends Are Gonna Be) Strangers,1965
+Roger Miller ,true ,37 ,Engine Engine #9,1965
+Roy Drusky ,false ,38 ,Yes, Mr. Peters,1965
+Hank Locklin ,true ,39 ,Forty Nine, Fifty One,1965
+Norma Jean ,true ,40 ,I Cried All The Way To The Bank,1965
+Faron Young ,true ,41 ,Walk Tall,1965
+Connie Smith ,true ,42 ,Tiny Blue Transistor Radio,1965
+Willie Nelson ,true ,43 ,She's Not For You,1965
+Ned Miller ,true ,44 ,Do What You Do Do Well,1965
+Jody Miller ,false ,45 ,Queen Of The House,1965
+Roy Acuff ,true ,46 ,Freight Train Blues,1965
+Dottie West ,true ,47 ,Gettin' Married Has Made Us Strangers,1965
+Wilburn Brothers ,false ,48 ,I Had One Too Many,1965
+Warner Mack ,false ,49 ,The Bridge Washed Out,1965
+Tex Williams ,false ,50 ,Too Many Tigers,1965
+Jim Reeves ,true ,1 ,Distant Drums,1966
+Sonny James ,true ,2 ,Take Good Care Of Her,1966
+Buddy Starcher ,true ,3 ,History Repeats Itself,1966
+Bill Anderson ,true ,4 ,I Love You Drops,1966
+Warner Mack ,true ,5 ,Talkin' To The Wall,1966
+The Harden Trio ,true ,6 ,Tippy Toeing,1966
+Dottie West ,true ,7 ,Would You Hold It Against Me,1966
+Bill Phillips ,true ,8 ,Put It Off Until Tomorrow,1966
+Bonnie Guitar ,true ,9 ,I'm Living In Two Worlds,1966
+Jimmy Newman ,true ,10 ,Back Pocket Money,1966
+Jeannie Seely ,true ,11 ,Don't Touch Me,1966
+George Jones ,true ,12 ,I'm A People,1966
+Jean Shepard ,true ,13 ,Many Happy Hangovers To You,1966
+Eddy Arnold ,true ,14 ,I Want To Go With You,1966
+Claude King ,true ,15 ,Catch A Little Raindrop,1966
+Ray Price ,true ,16 ,A Way To Survive,1966
+Johnny Cash ,true ,17 ,The One On The Right Is On The Left,1966
+Conway Twitty ,true ,18 ,Guess My Eyes Were Bigger Than My Heart,1966
+Johnny Dollar ,true ,19 ,Stop The Start (Of Tears In My Heart),1966
+Merle Haggard ,true ,20 ,Swinging Doors,1966
+Wilburn Brothers ,true ,21 ,Someone Before Me,1966
+Connie Smith ,true ,22 ,Nobody But A Fool (Would Love You),1966
+Liz Anderson ,true ,23 ,Go Now Pay Later,1966
+Slim Whitman ,true ,24 ,The Twelfth Of Never,1966
+Stonewall Jackson ,true ,25 ,The Minute Men (Are Turning In Their Graves),1966
+Roy Drusky ,true ,26 ,Rainbows And Roses,1966
+Porter Wagoner ,true ,27 ,I Just Came To Smell The Flowers,1966
+Norma Jean ,true ,28 ,The Shirt,1966
+Eddy Arnold ,true ,29 ,The Last Word In Lonesome Is Me,1966
+Don Gibson ,true ,30 ,(Yes) I'm Hurting,1966
+Wilma Burgess ,true ,31 ,Don't Touch Me,1966
+Buddy Cagle ,true ,32 ,Tonight I'm Coming Home,1966
+Hank Snow ,true ,33 ,The Count Down,1966
+Roger Miller ,true ,34 ,Husbands And Wives,1966
+Buck Owens and The Buckaroos ,true ,35 ,Think Of Me,1966
+Jan Howard ,true ,36 ,Evil On Your Mind,1966
+George Hamilton IV ,true ,37 ,Steel Rail Blues,1966
+Dave Dudley ,true ,38 ,Viet Nam Blues,1966
+Ray Pillow ,true ,39 ,Common Colds And Broken Hearts,1966
+Jean Shepard ,true ,40 ,I'll Take The Dog,1966
+Sheb Wooley ,true ,41 ,I'll Leave The Singin' To The Bluebirds,1966
+Buck Owens ,true ,42 ,Waitin' In Your Welfare Line,1966
+Stu Phillips ,true ,43 ,Bracero,1966
+Ernest Tubb ,true ,44 ,Till My Getup Has Gotup And Gone,1966
+Freddie Hart ,true ,45 ,Why Should I Cry Over You,1966
+Van Trevor ,true ,46 ,Born To Be In Love With You,1966
+Del Reeves ,true ,47 ,One Bum Town,1966
+Webb Pierce ,true ,48 ,You Ain't No Better Than Me,1966
+Hank Williams Jr. ,false ,49 ,Standing In The Shadows,1966
+SSgt Barry Sadler ,false ,50 ,'The A Team',1966
+Buck Owens and The Buckaroos ,true ,1 ,Sam's Place,1967
+Wynn Stewart ,true ,2 ,It's Such A Pretty World Today,1967
+Merle Haggard ,true ,3 ,I Threw Away The Rose,1967
+Tammy Wynette ,true ,4 ,Your Good Girl's Gonna Go Bad,1967
+Lynn Anderson ,true ,5 ,If I Kiss You (Will You Go Away),1967
+Jack Greene ,true ,6 ,All The Time,1967
+Johnny Cash &amp; June Carter ,true ,7 ,Jackson,1967
+Roger Miller ,true ,8 ,Walkin' In The Sunshine,1967
+Johnny Darrell ,true ,9 ,Ruby, Don't Take Your Love To Town,1967
+Ray Price ,true ,10 ,Danny Boy,1967
+Dottie West ,true ,11 ,Paper Mansions,1967
+Sonny James ,true ,12 ,Need You,1967
+Waylon Jennings ,true ,13 ,Mental Revenge,1967
+Mel Tillis ,true ,14 ,Life Turned Her That Way,1967
+David Houston ,true ,15 ,With One Exception,1967
+Liz Anderson ,true ,16 ,Mama Spank,1967
+Connie Smith ,true ,17 ,I'll Come Runnin',1967
+Tex Ritter ,true ,18 ,Just Beyond The Moon,1967
+Billy Walker ,true ,19 ,Anything Your Heart Desires,1967
+Johnny Paycheck ,true ,20 ,Jukebox Charlie,1967
+Country Charley Pride ,true ,21 ,I Know One,1967
+George Jones ,true ,22 ,Walk Through This World With Me,1967
+Eddy Arnold ,true ,23 ,Misty Blue,1967
+The Harden Trio ,true ,24 ,Sneaking 'Cross The Border,1967
+Willis ,true ,25 ,Bob,1967
+Wilma Burgess ,true ,26 ,Fifteen Days,1967
+Warner Mack ,true ,27 ,Drifting Apart,1967
+Eddy Arnold ,true ,28 ,Lonely Again,1967
+'Little Jimmy Dickens' ,true ,29 ,Country Music Lover,1967
+Jim &amp; Jesse ,true ,30 ,Diesel On My Tail,1967
+Nat Stuckey ,true ,31 ,All My Tomorrows,1967
+Porter Wagoner ,true ,32 ,The Cold Hard Facts Of Life,1967
+Wanda Jackson ,true ,33 ,Both Sides Of The Line,1967
+Willie Nelson ,true ,34 ,The Party's Over,1967
+Wilburn Brothers ,true ,35 ,Roarin' Again,1967
+Dave Dudley ,true ,36 ,My Kind Of Love,1967
+The Statler Brothers ,true ,37 ,Ruthless,1967
+Bobby Bare ,true ,38 ,Charleston Railroad Tavern,1967
+George Hamilton IV ,true ,39 ,Urge For Going,1967
+Claude King ,true ,40 ,The Watchman,1967
+Ray Pennington ,true ,41 ,Ramblin' Man,1967
+Loretta Lynn ,true ,42 ,If You're Not Gone Too Long,1967
+Stonewall Jackson ,true ,43 ,Stamp Out Loneliness,1967
+George Morgan ,true ,44 ,I Couldn't See,1967
+Webb Pierce ,true ,45 ,Goodbye City, Goodbye Girl,1967
+Stonemans ,true ,46 ,Back To Nashville, Tennessee,1967
+Hank Snow ,true ,47 ,Down At The Pawn Shop,1967
+Norma Jean ,true ,48 ,Conscience Keep An Eye On Me,1967
+Robert Mitchum ,true ,49 ,Little Old Wine Drinker Me,1967
+Bonnie Guitar ,true ,50 ,You Can Steal Me,1967
+Bobby Goldsboro ,true ,1 ,Honey,1968
+Glen Campbell ,true ,2 ,I Wanna Live,1968
+Bill Anderson ,true ,3 ,Wild Week-End,1968
+Waylon Jennings &amp; Anita Carter ,true ,4 ,I Got You,1968
+Jerry Lee Lewis ,true ,5 ,Another Place Another Time,1968
+Merle Haggard ,true ,6 ,The Legend Of Bonnie And Clyde,1968
+Conway Twitty ,true ,7 ,The Image Of Me,1968
+David Houston ,true ,8 ,Have A Little Faith,1968
+Buck Owens ,true ,9 ,Sweet Rosie Jones,1968
+Lynn Anderson ,true ,10 ,No Another Time,1968
+Loretta Lynn ,true ,11 ,Fist City,1968
+Porter Wagoner And Dolly Parton ,true ,12 ,Holding On To Nothin',1968
+Wynn Stewart ,true ,13 ,Something Pretty,1968
+Faron Young ,true ,14 ,She Went A Little Bit Farther,1968
+Henson Cargill ,true ,15 ,Row Row Row,1968
+Johnny Darrell ,true ,16 ,With Pen In Hand,1968
+Leon Ashley ,true ,17 ,Mental Journey,1968
+Del Reeves ,true ,18 ,Wild Blood,1968
+Jim Reeves ,true ,19 ,That's When I See The Blues (In Your Pretty Brown Eyes),1968
+Tammy Wynette ,true ,20 ,D-I-V-O-R-C-E,1968
+Slim Whitman ,true ,21 ,Rainbows Are Back In Style,1968
+Roger Miller ,true ,22 ,Little Green Apples,1968
+Dave Dudley ,true ,23 ,There Ain't No Easy Run,1968
+Jerry Reed ,true ,24 ,Remembering,1968
+Jimmy Dean ,true ,25 ,A Thing Called Love,1968
+Marty Robbins ,true ,26 ,Love Is In The Air,1968
+Dottie West ,true ,27 ,Country Girl,1968
+Charlie Louvin ,true ,28 ,Will You Visit Me On Sundays?,1968
+Jan Howard ,true ,29 ,Count Your Blessings, Woman,1968
+Johnny Bush ,true ,30 ,What A Way To Live,1968
+Billy Walker ,true ,31 ,Sundown Mary,1968
+Kenny Price ,true ,32 ,Going Home For The Last Time,1968
+Ray Price ,true ,33 ,I've Been There Before,1968
+Roy Drusky ,true ,34 ,You Better Sit Down Kids,1968
+Arlene ,true ,35 ,He's A Good Ole Boy,1968
+Charley Pride ,true ,36 ,The Easy Part's Over,1968
+Bobby Lewis ,true ,37 ,Ordinary Miracle,1968
+Van Trevor ,true ,38 ,Take Me Along With You,1968
+George Jones ,true ,39 ,Small Time Laboring Man,1968
+Connie Smith ,true ,40 ,Run Away Little Tears,1968
+Hugh X. Lewis ,true ,41 ,Evolution And The Bible,1968
+Jack Greene ,true ,42 ,You Are My Treasure,1968
+Dallas Frazier ,true ,43 ,The Sunshine Of My World,1968
+Elton Britt ,true ,44 ,The Jimmie Rodgers Blues,1968
+Wanda Jackson ,true ,45 ,My Baby Walked Right Out On Me,1968
+Bobby Lord ,true ,46 ,Live Your Life Out Loud,1968
+Jimmy Newman ,true ,47 ,Sunshine And Bluebirds,1968
+Warner Mack ,true ,48 ,I'm Gonna Move On,1968
+Marion Worth ,true ,49 ,Mama Sez,1968
+Ray Griff ,true ,50 ,The Sugar From My Candy,1968
+Tammy Wynette ,true ,1 ,Singing My Song,1969
+George Jones ,true ,2 ,I'll Share My World With You,1969
+Freddy Weller ,true ,3 ,Games People Play,1969
+Bill Anderson ,true ,4 ,My Life (Throw It Away If I Want To),1969
+Bobby Bare ,true ,5 ,(Margie's At) The Lincoln Park Inn,1969
+Billie Jo Spears ,true ,6 ,Mr. Walker, It's All Over,1969
+Jim Reeves ,true ,7 ,When Two Worlds Collide,1969
+Jeannie C. Riley ,true ,8 ,There Never Was A Time,1969
+Johnny Bush ,true ,9 ,You Gave Me A Mountain,1969
+Eddy Arnold ,true ,10 ,Please Don't Go,1969
+Tompall &amp; The Glaser Brothers ,true ,11 ,California Girl (And The Tennessee Square),1969
+Dave Dudley ,true ,12 ,One More Mile,1969
+Doug Kershaw With Hank Williams, Jr. ,true ,13 ,Cajun Baby,1969
+Sonny James ,true ,14 ,Running Bear,1969
+Merle Haggard ,true ,15 ,Hungry Eyes,1969
+Conway Twitty ,true ,16 ,I Love You More Today,1969
+Dottie West ,true ,17 ,Rings Of Gold,1969
+Glen Campbell ,true ,18 ,Galveston,1969
+Dolly Parton ,true ,19 ,Yours Love,1969
+Jerry Reed ,true ,20 ,There's Better Things In Life,1969
+Wynn Stewart ,true ,21 ,Let The Whole World Sing It With Me,1969
+Johnny Darrell ,true ,22 ,Why You Been Gone So Long,1969
+Mel Tillis ,true ,23 ,Old Faithful,1969
+Leon Ashley ,true ,24 ,Walkin' Back To Birmingham,1969
+Ray Price ,true ,25 ,Sweetheart Of The Year,1969
+Bobby Goldsboro ,true ,26 ,I'm A Drifter,1969
+Warner Mack ,true ,27 ,Leave My Dream Alone,1969
+Jack Greene ,true ,28 ,Statue Of A Fool,1969
+Billy Walker ,true ,29 ,Smoky Places,1969
+Charlie Louvin ,true ,30 ,Let's Put Our World Back Together,1969
+George Morgan ,true ,31 ,Like A Bird,1969
+Don Gibson ,true ,32 ,Solitary,1969
+Glen Campbell ,true ,33 ,Where's The Playground Susie,1969
+Jim Ed Brown ,true ,34 ,Man And Wife Time,1969
+Connie Smith ,true ,35 ,Ribbon Of Darkness,1969
+Loretta Lynn ,true ,36 ,Woman Of The World (Leave My World Alone),1969
+Del Reeves ,true ,37 ,Be Glad,1969
+Johnny Carver ,true ,38 ,Sweet Wine,1969
+Buck Owens ,true ,39 ,Johnny B. Goode,1969
+Dolly Parton ,true ,40 ,Daddy,1969
+Billy Mize ,true ,41 ,Make It Rain,1969
+Jack Reno ,true ,42 ,I'm A Good Man (In A Bad Frame Of Mind),1969
+Claude King ,true ,43 ,All For The Love Of A Girl,1969
+Jeannie Seely ,true ,44 ,Just Enough To Start Me Dreamin',1969
+Tom T. Hall ,true ,45 ,Strawberry Farms,1969
+Norma Jean ,true ,46 ,Dusty Road,1969
+Arlene ,true ,47 ,Too Much Of A Man (To Be Tied Down),1969
+Jerry Lee Lewis ,false ,48 ,One Has My Name (The Other Has My Heart),1969
+Waylon Jennings ,false ,49 ,Delia's Gone,1969
+Carl Smith ,true ,50 ,Good Deal, Lucille,1969
+Sonny James ,true ,1 ,My Love,1970
+Conway Twitty ,true ,2 ,Hello Darlin',1970
+Johnny Cash ,true ,3 ,What Is Truth,1970
+David Houston ,true ,4 ,I Do My Swinging At Home,1970
+Dave Dudley ,true ,5 ,The Pool Shark,1970
+Charley Pride ,true ,6 ,Is Anybody Goin' To San Antone,1970
+George Hamilton IV ,true ,7 ,She's A Little Bit Country,1970
+Tom T. Hall ,true ,8 ,Shoeshine Man,1970
+Merle Haggard ,true ,9 ,Street Singer,1970
+Mel Tillis ,true ,10 ,Heart Over Mind,1970
+Bill Anderson ,true ,11 ,Love Is A Sometimes Thing,1970
+Tommy Cash ,true ,12 ,Rise And Shine,1970
+Waylon Jennings ,true ,13 ,Singer Of Sad Songs,1970
+Jerry Lee Lewis ,true ,14 ,I Can't Seem To Say Goodbye,1970
+Arlene ,true ,15 ,Lovin' Man (Oh Pretty Woman),1970
+Roy Drusky ,true ,16 ,Long Long Texas Road,1970
+George Morgan ,true ,17 ,Lilacs And Fire,1970
+Buck Owens ,true ,18 ,Togetherness,1970
+Tammy Wynette ,true ,19 ,He Loves Me All The Way,1970
+Lynn Anderson ,true ,20 ,Stay There 'til I Get There,1970
+Marty Robbins ,true ,21 ,My Woman, My Woman, My Wife,1970
+Jack Blanchard &amp; Misty Morgan ,true ,22 ,Tennessee Bird Walk,1970
+Loretta Lynn ,true ,23 ,I Know How,1970
+Warner Mack ,true ,24 ,Love Hungry,1970
+Glen Campbell ,true ,25 ,Oh Happy Day,1970
+John Wesley Ryles, I ,true ,26 ,I've Just Been Wasting My Time,1970
+Wanda Jackson ,true ,27 ,A Woman Lives For Love,1970
+Jean Shepard ,true ,28 ,A Woman's Hand,1970
+Ray Price ,true ,29 ,You Wouldn't Know Love,1970
+Bobby Lord ,true ,30 ,You And Me Against The World,1970
+Slim Whitman ,true ,31 ,Tomorrow Never Comes,1970
+Ferlin Husky ,true ,32 ,Heavenly Sunshine,1970
+The Glaser Brothers ,true ,33 ,All That Keeps Ya Goin',1970
+Johnny &amp; Jonie Mosby ,true ,34 ,I'm Leavin' It Up To You,1970
+Dick Curless ,true ,35 ,Big Wheel Cannonball,1970
+Henson Cargill ,true ,36 ,The Most Uncomplicated Goodbye I've Ever Heard,1970
+Connie Smith ,true ,37 ,I Never Once Stopped Loving You,1970
+Buddy Alan ,true ,38 ,Down In New Orleans,1970
+Ray Stevens ,true ,39 ,Everything Is Beautiful,1970
+Bobby G. Rice ,true ,40 ,Sugar Shack,1970
+Don Gibson ,true ,41 ,Don't Take All Your Loving,1970
+Hank Williams Jr. ,true ,42 ,I Walked Out On Heaven,1970
+Nat Stuckey ,true ,43 ,Old Man Willis,1970
+Johnny Duncan ,true ,44 ,You're Gonna Need A Man,1970
+Bill Wilbourn &amp; Kathy Morrison ,true ,45 ,A Good Thing,1970
+Johnny Bush ,true ,46 ,Warmth Of The Wine,1970
+Faron Young ,false ,47 ,If I Ever Fall In Love (With A Honky Tonk Girl),1970
+Lewie Wickham ,true ,48 ,Little Bit Late,1970
+Lawanda Lindsey ,true ,49 ,Pickin' Wild Mountain Berries,1970
+Billy Walker ,true ,50 ,Darling Days,1970
+Ray Price ,true ,1 ,I Won't Mention It Again,1971
+Conway Twitty ,true ,2 ,How Much More Can She Stand,1971
+Jerry Lee Lewis ,true ,3 ,Touching Home,1971
+Jeannie C. Riley ,true ,4 ,Oh, Singer,1971
+Lynn Anderson ,true ,5 ,You're My Man,1971
+Loretta Lynn ,true ,6 ,I Wanna Be Free,1971
+Hank Williams Jr. ,true ,7 ,I've Got A Right To Cry,1971
+Dave Dudley ,true ,8 ,Comin' Down,1971
+Johnny Cash ,true ,9 ,Man In Black,1971
+Jerry Reed ,true ,10 ,When You're Hot, You're Hot,1971
+Roger Miller ,true ,11 ,Tomorrow Night In Baltimore,1971
+Glen Campbell ,true ,12 ,Dream Baby (How Long Must I Dream),1971
+Jack Greene ,true ,13 ,There's A Whole Lot About A Woman (A Man Don't Know)/Makin' Up His Mind,1971
+Bill Anderson ,true ,14 ,Always Remember,1971
+Tommy Overstreet ,true ,15 ,Gwen (Congratulations),1971
+Waylon Jennings ,true ,16 ,Mississippi Woman,1971
+Faron Young ,true ,17 ,Step Aside,1971
+Jim Ed Brown ,true ,18 ,Angel's Sunday,1971
+Jim Reeves ,true ,19 ,Gypsy Feet,1971
+Buck Owens ,true ,20 ,Ruby (Are You Mad),1971
+Charley Pride ,true ,21 ,Let Me Live/Did You Think To Pray,1971
+Sonny James ,true ,22 ,Empty Arms,1971
+Dolly Parton ,true ,23 ,Comin' For To Carry Me Home,1971
+Claude King ,true ,24 ,Chip 'N' Dale's Place,1971
+Connie Smith ,true ,25 ,Just One Time,1971
+Slim Whitman ,true ,26 ,Something Beautiful (To Remember),1971
+George Jones ,true ,27 ,Sometimes You Just Can't Win,1971
+Tammy Wynette ,true ,28 ,We Sure Can Love Each Other,1971
+Lamar Morris ,true ,29 ,If You Love Me (Really Love Me),1971
+Billy Walker ,true ,30 ,It's Time To Love Her,1971
+Tom T. Hall ,true ,31 ,Ode To A Half A Pound Of Ground Round,1971
+The Statler Brothers ,true ,32 ,New York City,1971
+Del Reeves ,true ,33 ,Working Like The Devil (For The Lord),1971
+Red Lane ,true ,34 ,The World Needs A Melody,1971
+Arlene ,true ,35 ,Married To A Memory,1971
+June Carter Cash ,true ,36 ,A Good Man,1971
+Hank Thompson ,true ,37 ,Next Time I Fall In Love (I Won't),1971
+HARLAN ,true ,38 ,Sunday Morning Christian,1971
+Nat Stuckey ,true ,39 ,Only A Woman Like You,1971
+Ferlin Husky ,true ,40 ,One More Time,1971
+Porter Wagoner ,true ,41 ,Charley's Picture,1971
+Patti Page ,true ,42 ,Make Me Your Kind Of Woman,1971
+Susan Raye ,true ,43 ,L.A. International Airport,1971
+Anne Murray ,true ,44 ,A Stranger In My Place,1971
+Bobby Bare ,true ,45 ,Please Don't Tell Me How The Story Ends,1971
+'Billy Crash Craddock' ,true ,46 ,Knock Three Times,1971
+Roy Clark ,true ,47 ,A Simple Thing As Love,1971
+Sammi Smith ,true ,48 ,Then You Walk In,1971
+Johnny Duncan ,true ,49 ,There's Something About A Lady,1971
+Marty Robbins ,true ,50 ,The Chair,1971
+Conway Twitty ,true ,1 ,(Lost Her Love) On Our Last Date,1972
+Donna Fargo ,true ,2 ,The Happiest Girl In The Whole Usa,1972
+Ray Price ,true ,3 ,The Lonesomest Lonesome/That's What Leaving's About,1972
+Merle Haggard ,true ,4 ,Grandma Harp/Turnin' Off A Memory,1972
+Jerry Lee Lewis ,true ,5 ,Chantilly Lace/Think About It Darlin',1972
+Bill Anderson ,true ,6 ,All The Lonely Women In The World,1972
+Glen Campbell ,true ,7 ,Manhattan Kansas,1972
+Tom T. Hall ,true ,8 ,Me And Jesus,1972
+Buck Owens ,true ,9 ,Made In Japan,1972
+'Billy Crash Craddock' ,true ,10 ,Ain't Nothin' Shakin' (But The Leaves On The Trees),1972
+Hank Williams Jr. ,true ,11 ,Eleven Roses,1972
+Johnny Cash And The Tennessee Three ,true ,12 ,Kate,1972
+The Statler Brothers ,true ,13 ,Do You Remember These,1972
+Connie Smith ,true ,14 ,Just For What I Am,1972
+Porter Wagoner And Dolly Parton ,true ,15 ,Lost Forever In Your Kiss,1972
+Bobby Bare ,true ,16 ,What Am I Gonna Do,1972
+Hank Williams, Jr. &amp; Lois Johnson ,true ,17 ,Send Me Some Lovin',1972
+Johnny Paycheck ,true ,18 ,Someone To Give My Love To,1972
+Dolly Parton ,true ,19 ,Touch Your Woman,1972
+Dave Dudley ,true ,20 ,If It Feels Good Do It,1972
+Sonny James ,true ,21 ,That's Why I Love You Like I Do,1972
+Jody Miller ,true ,22 ,Be My Baby,1972
+Tony Booth ,true ,23 ,The Key's In The Mailbox,1972
+Barbara Mandrell ,true ,24 ,Show Me,1972
+Hank Thompson ,true ,25 ,Cab Driver,1972
+Cal Smith ,true ,26 ,I've Found Someone Of My Own,1972
+Johnny Duncan ,true ,27 ,Fools,1972
+Freddie Hart ,true ,28 ,My Hang-Up Is You,1972
+Johnny Bush ,true ,29 ,I'll Be There,1972
+Glenn Barber ,true ,30 ,I'm The Man On Susie's Mind,1972
+Tammy Wynette ,true ,31 ,Reach Out Your Hand,1972
+Jerry Reed ,true ,32 ,Smell The Flowers,1972
+Mel Tillis ,true ,33 ,Would You Want The World To End,1972
+Roger Miller ,true ,34 ,We Found It In Each Other's Arms/Sunny Side Of My Life,1972
+Arlene ,true ,35 ,A Special Day,1972
+Sammi Smith ,true ,36 ,Girl In New Orleans,1972
+Porter Wagoner ,true ,37 ,What Ain't To Be, Just Might Happen,1972
+Nat Stuckey ,true ,38 ,Is It Any Wonder That I Love You,1972
+Ferlin Husky ,true ,39 ,Just Plain Lonely,1972
+Jack Greene ,true ,40 ,If You Ever Need My Love,1972
+Tommy Cash ,true ,41 ,You're Everything,1972
+The Carter Family ,true ,42 ,Travelin' Minstrel Band,1972
+George Jones ,true ,43 ,Loving You Could Never Be Better,1972
+David Rogers ,true ,44 ,Need You,1972
+Mel Tillis ,true ,45 ,Anything's Better Than Nothing,1972
+Tanya Tucker ,true ,46 ,Delta Dawn,1972
+Charley Pride with Henry Mancini ,true ,47 ,All His Children,1972
+Dorsey Burnette ,true ,48 ,In The Spring (The Roses Always Turn Red),1972
+Jerry Wallace ,true ,49 ,To Get To You,1972
+Jeanne Pruett And Marty Robbins ,true ,50 ,Love Me,1972
+Jeanne Pruett ,true ,1 ,Satin Sheets,1973
+Tanya Tucker ,true ,2 ,What's Your Mama's Name,1973
+Conway Twitty ,true ,3 ,Baby's Gone,1973
+Charlie Rich ,true ,4 ,Behind Closed Doors,1973
+Johnny Rodriguez ,true ,5 ,You Always Come Back (To Hurting Me),1973
+Tammy Wynette ,true ,6 ,Kids Say The Darndest Things,1973
+Merle Haggard ,true ,7 ,The Emptiest Arms In The World,1973
+Joe Stampley ,true ,8 ,Bring It On Home (To Your Woman),1973
+Jody Miller ,true ,9 ,Good News,1973
+Johnny Carver ,true ,10 ,Yellow Ribbon,1973
+Mel Street ,true ,11 ,Walk Softly On The Bridges,1973
+Marty Robbins ,true ,12 ,Walking Piece Of Heaven,1973
+Roy Clark ,true ,13 ,Come Live With Me,1973
+Buck Owens ,true ,14 ,Ain't It Amazing, Gracie,1973
+Johnny Duncan ,true ,15 ,Sweet Country Woman,1973
+George Jones ,true ,16 ,What My Woman Can't Do,1973
+Tommy Overstreet ,true ,17 ,Send Me No Roses,1973
+Wayne Kemp ,true ,18 ,Honky Tonk Wine,1973
+Kris Kristofferson ,true ,19 ,Why Me,1973
+Susan Raye ,true ,20 ,Cheating Game,1973
+Connie Smith ,true ,21 ,You've Got Me (Right Where You Want Me),1973
+Bobby Bare ,true ,22 ,Ride Me Down Easy,1973
+Bill Anderson ,true ,23 ,If You Can Live With It (I Can Live Without It),1973
+Jerry Wallace ,true ,24 ,Sound Of Goodbye/The Song Nobody Sings,1973
+Freddy Weller ,true ,25 ,Too Much Monkey Business,1973
+Tom T. Hall ,true ,26 ,Ravishing Ruby,1973
+Diana Trask ,true ,27 ,Say When,1973
+Barbara Mandrell ,true ,28 ,Give A Little, Take A Little,1973
+Charley Pride ,true ,29 ,Don't Fight The Feelings Of Love,1973
+Jerry Lee Lewis ,true ,30 ,Drinking Wine Spo-dee O'dee,1973
+Brenda Lee ,true ,31 ,Nobody Wins,1973
+George Jones &amp; Tammy Wynette ,true ,32 ,Let's Build A World Together,1973
+Jim Ed Brown ,true ,33 ,Southern Loving,1973
+Johnny Cash ,true ,34 ,Children,1973
+Johnny Russell ,true ,35 ,Chained,1973
+Don Williams ,true ,36 ,Come Early Morning/Amanda,1973
+David Rogers ,true ,37 ,Just Thank Me,1973
+Jud Strunk ,true ,38 ,Daisy A Day,1973
+Mel Tillis ,true ,39 ,Thank You For Being You,1973
+Terri Lane ,true ,40 ,Daisy May (And Daisy May Not),1973
+Loretta Lynn ,true ,41 ,Love Is The Foundation,1973
+Tommy Cash ,true ,43 ,Workin' On A Feelin',1973
+Bobby G. Rice ,true ,44 ,You Give Me You,1973
+Vicki Lawrence ,true ,45 ,The Night The Lights Went Out In Georgia,1973
+Tony Booth ,true ,46 ,Loving You,1973
+Jack Greene ,true ,47 ,The Fool I've Been Today,1973
+Ferlin Husky ,true ,48 ,Between Me And Blue,1973
+Mac Davis ,true ,49 ,Your Side Of The Bed,1973
+Dottie West ,true ,50 ,Just What I've Been Looking For,1973
+Sandy Posey ,true ,51 ,Don't,1973
+Melba Montgomery ,true ,1 ,No Charge,1974
+Ronnie Milsap ,true ,2 ,Pure Love,1974
+Ray Stevens ,true ,3 ,The Streak,1974
+Roy Clark ,true ,4 ,Honeymoon Feelin',1974
+Dolly Parton ,true ,5 ,I Will Always Love You,1974
+Johnny Rodriguez ,true ,6 ,Something,1974
+Olivia Newton-John ,true ,7 ,If You Love Me (let Me Know),1974
+Dottie West ,true ,8 ,Last Time I Saw Him,1974
+Buck Owens ,true ,9 ,On The Cover Of The Music City News,1974
+Cal Smith ,true ,10 ,Country Bumpkin,1974
+Charley Pride ,true ,11 ,We Could,1974
+Sonny James ,true ,12 ,Is It Wrong (For Loving You),1974
+Diana Trask ,true ,13 ,Lean It All On Me,1974
+Mel Tillis ,true ,14 ,Don't Let Go,1974
+Jeanne Pruett ,true ,15 ,You Don't Need To Move A Mountain,1974
+Hoyt Axton ,true ,16 ,When The Morning Comes,1974
+Mickey Gilley ,true ,17 ,Room Full Of Roses,1974
+Moe Bandy ,true ,18 ,I Just Started Hatin' Cheatin' Songs Today,1974
+Waylon Jennings ,true ,19 ,This Time,1974
+Susan Raye ,true ,20 ,Stop The World (And Let Me Off),1974
+Faron Young ,true ,21 ,Some Kind Of A Woman,1974
+Willie Nelson ,true ,22 ,Bloody Mary Morning,1974
+Charlie Rich ,true ,23 ,I Don't See Me In Your Eyes Anymore,1974
+Terry Stafford ,true ,24 ,Captured,1974
+Don Williams ,true ,25 ,We Should Be Together,1974
+Joe Stampley ,true ,26 ,How Lucky Can One Man Be,1974
+Tina &amp; Daddy ,true ,27 ,The Telephone Call,1974
+Anne Murray ,true ,28 ,He Thinks I Still Care,1974
+Ray Price ,true ,29 ,Storms Of Troubled Times,1974
+Loretta Lynn ,true ,30 ,They Don't Make 'Em Like My Daddy,1974
+Johnny Carver ,true ,31 ,Country Lullabye,1974
+Johnny Paycheck ,true ,32 ,My Part Of Forever,1974
+Merle Haggard ,true ,33 ,Things Aren't Funny Anymore,1974
+Tommy Overstreet ,true ,34 ,(Jeannie Marie) You Were A Lady,1974
+David Houston ,true ,35 ,That Same Ol' Look Of Love,1974
+Charlie Rich ,true ,36 ,A Very Special Love Song,1974
+Lynn Anderson ,true ,37 ,Smile For Me,1974
+Karen Wheeler ,true ,38 ,Born To Love And Satisfy,1974
+Johnny Russell ,true ,39 ,She's In Love With A Rodeo Man,1974
+Conway Twitty ,true ,40 ,I'm Not Through Loving You Yet,1974
+Johnny Cash ,true ,41 ,Ragged Old Flag,1974
+Connie Smith ,true ,42 ,Dallas,1974
+Rex Allen Jr. ,true ,43 ,Goodbye,1974
+Jim Ed Brown ,true ,44 ,It's That Time Of Night,1974
+Jim Reeves ,true ,46 ,I'd Fight The World,1974
+Johnny Duncan ,true ,47 ,The Pillow,1974
+Bobby Bare ,true ,48 ,Marie Laveau,1974
+Hank Williams Jr. ,true ,49 ,Rainy Night In Georgia,1974
+Brian Shaw ,true ,50 ,Friend Named Red,1974
+La Costa ,true ,51 ,I Wanta Get To You,1974
+John Denver ,true ,1 ,Thank God I'm A Country Boy,1975
+Mickey Gilley ,true ,2 ,Window Up Above,1975
+Ray Stevens ,true ,3 ,Misty,1975
+Linda Ronstadt ,true ,4 ,When Will I Be Loved,1975
+Barbi Benton ,true ,5 ,Brass Buckles,1975
+Ronnie Milsap ,true ,6 ,Too Late To Worry, Too Blue To Cry,1975
+Charley Pride ,true ,7 ,I Ain't All Bad,1975
+T.G. Sheppard ,true ,8 ,Tryin' To Beat The Morning Home,1975
+Don Williams ,true ,9 ,You're My Best Friend,1975
+David Wills ,true ,10 ,From Barrooms To Bedrooms,1975
+Tanya Tucker ,true ,11 ,Lizzie And The Rainman,1975
+George Jones ,true ,12 ,These Days (I Barely Get By),1975
+Jessi Colter ,true ,13 ,I'm Not Lisa,1975
+Billy Walker ,true ,14 ,Word Games,1975
+Narvel Felts ,true ,15 ,Reconsider Me,1975
+Brenda Lee ,true ,16 ,He's My Rock,1975
+Eddie Rabbitt ,true ,17 ,Forgive And Forget,1975
+B.J. Thomas ,true ,18 ,(Hey Won't You Play) Another Somebody Done Somebody Wrong Song,1975
+Margo Smith ,true ,19 ,There I Said It,1975
+Sonny James ,true ,20 ,Little Band Of Gold,1975
+Roy Head ,true ,21 ,The Most Wanted Woman In Town,1975
+Freddie Hart ,true ,22 ,I'd Like To Sleep Til I Get Over You,1975
+Charlie Rich ,true ,23 ,It's All Over Now,1975
+Cal Smith ,true ,24 ,She Talked A Lot About Texas,1975
+Stoney Edwards ,true ,25 ,Mississippi You're On My Mind,1975
+Hank Williams Jr. ,true ,26 ,Where He's Going, I've Already Been/The Kind Of Woman I Got,1975
+Crystal Gayle ,true ,27 ,Beyond You,1975
+Don Gibson ,true ,28 ,(There She Goes) I Wish Her Well,1975
+Connie Cato ,true ,29 ,Hurt,1975
+Fiddlin' Frenchie Burke And The Outlaws ,true ,30 ,Colinda,1975
+Dave Dudley ,true ,31 ,Fireball Rolled A Seven,1975
+Bill Black's Combo ,true ,32 ,Boilin' Cabbage,1975
+Waylon Jennings ,true ,33 ,Dreaming My Dreams With You,1975
+Eddy Raven ,true ,34 ,Good News, Bad News,1975
+Price Mitchell And Rene Sloane ,true ,35 ,Personality,1975
+Tommy Overstreet ,true ,36 ,That's When My Woman Begins,1975
+Jim Mundy ,true ,37 ,She's Already Gone,1975
+Bobby G. Rice ,true ,38 ,Freda Comes, Freda Goes,1975
+Jeris Ross ,true ,39 ,Pictures On Paper,1975
+C.W. McCall ,true ,40 ,Classified,1975
+Ferlin Husky ,true ,41 ,Burning,1975
+Johnny Russell ,true ,42 ,Hello I Love You,1975
+Buck Owens ,true ,43 ,41st Street Lonely Hearts' Club/Weekend Daddy,1975
+Johnny Cash ,true ,44 ,My Old Kentucky Home (Turpentine And Dandelion Wine),1975
+Elvis Presley ,true ,45 ,T-R-O-U-B-L-E,1975
+Gary Stewart ,true ,46 ,She's Actin' Single (I'm Drinkin' Doubles),1975
+Billy Larkin ,true ,47 ,The Devil In Mrs. Jones,1975
+Moe Bandy ,true ,48 ,Don't Anyone Make Love At Home Anymore,1975
+Connie Smith ,true ,49 ,Why Don't You Love Me,1975
+Conway Twitty ,true ,50 ,Touch The Hand,1975
+Johnny Cash ,true ,1 ,One Piece At A Time,1976
+Crystal Gayle ,true ,2 ,I'll Get Over You,1976
+Conway Twitty ,true ,3 ,After All The Good Is Gone,1976
+Tanya Tucker ,true ,4 ,You've Got Me To Hold On To,1976
+Glen Campbell ,true ,5 ,Don't Pull Your Love/then You Can Tell Me Goodbye,1976
+Ronnie Milsap ,true ,6 ,What Goes On When The Sun Goes Down,1976
+Elvis Presley ,true ,7 ,Hurt/for The Heart,1976
+'Billy Crash Craddock' ,true ,8 ,Walk Softly,1976
+Jimmy Dean ,true ,9 ,I.O.U.,1976
+Marty Robbins ,true ,10 ,El Paso City,1976
+Waylon Jennings And Jessi Colter ,true ,11 ,Suspicious Minds,1976
+Narvel Felts ,true ,12 ,Lonely Teardrops,1976
+Bobby Bare ,true ,13 ,The Winner,1976
+Freddie Hart ,true ,14 ,She'll Throw Stones At You,1976
+Johnny Duncan ,true ,15 ,Stranger,1976
+Dave Rowland And Sugar ,true ,16 ,The Door Is Always Open,1976
+Joe Stampley ,true ,17 ,All These Things,1976
+Willie Nelson ,true ,18 ,I'd Have To Be Crazy,1976
+The Statler Brothers ,true ,19 ,Your Picture In The Paper,1976
+Loretta Lynn ,true ,20 ,Red, White And Blue,1976
+Mac Davis ,true ,21 ,Forever Lovers,1976
+Billie Jo Spears ,true ,22 ,What I've Got In Mind,1976
+Bill Anderson &amp; Mary Lou Turner ,true ,23 ,That's What Made Me Love You,1976
+Charlie Rich ,true ,24 ,America The Beautiful (1976),1976
+Donna Fargo ,true ,25 ,Mr. Doodles,1976
+Charley Pride ,true ,26 ,My Eyes Can Only See As Far As You,1976
+Moe Bandy ,true ,27 ,The Biggest Airport In The World,1976
+Olivia Newton-John ,true ,28 ,Come On Over,1976
+Ray Stevens ,true ,29 ,You Are So Beautiful,1976
+Thom Bresh ,true ,30 ,Home Made Love,1976
+Rex Allen Jr. ,true ,31 ,Can You Hear Those Pioneers,1976
+Emmylou Harris ,true ,32 ,Together Again,1976
+Faron Young ,true ,33 ,I'd Just Be Fool Enough,1976
+Red Steagall ,true ,34 ,Lone Star Beer And Bob Wills Music,1976
+Asleep At The Wheel ,true ,35 ,Nothin' Takes The Place Of You,1976
+Tompall ,true ,36 ,T For Texas,1976
+Merle Haggard ,true ,37 ,Here Comes The Freedom Train,1976
+Barbara Mandrell ,true ,38 ,That's What Friends Are For,1976
+Del Reeves And Billie Jo Spears ,true ,39 ,On The Rebound,1976
+Carmol Taylor ,true ,40 ,I Really Had A Ball Last Night,1976
+Billy Walker ,true ,41 ,(here I Am) Alone Again,1976
+Sonny James ,true ,42 ,When Something Is Wrong With My Baby,1976
+Freddy Fender ,true ,43 ,Vaya Con Dios,1976
+Johnny Rodriguez ,true ,44 ,I Couldn't Be Me Without You,1976
+Mickey Gilley ,true ,45 ,Don't The Girls All Get Prettier At Closing Time,1976
+Porter Wagoner And Dolly Parton ,true ,46 ,Is Forever Longer Than Always,1976
+Hank Williams Jr. ,true ,47 ,Living Proof,1976
+The Bellamy Brothers ,true ,48 ,Let Your Love Flow,1976
+Nick Nixon ,true ,49 ,Rocking In Rosalee's Boat,1976
+Ronnie Prophet ,true ,50 ,It's Enough,1976
+Waylon Jennings ,true ,1 ,Luckenbach, Texas (Back To The Basics Of Love),1977
+Merle Haggard ,true ,2 ,If We're Not Back In Love By Monday,1977
+Crystal Gayle ,true ,3 ,I'll Do It All Over Again,1977
+Eddie Rabbitt ,true ,4 ,I Can't Help Myself,1977
+Don Williams ,true ,5 ,Some Broken Hearts Never Mend,1977
+Barbara Mandrell ,true ,6 ,Married But Not To Each Other,1977
+Tom T. Hall ,true ,7 ,Your Man Loves You,honey,1977
+Freddy Fender ,true ,8 ,The Rains Came/sugar Coated Love,1977
+Tanya Tucker ,true ,9 ,It's A Cowboy Lovin' Night,1977
+Mel Tillis ,true ,10 ,Burning Memories,1977
+Rex Allen Jr. ,true ,11 ,I'm Getting Good At Missing You (solitaire),1977
+Freddie Hart ,true ,12 ,Thank God She's Mine,1977
+Donna Fargo ,true ,13 ,That Was Yesterday,1977
+Tammy Wynette ,true ,14 ,Let's Get Together (one Last Time),1977
+Dolly Parton ,true ,15 ,Light Of A Clear Blue Morning,1977
+Kenny Dale ,true ,16 ,Bluest Heartache Of The Year,1977
+Ronnie Sessions ,true ,17 ,Me And Millie (stompin' Grapes And Gettin' Silly),1977
+The Statler Brothers ,true ,18 ,I Was There,1977
+Conway Twitty ,true ,19 ,Play Guitar Play,1977
+Bill Anderson ,true ,20 ,Head To Toe,1977
+Loretta Lynn ,true ,21 ,She's Got You,1977
+Mickey Gilley ,true ,22 ,She's Pulling Me Back Again,1977
+Tommy Overstreet ,true ,23 ,Don't Go City Girl On Me,1977
+Pal Rakes ,true ,24 ,That's When The Lyin' Stops (and The Lovin' Starts,1977
+Billie Jo Spears ,true ,25 ,If You Want Me,1977
+Jim Reeves ,true ,26 ,It's Nothin' To Me,1977
+Hank Williams Jr. ,true ,27 ,Mobile Boogie,1977
+Joe Stampley ,true ,28 ,She's Long Legged,1977
+Jim Ed Brown And Helen Cornelius ,true ,29 ,Born Believer,1977
+Cal Smith ,true ,30 ,Come See About Me,1977
+Ray Griff ,true ,31 ,A Passing Thing,1977
+Tina Rainford ,true ,32 ,Silver Bird,1977
+Johnny Rodriguez ,true ,33 ,If Practice Makes Perfect,1977
+Barbara Fairchild ,true ,34 ,Let Me Love You Once Before You Go,1977
+Bobby Borchers ,true ,35 ,Cheap Perfume And Candlelight,1977
+Vern Gosdin ,true ,36 ,Yesterday's Gone,1977
+Charley Pride ,true ,37 ,I'll Be Leavin' Alone,1977
+Mary Macgregor ,true ,38 ,This Girl (has Turned Into A Woman),1977
+Bobby Bare ,true ,39 ,Look Who I'm Cheating On Tonight/if You Think I'm,1977
+David Houston ,true ,40 ,So Many Ways,1977
+Moe Bandy ,true ,41 ,I'm Sorry For You, My Friend,1977
+Randy Barlow ,true ,42 ,Kentucky Woman,1977
+Marty Robbins ,true ,43 ,I Don't Know Why (i Just Do),1977
+Dickey Lee ,true ,44 ,If You Gotta Make A Fool Of Somebody,1977
+Dottie West ,true ,45 ,Every Word I Write,1977
+John Wesley Ryles ,true ,46 ,Fool,1977
+Willie Nelson ,true ,47 ,I'm A Memory,1977
+Tompall Glaser ,true ,48 ,It'll Be Her,1977
+Margo Smith ,true ,49 ,Love's Explosion,1977
+Jimmy Buffett ,true ,50 ,Margaritaville,1977
+The Statler Brothers ,true ,1 ,Do You Know You Are My Sunshine,1978
+Merle Haggard ,true ,2 ,I'm Always On A Mountain When I Fall,1978
+Willie Nelson ,true ,3 ,Georgia On My Mind,1978
+Johnny Duncan ,true ,4 ,She Can Put Her Shoes Under My Bed(anytime),1978
+Willie Nelson ,true ,5 ,If You Can Touch Her At All,1978
+Joe Stampley ,true ,6 ,Red Wine And Blue Memories,1978
+Larry Gatlin &amp; The Gatlin Brothers ,true ,7 ,Night Time Magic,1978
+Dave Rowland And Sugar ,true ,8 ,Gotta Quit Lookin' At You Baby,1978
+Rex Allen Jr. ,true ,9 ,No, No, No (I'd Rather Be Free),1978
+Charlie Rich ,true ,10 ,Puttin' In Overtime At Home,1978
+Emmylou Harris ,true ,11 ,Two More Bottles Of Wine,1978
+Christy Lane ,true ,12 ,I'm Gonna Love You Anyway,1978
+Gene Watson ,true ,13 ,Cowboys Don't Get Lucky All The Time,1978
+The Oak Ridge Boys ,true ,14 ,I'll Be True To You,1978
+Margo Smith ,true ,15 ,It Only Hurts For A Little While,1978
+Tom T. Hall ,true ,16 ,I Wish I Loved Somebody Else,1978
+Bill Anderson ,true ,17 ,I Can't Wait Any Longer,1978
+Johnny Paycheck ,true ,18 ,Georgia In A Jug/me And The Irs,1978
+Randy Barlow ,true ,19 ,Slow And Easy,1978
+Roy Head ,true ,20 ,Now You See 'em,now You Don't,1978
+Billie Jo Spears ,true ,21 ,I've Got To Go,1978
+Mel Tillis ,true ,22 ,I Believe In You,1978
+Bobby Borchers ,true ,23 ,I Like Ladies In Long Black Dresses,1978
+Mel Street ,true ,24 ,Shady Rest,1978
+Charly McClain ,true ,25 ,Let Me Be Your Baby,1978
+Sterling Whipple ,true ,26 ,Dirty Work,1978
+Bonnie Tyler ,true ,27 ,It's A Heartache,1978
+Ronnie McDowell ,true ,28 ,Here Comes The Reason I Live,1978
+Tammy Wynette ,true ,29 ,I'd Like To See Jesus (on The Midnight Special),1978
+Bobby Bare ,true ,30 ,Too Many Nights Alone,1978
+Eddy Arnold ,true ,31 ,Country Lovin',1978
+The Bellamy Brothers ,true ,32 ,Slippin' Away,1978
+Dolly Parton ,true ,33 ,It's All Wrong,but It's Alright/Two Doors Down,1978
+Freddie Hart ,true ,34 ,Only You,1978
+Debby Boone ,true ,35 ,Baby, I'm Yours/God Knows,1978
+Linda Ronstadt ,true ,36 ,I Never Will Marry,1978
+Brenda Kaye Perry ,true ,37 ,I Can't Get Up By Myself,1978
+Con Hunley ,true ,38 ,Weekend Friend,1978
+Johnny Cash And Waylon Jennings ,true ,39 ,There Ain't No Good Chain Gang,1978
+Barbara Mandrell ,true ,40 ,Tonight,1978
+Sonny James ,true ,41 ,This Is The Love,1978
+Vern Gosdin ,true ,42 ,Never My Love,1978
+Elvis Presley ,true ,43 ,Unchained Melody/softly As I Leave You,1978
+Mickey Gilley ,true ,44 ,The Power Of Positive Drinking,1978
+Lynn Anderson ,true ,45 ,Rising Above It All,1978
+Kenny Dale ,true ,46 ,The Loser,1978
+Jim Ed Brown And Helen Cornelius ,true ,47 ,I'll Never Be Free,1978
+Sandy Posey ,true ,48 ,Born To Be With You,1978
+Eddie Rabbitt ,true ,49 ,Hearts On Fire,1978
+Kenny Rogers And Dottie West ,true ,50 ,Every Time Two Fools Collide,1978
+Bellamy Brothers ,true ,1 ,If I Said You Have A Beautiful Body Would You Hold It Against Me,1979
+Jim Ed Brown And Helen Cornelius ,true ,2 ,Lying In Love With You,1979
+Don Williams ,true ,3 ,Lay Down Beside Me,1979
+The Oak Ridge Boys ,true ,4 ,Sail Away,1979
+Crystal Gayle ,true ,5 ,When I Dream,1979
+Kenny Rogers ,true ,6 ,She Believes In Me,1979
+The Statler Brothers ,true ,7 ,How To Be A Country Star,1979
+Merle Haggard ,true ,8 ,Red Bandana/i Must Have Done Something Bad,1979
+Mary K Miller ,true ,17 ,Next Best Feeling,1979
+Jerry Lee Lewis ,true ,18 ,Rockin' My Life Away/i Wish I Was Eighteen Again,1979
+Willie Nelson ,true ,19 ,September Song,1979
+Tanya Tucker ,true ,20 ,I'm The Singer,you're The Song,1979
+Elvis Presley ,true ,21 ,Are You Sincere/solitaire,1979
+Susie Allanson ,true ,22 ,Two Steps Foward And Three Steps Back,1979
+Eddy Arnold ,true ,23 ,What In Her World Did I Do,1979
+Kenny Dale ,true ,24 ,Down To Earth Woman,1979
+The Kendalls ,true ,25 ,Just Like Real People,1979
+Billie Jo Spears ,true ,26 ,I Will Survive,1979
+Joe Stampley ,true ,27 ,I Don't Lie,1979
+Loretta Lynn ,true ,28 ,I Can't Feel You Anymore,1979
+Waylon Jennings ,true ,29 ,Amanda,1979
+Jess Garron ,true ,30 ,Lo Que Sea (whatever May The Future Be),1979
+Margo Smith ,true ,31 ,If I Give My Heart To You,1979
+Christy Lane ,true ,32 ,Simple Little Words,1979
+Stella Parton ,true ,33 ,Steady As The Rain,1979
+David Houston ,true ,34 ,Faded Love And Winter Roses,1979
+Big Al Downing ,true ,35 ,Touch Me (i'll Be Your Fool Once More),1979
+Nick Noble ,true ,36 ,The Girl On The Other Side,1979
+'Billy Crash Craddock' ,true ,37 ,My Mama Never Heard Me Sing,1979
+Ronnie McDowell ,true ,38 ,World's Most Perfect Woman,1979
+Reba McEntire ,true ,39 ,Runaway Heart,1979
+Buck Owens With Emmylou Harris ,true ,40 ,Play Together Again Again,1979
+Bobby Lewis ,true ,41 ,She's Been Keepin' Me Up Nights,1979
+Mundo Earwood ,true ,42 ,My Heart Is Not My Own,1979
+Narvel Felts ,true ,43 ,Moment By Moment,1979
+Tommy Overstreet ,true ,44 ,I'll Never Let You Down,1979
+Tom T. Hall ,true ,45 ,There Is A Miracle In You,1979
+Hoyt Axton ,true ,46 ,Della And The Dealer,1979
+Anne Murray ,true ,47 ,Shadows In The Moonlight,1979
+Charly McClain ,true ,48 ,When A Love Ain't Right,1979
+Johnny Cash ,true ,49 ,(ghost)riders In The Sky,1979
+Bobby Borchers ,true ,50 ,I Just Wanna Feel The Magic,1979
+Charlie Rich ,true ,51 ,Spanish Eyes,1979
+Sammi Smith ,true ,52 ,What A Lie,1979
+John Conlee ,true ,53 ,Backside Of Thirty,1979
+Vern Gosdin ,true ,54 ,You've Got Somebody,i've Got Somebody,1979
+Joe Sun ,true ,55 ,On Business For The King/blue Ribbon Blues,1979
+Terri Hollowell ,true ,56 ,May I,1979
+Lynn Anderson ,true ,57 ,Isn't It Always Love,1979
+Arnie Rue ,true ,58 ,Spare A Little Lovin'(on A Fool),1979
+Ronnie Milsap ,true ,1 ,My Heart/silent Night(after The Fight),1980
+Don Williams ,true ,2 ,Good Ole' Boys Like Me,1980
+Kenny Rogers ,true ,3 ,Don't Fall In Love With A Dreamer,1980
+Christy Lane ,true ,4 ,One Day At A Time,1980
+Jeanne Pruett ,true ,5 ,Temporarily Yours,1980
+The Kendalls ,true ,6 ,I'm Already Blue,1980
+The Oak Ridge Boys ,true ,7 ,Trying To Love Two Women,1980
+Dolly Parton ,true ,8 ,Starting Over Again,1980
+T.G. Sheppard ,true ,9 ,Smooth Sailin',1980
+Anne Murray ,true ,10 ,Lucky Me,1980
+George Jones ,true ,11 ,He Stopped Loving Her Today,1980
+Jim Reeves And Deborah Allen ,true ,12 ,Take Me In Your Arms And Hold Me,1980
+Moe Bandy &amp; Joe Stampley ,true ,13 ,Tell Ole I Ain't Here, He Better Get On Home,1980
+Merle Haggard ,true ,14 ,The Way I Am,1980
+Mel Tillis ,true ,15 ,Your Body Is An Outlaw,1980
+Razzy Bailey ,true ,16 ,Too Old To Play Cowboy,1980
+Willie Nelson ,true ,17 ,Midnight Rider,1980
+Dave Rowland And Sugar ,true ,18 ,New York Wine And Tennessee Shine,1980
+Tammy Wynette ,true ,19 ,He Was There(when I Need You),1980
+Gene Watson ,true ,20 ,Bedroom Ballad,1980
+Mickey Gilley ,true ,21 ,True Love Ways,1980
+Lacy J. Dalton ,true ,22 ,Loosing Kind Of Love,1980
+John Conlee ,true ,23 ,Friday Night Blues,1980
+Charley Pride ,true ,24 ,You Win Again,1980
+John Anderson ,true ,25 ,She Just Started Liking Cheating Songs,1980
+Eddie Rabbitt ,true ,26 ,Gone Too Far,1980
+Zella Lehr ,true ,27 ,Rodeo Eyes,1980
+Sissy Spacek ,true ,28 ,Coal Miner's Daughter,1980
+Moe Bandy ,true ,29 ,The Champ,1980
+Mundo Earwood ,true ,30 ,You're In Love With The Wrong Man,1980
+Crystal Gayle ,true ,31 ,The Blue Side,1980
+Merle Haggard And Clint Eastwood ,true ,32 ,Bar Room Buddies,1980
+Johnny Rodriguez ,true ,33 ,Love,look At Us Now,1980
+Conway Twitty &amp; Loretta Lynn ,true ,34 ,It's True Love,1980
+The Bellamy Brothers ,true ,35 ,Dancin' Cowboys,1980
+Charly McClain ,true ,36 ,Let's Put Our Love In Motion,1980
+Bobby Bare ,true ,37 ,Tequila Sheila,1980
+Foxfire ,true ,38 ,I Can See Forever Loving You,1980
+Hoyt Axton ,true ,39 ,Evangelina,1980
+Sylvia (r&amp;b) ,true ,40 ,It Don't Hurt To Dream,1980
+Ed Bruce ,true ,41 ,Diane,1980
+Joe Sun ,true ,42 ,Shotgun Rider,1980
+Juice Newton ,true ,43 ,You Fill My Life,1980
+B.J. Wright ,true ,44 ,J.r.,1980
+Hank Williams Jr. ,true ,45 ,Kaw-liga,1980
+Bill Anderson ,true ,46 ,Make Mine Night Time,1980
+Jim Ed Brown And Helen Cornelius ,true ,47 ,Morning Comes Too Early,1980
+Alabama ,false ,48 ,Tennessee River,1980
+Jacky Ward ,true ,49 ,Save Your Heart For Me,1980
+Rex Allen Jr. ,true ,50 ,It's Over,1980
+The Oak Ridge Boys ,true ,1 ,Elvira,1981
+Razzy Bailey ,true ,2 ,Friends/Anywhere There's A Jukebox,1981
+Dottie West w/ Kenny Rogers ,true ,3 ,What Are We Doin' In Love,1981
+John Anderson ,true ,4 ,I'm Just An Old Chunk Of Coal,1981
+Dolly Parton ,true ,5 ,But You Know I Love You,1981
+Anne Murray ,true ,6 ,Blessed Are The Believers,1981
+Rosanne Cash ,true ,7 ,Seven Year Ache,1981
+Mel McDaniel ,true ,8 ,Louisiana Saturday Night,1981
+Mel Tillis ,true ,9 ,A Million Old Goodbyes,1981
+Johnny Cash ,true ,10 ,The Baron,1981
+Lacy J. Dalton ,true ,11 ,Whisper,1981
+Willie Nelson ,true ,12 ,Mona Lisa,1981
+Reba McEntire ,true ,13 ,I Don't Think Love Ought To Be That Way,1981
+Gail Davies ,true ,14 ,It's A Lovely, Lovely World,1981
+Earl Thomas Conley ,true ,15 ,Fire And Smoke,1981
+Elvis Presley ,true ,16 ,Lovin' Arms/You Asked Me To,1981
+Steve Wariner ,true ,17 ,By Now,1981
+Charly McClain ,true ,18 ,Surround Me With Love,1981
+Billy Swan ,true ,19 ,Do I Have To Draw A Picture,1981
+Barbara Mandrell ,true ,20 ,I Was Country When Country Wasn't Cool,1981
+Sylvia (r&amp;b) ,true ,21 ,The Matador,1981
+Moe Bandy ,true ,22 ,My Woman Loves The Devil Out Of Me,1981
+Johnny Rodriguez ,true ,23 ,I Want You Tonight,1981
+Ed Bruce ,true ,24 ,Evil Angel,1981
+Randy Barlow ,true ,25 ,Love Dies Hard,1981
+The Glaser Brothers ,true ,26 ,Lovin' Her Was Easier (Than Anything I'll Ever Do Again),1981
+Tom Jones ,true ,27 ,Darlin',1981
+Ray Price ,true ,28 ,Getting Over You Again,1981
+The Burrito Brothers ,true ,29 ,Does She Wish She Was Single Again,1981
+Alabama ,true ,30 ,Feels So Right,1981
+Freddie Hart ,true ,31 ,You're Crazy Man,1981
+B.J. Thomas ,true ,32 ,Some Love Songs Never Die,1981
+Christy Lane ,true ,33 ,Love To Love You,1981
+Sonny Curtis ,true ,34 ,Good Ol' Girls,1981
+Wayne Kemp ,true ,35 ,Your Wife Is Cheatin' On Us Again,1981
+Bobby Bare ,true ,36 ,Learning To Live Again,1981
+Dave Rowland And Sugar ,true ,37 ,Fool By Your Side,1981
+Jim Ed Brown And Helen Cornelius ,true ,38 ,Don't Bother To Knock,1981
+Terry Gregory ,true ,39 ,Just Like Me,1981
+Tanya Tucker ,true ,40 ,Love Knows We Tried,1981
+Tom T. Hall ,true ,41 ,The All New Me,1981
+Ricky Skaggs ,true ,42 ,Don't Get Above Your Raising,1981
+T.G. Sheppard ,true ,43 ,I Loved 'em Every One,1981
+Ronnie Milsap ,true ,44 ,Am I Losing You,1981
+Moe Bandy &amp; Joe Stampley ,true ,45 ,Hey Joe (hey Moe),1981
+Eddy Arnold ,true ,46 ,Bally Hoo Days,1981
+Vern Gosdin ,true ,47 ,Dream Of Me,1981
+Don King ,true ,48 ,I Still Miss Someone,1981
+Johnny Russell ,true ,49 ,Here's To The Horses,1981
+Edgel Groves ,true ,50 ,Footprints In The Sand,1981
+Waylon &amp; Willie ,true ,1 ,Just To Satisfy You,1982
+T.G. Sheppard ,true ,2 ,Finally,1982
+The Statler Brothers ,true ,3 ,You'll Be Back (Every Night In My Dreams),1982
+Mickey Gilley ,true ,4 ,Tears Of The Lonely,1982
+The Bellamy Brothers ,true ,5 ,For All The Wrong Reasons,1982
+Eddie Rabbitt ,true ,6 ,I Don't Know Where To Start,1982
+Willie Nelson ,true ,7 ,Always On My Mind,1982
+Don Williams ,true ,8 ,Listen To The Radio,1982
+Gene Watson ,true ,9 ,Speak Softly You're Talking To My Heart,1982
+Lee Greenwood ,true ,10 ,Ring On Her Finger, Time On Her Hands,1982
+Tammy Wynette ,true ,11 ,Another Chance,1982
+Mel McDaniel ,true ,12 ,Take Me To The Country,1982
+Leon Everette ,true ,13 ,Just Give Me What You Think Is Fair,1982
+Conway Twitty ,true ,14 ,Slow Hand,1982
+Steve Wariner ,true ,15 ,Kansas City Lights,1982
+Crystal Gayle ,true ,16 ,You Never Gave Up On Me,1982
+Razzy Bailey ,true ,17 ,Everytime You Cross My Mind,1982
+Barbara Mandrell ,true ,18 ,'til You're Gone,1982
+Joe Stampley ,true ,19 ,I'm Goin' Hurtin',1982
+Charley Pride ,true ,20 ,I Don't Think She's In Love Anymore,1982
+Ronnie Milsap ,true ,21 ,Any Day Now,1982
+Alabama ,true ,22 ,Mountain Music,1982
+Ray Price ,true ,23 ,Forty And Fadin',1982
+Ed Bruce ,true ,24 ,Love's Found You And Me,1982
+Dolly Parton ,true ,25 ,Single Women,1982
+John Anderson ,true ,26 ,Would You Catch A Falling Star,1982
+Johnny Cash ,true ,27 ,The General Lee,1982
+John Conlee ,true ,28 ,Busted,1982
+Janie Fricke ,true ,29 ,Don't Worry 'bout Me Baby,1982
+Terri Gibbs ,true ,30 ,Ashes To Ashes,1982
+Johnny Lee ,true ,31 ,When You Fall In Love,1982
+Lacy J. Dalton ,true ,32 ,Slow Down,1982
+Merle Haggard ,true ,33 ,Are The Good Times Really Over ( I Wish A Buck Was Still Silver),1982
+Billy Swan ,true ,34 ,With Their Kind Of Money And Our Kind Of Love,1982
+Jerry Reed ,true ,35 ,The Man With The Golden Thumb,1982
+The Osmonds ,true ,36 ,I Think About Your Lovin',1982
+George Strait ,true ,37 ,If You're Thinking You Want A Stranger,1982
+Alabama ,false ,38 ,Take Me Down,1982
+Gary Morris ,true ,39 ,Don't Look Back,1982
+The Burrito Brothers ,true ,40 ,Closer To You,1982
+Eddy Raven ,true ,41 ,A Little Bit Crazy,1982
+Wright Brothers ,true ,42 ,When You Find Her, Keep Her,1982
+Gail Davies ,true ,43 ,Round The Clock Lovin',1982
+Gary Stewart And Dean Dillon ,true ,44 ,Brotherly Love,1982
+Ronnie McDowell ,true ,45 ,I Just Cut Myself,1982
+Moe Bandy ,true ,46 ,Someday Soon,1982
+Billy Parker ,true ,47 ,(who's Gonna Sing)the Last Country Song,1982
+Jerry Lee Lewis ,true ,48 ,I'm So Lonesome I Could Cry,1982
+Merle Haggard ,true ,49 ,Dealing With The Devil,1982
+Stephanie Winslow ,true ,50 ,Slippin' And Slidin',1982
+Merle Haggard ,true ,1 ,You Take Me For Granted,1983
+Waylon Jennings ,true ,2 ,Lucille (you Won't Do Your Daddy's Will),1983
+Crystal Gayle ,true ,3 ,Our Love Is On The Faultline,1983
+Gene Watson With The Farewell Party Band ,true ,4 ,You're Out Doing What I'm Here Doing Without,1983
+Eddie Rabbitt ,true ,5 ,You Can't Run From Love,1983
+Emmylou Harris ,true ,6 ,I'm Movin' On,1983
+David Allan Coe ,true ,7 ,The Ride,1983
+Ronnie Milsap ,true ,8 ,Stranger In My House,1983
+Mickey Gilley ,true ,9 ,Fool For Your Love,1983
+Johnny Rodriguez ,true ,10 ,Foolin',1983
+Mel Tillis ,true ,11 ,In The Middle Of The Night,1983
+Leon Everette ,true ,12 ,My Lady Loves Me (just As I Am),1983
+John Conlee ,true ,13 ,Common Man,1983
+Michael Martin Murphey ,true ,14 ,Love Affairs,1983
+T.G. Sheppard ,true ,15 ,Without You,1983
+Don Williams ,true ,16 ,Love Is On A Roll,1983
+Gail Davies ,true ,17 ,Singing The Blues,1983
+Lee Greenwood ,true ,18 ,I.o.u.,1983
+The Statler Brothers ,true ,19 ,Oh Baby Mine (i Get So Lonely),1983
+Barbara Mandrell ,true ,20 ,In Times Like These,1983
+Ricky Skaggs ,true ,21 ,Highway 40 Blues,1983
+B.J. Thomas ,true ,22 ,Whatever Happened To Old Fashioned Love,1983
+Gary Morris ,true ,23 ,The Love She Found In Me,1983
+Charly McClain ,true ,24 ,Fly Into Love,1983
+Willie Nelson / Merle Haggard ,true ,25 ,Poncho And Lefty,1983
+Willie Nelson ,true ,26 ,Little Old Fashioned Karma,1983
+Mel McDaniel ,true ,27 ,Old Man River (i've Come To Talk Again),1983
+Jim Glaser ,true ,28 ,You Got Me Running,1983
+Alabama ,true ,29 ,The Closer You Get,1983
+Kenny Rogers ,true ,30 ,All My Life,1983
+Sylvia (r&amp;b) ,true ,31 ,Snapshot,1983
+Shelly West ,true ,32 ,Jose Cuervo,1983
+George Jones ,true ,33 ,I Always Get Lucky With You,1983
+Rosanne Cash ,true ,34 ,It Hasn't Happened Yet,1983
+Charley Pride ,true ,35 ,More &amp; More,1983
+The Whites ,true ,36 ,I Wonder Who's Holding My Baby Tonight,1983
+Louise Mandrell ,true ,37 ,Save Me,1983
+Razzy Bailey ,true ,38 ,After The Great Depression,1983
+Tom Jones ,true ,39 ,Touch Me (i'll Be Your Fool Once More),1983
+Earl Thomas Conley ,true ,40 ,Your Love's On The Line,1983
+Ray Charles ,true ,41 ,3/4 Time,1983
+Lynn Anderson ,true ,42 ,You Can't Lose What You Never Had,1983
+Dolly Parton ,true ,43 ,Potential New Boyfriend,1983
+Dan Seals ,true ,44 ,Everybody's Dream Girl,1983
+Tanya Tucker ,true ,45 ,Changes,1983
+Con Hunley ,true ,46 ,Once You Get The Feel Of It,1983
+Vern Gosdin ,true ,47 ,If You're Gonna Do Me Wrong (do It Right),1983
+Kieran Kane ,true ,48 ,It's You,1983
+Steve Wariner ,true ,49 ,Don't Your Mem'ry Ever Sleep At Night,1983
+Ed Bruce ,true ,50 ,You're Not Leavin' Here Tonight,1983
+John Conlee ,true ,1 ,As Long As I'm Rockin' With You,1984
+Ricky Skaggs ,true ,2 ,Honey (Open That Door),1984
+Julio Iglesias &amp; Willie Nelson ,true ,3 ,To All The Girls I've Loved Before,1984
+Merle Haggard ,true ,4 ,Someday When Things Are Good,1984
+Crystal Gayle ,true ,5 ,I Don't Wanna Lose Your Love,1984
+David Allan Coe ,true ,6 ,Mona Lisa Lost Her Smile,1984
+Eddy Raven ,true ,7 ,I Got Mexico,1984
+Reba McEntire ,true ,8 ,Just A Little Love,1984
+Larry Gatlin &amp; The Gatlin Brothers ,true ,9 ,Denver,1984
+Vern Gosdin ,true ,10 ,I Can Tell By The Way You Dance (You're Gonna Love Me Tonigh,1984
+Emmylou Harris ,true ,11 ,In My Dreams,1984
+George Jones ,true ,12 ,You've Still Got A Place In My Heart,1984
+Alabama ,true ,13 ,When We Make Love,1984
+Louise Mandrell ,true ,14 ,I'm Not Through Loving You Yet,1984
+Gene Watson ,true ,15 ,Forever Again,1984
+Conway Twitty ,true ,16 ,Somebody's Needin' Somebody,1984
+Exile ,true ,17 ,I Don't Wanna Be A Memory,1984
+Steve Wariner ,true ,18 ,Why Goodbye,1984
+Kenny Rogers And Dottie West ,true ,19 ,Together Again,1984
+Waylon Jennings ,true ,20 ,I May Be Used (but Baby I Ain't Used Up),1984
+Gary Morris ,true ,21 ,Between Two Fires,1984
+Ronnie McDowell ,true ,22 ,I Dream Of Women Like You,1984
+Charly McClain ,true ,23 ,Band Of Gold,1984
+The Oak Ridge Boys ,true ,24 ,I Guess It Never Hurts To Hurt Sometimes,1984
+Sylvia (r&amp;b) ,true ,25 ,Victims Of Goodbye,1984
+B.J. Thomas ,true ,26 ,The Whole World's In Love When You're Lonely,1984
+The Statler Brothers ,true ,27 ,Atlanta Blue,1984
+Anne Murray ,true ,28 ,Just Another Woman In Love,1984
+Bill Medley ,true ,29 ,I Still Do,1984
+Kenny Rogers ,true ,30 ,Eyes That See In The Dark,1984
+Earl Thomas Conley ,true ,31 ,Angel In Disguise,1984
+Bandana ,true ,32 ,Better Our Hearts Should Bend (than Break),1984
+Dan Seals ,true ,34 ,God Must Be A Cowboy,1984
+The Judds ,true ,35 ,Mama He's Crazy,1984
+Hank Williams Jr. ,true ,36 ,Man Of Steel,1984
+Eddie Rabbitt ,true ,37 ,B-B-B-Burnin' Up With Love,1984
+Mel Tillis ,true ,38 ,New Patches,1984
+Tom Jones ,true ,39 ,This Time,1984
+Janie Fricke ,true ,40 ,If The Fall Don't Get You,1984
+Mickey Gilley &amp; Charly McClain ,true ,41 ,Candy Man,1984
+Don Williams ,true ,42 ,That's The Thing About Love,1984
+Ronnie Milsap ,true ,43 ,Still Losing You,1984
+John Anderson ,true ,44 ,I Wish I Could Write You A Song,1984
+Joe Stampley &amp; Jessica Boucher ,true ,45 ,Memory Lane,1984
+Karen Brooks ,true ,46 ,Born To Love You,1984
+Atlanta ,true ,47 ,Sweet Country Music,1984
+Barbara Mandrell ,true ,48 ,Happy Birthday Dear Heartache,1984
+Michael Martin Murphey ,true ,49 ,Disenchanted,1984
+The Whites ,true ,50 ,Forever You,1984
+Mason Dixon ,true ,51 ,I Never Had A Chance With You,1984
+Charly McClain ,true ,1 ,Radio Heart,1985
+Sylvia (r&amp;b) ,true ,2 ,Fallin' In Love,1985
+Conway Twitty ,true ,3 ,Don't Call Him A Cowboy,1985
+Merle Haggard ,true ,4 ,Natural High,1985
+Ricky Skaggs ,true ,5 ,Country Boy,1985
+Ronnie McDowell ,true ,6 ,In A New York Minute,1985
+The Oak Ridge Boys ,true ,7 ,Little Things,1985
+Barbara Mandrell ,true ,8 ,There's No Love In Tennessee,1985
+Mark Gray &amp; Tammy Wynette ,true ,9 ,Sometimes When We Touch,1985
+Ronnie Milsap ,true ,10 ,She Keeps The Home Fires Burning,1985
+Crystal Gayle ,true ,11 ,Nobody Wants To Be Alone,1985
+Mel McDaniel ,true ,12 ,Let It Roll (Let It Rock),1985
+John Conlee ,true ,13 ,Working Man,1985
+Exile ,true ,14 ,She's A Miracle,1985
+Emmylou Harris ,true ,15 ,White Line,1985
+Dan Seals ,true ,16 ,My Old Yellow Car,1985
+Willie Nelson ,true ,17 ,Forgiving You Was Easy,1985
+Sawyer Brown ,true ,18 ,Step That Step,1985
+Ed Bruce ,true ,19 ,When Givin' Up Was Easy,1985
+Eddie Rabbitt ,true ,20 ,Warning Sign,1985
+Lee Greenwood ,true ,21 ,Dixie Road,1985
+Steve Wariner ,true ,22 ,Heart Trouble,1985
+The Statler Brothers ,true ,23 ,Hello Mary Lou,1985
+Louise Mandrell ,true ,24 ,Maybe My Baby,1985
+The Whites ,true ,25 ,If It Ain't Love (Let's Leave It Alone),1985
+Eddy Raven ,true ,26 ,Operator,Operator,1985
+T.G. Sheppard ,true ,27 ,You're Going Out Of My Mind,1985
+Earl Thomas Conley ,true ,28 ,Love Don't Care (Whose Heart It Breaks),1985
+Charley Pride ,true ,29 ,Down On The Farm,1985
+John Schneider ,true ,30 ,It's A Short Walk From Heaven To Hell,1985
+David Allan Coe ,true ,31 ,Don't Cry Darlin',1985
+Reba McEntire ,true ,32 ,Somebody Should Leave,1985
+The Bellamy Brothers ,true ,33 ,Old Hippie,1985
+George Jones And Lacy J. Dalton ,true ,34 ,Size Seven Round (Made Of Gold),1985
+Ray Charles ,true ,35 ,It Ain't Gonna Worry My Mind,1985
+John Anderson ,true ,36 ,It's All Over Now,1985
+Alabama ,true ,37 ,40 Hour Week (For A Livin'),1985
+Gary Morris ,true ,38 ,Lasso The Moon,1985
+Kenny Rogers ,true ,39 ,Love Is What We Make It,1985
+Hank Williams Jr. ,true ,40 ,I'm For Love,1985
+Alabama ,true ,41 ,There's No Way,1985
+Highwaymen ,true ,42 ,Highwayman,1985
+Dolly Parton ,true ,43 ,Don't Call It Love,1985
+Chance ,true ,44 ,To Be Lovers,1985
+Vern Gosdin ,true ,45 ,Dim Lights, Thick Smoke (And Loud Loud Music),1985
+Johnny Lee ,true ,46 ,Save The Last Chance,1985
+Jimmy Buffett ,true ,47 ,Who's The Blond Stranger?,1985
+The Judds ,true ,48 ,Girls Night Out,1985
+Anne Murray ,true ,49 ,I Don't Think I'm Ready For You,1985
+Dolly Parton (Duet With Kenny Rogers) ,false ,50 ,Real Love,1985
+Reba McEntire ,true ,1 ,Whoever's In New England,1986
+Ronnie Milsap ,true ,2 ,Happy, Happy Birthday Baby,1986
+Steve Wariner ,true ,3 ,Life's Highway,1986
+The Forester Sisters ,true ,4 ,Mama's Never Seen Those Eyes,1986
+Dwight Yoakam ,true ,5 ,Honky Tonk Man,1986
+Kenny Rogers ,true ,6 ,Tomb Of The Unknown Love,1986
+Eddie Rabbitt ,true ,7 ,Repetitive Regret,1986
+Willie Nelson ,true ,8 ,Living In The Promiseland,1986
+Tanya Tucker ,true ,9 ,One Love At A Time,1986
+Dan Seals ,true ,10 ,Everything That Glitters (Is Not Gold),1986
+Restless Heart ,true ,11 ,Til I Loved You,1986
+Marie Osmond ,true ,12 ,Read My Lips,1986
+The Charlie Daniels Band ,true ,13 ,Drinkin' My Baby Good-Bye,1986
+Juice Newton ,true ,14 ,Old Flame,1986
+Lee Greenwood ,true ,15 ,Hearts Aren't Made To Break (They're Made To Love),1986
+Exile ,true ,16 ,Super Love,1986
+Rosanne Cash ,true ,17 ,Hold On,1986
+Judy Rodman ,true ,18 ,Until I Met You,1986
+Charly McClain/Wayne Massey ,true ,19 ,When It's Down To Me And You,1986
+Ed Bruce ,true ,20 ,Nights,1986
+Southern Pacific ,true ,21 ,Reno Bound,1986
+Nitty Gritty Dirt Band ,true ,22 ,Partners, Brothers &amp; Friends,1986
+Kathy Mattea ,true ,23 ,Love At The Five And Dime,1986
+Randy Travis ,true ,24 ,On The Other Hand,1986
+T. Graham Brown ,true ,25 ,I Wish That I Could Hurt That Way Again,1986
+Hank Williams Jr. ,true ,26 ,Ain't Misbehavin',1986
+Mark Gray ,true ,27 ,Back When Love Was Enough,1986
+Sweethearts Of The Rodeo ,true ,28 ,Hey Doll Baby,1986
+George Jones ,true ,29 ,Somebody Wants Me Out Of The Way,1986
+Dolly Parton ,true ,30 ,Tie Our Love (In A Double Knot),1986
+Ronnie McDowell ,true ,31 ,All Tied Up,1986
+Michael Johnson ,true ,32 ,Gotta Learn To Love Without You,1986
+John Schneider ,true ,33 ,You're The Last Thing I Needed Tonight,1986
+The Judds ,true ,34 ,Grandpa (Tell Me 'bout The Good Old Days),1986
+George Strait ,true ,35 ,Nobody In His Right Mind Would've Left Her,1986
+Sawyer Brown ,true ,36 ,Shakin',1986
+The Everly Brothers ,true ,37 ,Born Yesterday,1986
+Glen Campbell ,true ,38 ,Cowpoke,1986
+John Conlee ,true ,39 ,Harmony,1986
+Pake McEntire ,true ,40 ,Savin' My Love For You,1986
+The Judds ,true ,41 ,Rockin' With The Rhythm Of The Rain,1986
+Tom Wopat ,true ,42 ,True Love (Never Did Run Smooth),1986
+Emmylou Harris ,true ,43 ,Today I Started Loving You Again,1986
+T.G. Sheppard ,true ,44 ,Strong Heart,1986
+Billy Swan ,true ,45 ,You Must Be Lookin' For Me,1986
+Jim Glaser ,true ,46 ,The Lights Of Albuquerque,1986
+Waylon Jennings ,true ,47 ,Will The Wolf Survive,1986
+The Statler Brothers ,true ,48 ,Count On Me,1986
+Gary Morris ,true ,49 ,Anything Goes,1986
+Billy Joe Royal ,true ,50 ,Boardwalk Angel,1986
+The Oak Ridge Boys ,true ,1 ,It Takes A Little Rain,1987
+Conway Twitty ,true ,2 ,Julia,1987
+Dan Seals ,true ,3 ,I Will Be There,1987
+John Conlee ,true ,4 ,Domestic Life,1987
+The Forester Sisters ,true ,5 ,Too Many Rivers,1987
+Nitty Gritty Dirt Band ,true ,6 ,Baby's Got A Hold On Me,1987
+Moe Bandy ,true ,7 ,Til' I'm Too Old To Die Young,1987
+Randy Travis ,true ,8 ,Forever And Ever, Amen,1987
+T.G. Sheppard ,true ,9 ,You're My First Lady,1987
+Eddy Raven ,true ,10 ,You're Never Too Old For Young Love,1987
+Keith Whitley ,true ,11 ,Hard Livin',1987
+Sweethearts Of The Rodeo ,true ,12 ,Chains Of Gold,1987
+Earl Thomas Conley ,true ,13 ,That Was A Close One,1987
+Dwight Yoakam ,true ,14 ,Little Sister,1987
+Tanya Tucker ,true ,15 ,It's Only Over For You,1987
+Charley Pride ,true ,16 ,Have I Got Some Blues For You,1987
+George Strait ,true ,17 ,All My Ex's Live In Texas,1987
+John Schneider ,true ,18 ,Love You Ain't Seen The Last Of Me,1987
+The O'Kanes ,true ,19 ,Can't Stop My Heart From Loving You,1987
+Mickey Gilley ,true ,20 ,Full Grown Fool,1987
+Crystal Gayle And Gary Morris ,true ,21 ,Another World,1987
+Steve Wariner ,true ,22 ,The Weekend,1987
+The Judds ,true ,23 ,I Know Where I'm Going,1987
+Marie Osmond ,true ,24 ,Everybody's Crazy 'bout My Baby,1987
+Ricky Van Shelton ,true ,25 ,Crime Of Passion,1987
+The Desert Rose Band ,true ,26 ,Ashes Of Love,1987
+Schuyler, Knobloch And Bickhardt ,true ,27 ,American Me,1987
+Holly Dunn ,true ,28 ,Love Someone Like Me,1987
+Baillie And The Boys ,true ,29 ,Oh Heart,1987
+Ricky Skaggs &amp; Sharon White ,true ,30 ,Love Can't Ever Get Better Than This,1987
+Charly McClain ,true ,31 ,Don't Touch Me There,1987
+Judy Rodman ,true ,32 ,Girls Ride Horses Too,1987
+K.T. Oslin ,true ,33 ,80's Ladies,1987
+Lee Greenwood ,true ,34 ,Someone,1987
+Ronnie Milsap ,true ,35 ,Snap Your Fingers,1987
+The Bellamy Brothers ,true ,36 ,Country Rap,1987
+Vince Gill ,true ,37 ,Cinderella,1987
+Dolly Parton, Linda Ronstadt, Emmylou Harris ,true ,38 ,To Know Him Is To Love Him,1987
+Larry Gatlin &amp; Janie Frickie ,true ,39 ,From Time To Time (It Feels Like Love Again),1987
+Reba McEntire ,true ,40 ,One Promise Too Late,1987
+Mason Dixon ,true ,41 ,3935 West End Avenue,1987
+Anne Murray ,true ,42 ,Are You Still In Love With Me,1987
+Ray Stevens ,true ,43 ,Would Jesus Wear A Rolex,1987
+Waylon Jennings ,true ,44 ,Fallin' Out,1987
+Gary Morris ,true ,45 ,Plain Brown Wrapper,1987
+John Wesley Ryles ,true ,46 ,Midnight Blue,1987
+Michael Johnson ,true ,47 ,The Moon Is Still Over Her Shoulder,1987
+Southern Pacific ,true ,48 ,Don't Let Go Of My Heart,1987
+Highway 101 ,true ,49 ,Whiskey, If You Were A Woman,1987
+George Jones ,true ,50 ,I Turn To You,1987
+Kathy Mattea ,true ,1 ,Eighteen Wheels And A Dozen Roses,1988
+Ronnie Milsap &amp; Mike Reid ,true ,2 ,Old Folks,1988
+Earl Thomas Conley ,true ,3 ,What She Is (Is A Woman In Love),1988
+Randy Travis ,true ,4 ,I Told You So,1988
+The Oak Ridge Boys ,true ,5 ,True Heart,1988
+The O'Kanes ,true ,6 ,One True Love,1988
+Jo-El Sonnier ,true ,7 ,No More One More Time,1988
+The Desert Rose Band ,true ,8 ,He's Back And I'm Blue,1988
+Tanya Tucker ,true ,9 ,If It Don't Come Easy,1988
+Don Williams ,true ,10 ,Another Place, Another Time,1988
+Merle Haggard ,true ,11 ,Chill Factor,1988
+Dolly Parton, Linda Ronstadt, Emmylou Harris ,true ,12 ,Wildflowers,1988
+Larry, Steve, Rudy: The Gatlin Brothers ,true ,13 ,Love Of A Lifetime,1988
+Billy Joe Royal ,true ,14 ,Out Of Sight And On My Mind,1988
+Sweethearts Of The Rodeo ,true ,15 ,Satisfy You,1988
+Rosanne Cash ,true ,16 ,If You Change Your Mind,1988
+Alabama ,true ,17 ,Fallin' Again,1988
+Vern Gosdin ,true ,18 ,Set 'Em Up Joe,1988
+Steve Wariner ,true ,19 ,Baby I'm Yours,1988
+Nitty Gritty Dirt Band ,true ,20 ,Workin' Man (Nowhere To Go),1988
+Michael Johnson ,true ,21 ,I Will Whisper Your Name,1988
+Conway Twitty ,true ,22 ,Goodbye Time,1988
+David Lynn Jones ,true ,23 ,High Ridin' Heroes,1988
+Michael Martin Murphey (with Ryan Murphey) ,true ,24 ,Talkin' To The Wrong Man,1988
+Hank Williams Jr. ,true ,25 ,Young Country,1988
+Foster &amp; Lloyd ,true ,26 ,Texas In 1880,1988
+Exile ,true ,27 ,Just One Kiss,1988
+Southern Pacific ,true ,28 ,Midnight Highway,1988
+Keith Whitley ,true ,29 ,Don't Close Your Eyes,1988
+Ricky Van Shelton ,true ,30 ,Don't We All Have The Right,1988
+Eddy Raven ,true ,31 ,I'm Gonna Get You,1988
+Skip Ewing ,true ,32 ,Your Memory Wins Again,1988
+Reba McEntire ,true ,33 ,Sunday Kind Of Love,1988
+George Strait ,true ,34 ,Baby Blue,1988
+Sawyer Brown ,true ,35 ,Old Photographs,1988
+Schuyler, Knobloch And Bickhardt ,true ,36 ,Givers And Takers,1988
+Shenandoah ,true ,37 ,She Doesn't Cry Anymore,1988
+Kenny Rogers ,true ,38 ,The Factory,1988
+Dwight Yoakam ,true ,39 ,Always Late With Your Kisses,1988
+Nanci Griffith ,true ,40 ,I Knew Love,1988
+Lee Greenwood ,true ,41 ,I Still Believe,1988
+The Bellamy Brothers ,true ,42 ,I'll Give You All My Love Tonight,1988
+Restless Heart ,true ,43 ,Bluest Eyes In Texas,1988
+Charley Pride ,true ,44 ,I'm Gonna Love Her On The Radio,1988
+Tammy Wynette ,true ,45 ,Beneath A Painted Sky,1988
+Highway 101 ,true ,46 ,Cry, Cry, Cry,1988
+David Ball ,true ,47 ,Steppin' Out,1988
+Mel McDaniel ,true ,48 ,Real Good Feel Good Song,1988
+David Slater ,true ,49 ,I'm Still Your Fool,1988
+k.d. lang ,true ,50 ,I'm Down To My Last Cigarette,1988
+Rodney Crowell ,true ,1 ,After All This Time,1989
+Steve Wariner ,true ,2 ,Where Did I Go Wrong,1989
+Clint Black ,true ,3 ,Better Man,1989
+Earl Thomas Conley ,true ,4 ,Love Out Loud,1989
+The Desert Rose Band ,true ,5 ,She Don't Love Nobody,1989
+Dwight Yoakam ,true ,6 ,I Got You,1989
+Alabama ,true ,7 ,If I Had You,1989
+Rosanne Cash ,true ,8 ,I Don't Want To Spoil The Party,1989
+Dan Seals ,true ,9 ,They Rage On,1989
+Skip Ewing ,true ,10 ,The Gospel According To Luke,1989
+Tanya Tucker ,true ,11 ,Call On Me,1989
+Ricky Skaggs ,true ,12 ,Lovin' Only Me,1989
+Kathy Mattea ,true ,13 ,Come From The Heart,1989
+Restless Heart ,true ,14 ,Big Dreams In A Small Town,1989
+The Oak Ridge Boys ,true ,15 ,Beyond Those Years,1989
+Randy Travis ,true ,16 ,Is It Still Over,1989
+Ricky Van Shelton ,true ,17 ,Hole In My Pocket,1989
+Eddy Raven ,true ,18 ,In A Letter To You,1989
+Larry Boone ,true ,19 ,Wine Me Up,1989
+The Forester Sisters ,true ,20 ,Love Will,1989
+Paul Overstreet ,true ,21 ,Sowin' Love,1989
+George Strait ,true ,22 ,What's Going On In Your World,1989
+Ronnie Milsap ,true ,23 ,Houston Solution,1989
+Merle Haggard ,true ,24 ,5:01 Blues,1989
+J.C. Crowley ,true ,25 ,I Know What I've Got,1989
+Conway Twitty ,true ,26 ,She's Got A Single Thing In Mind,1989
+The McCarters ,true ,27 ,Up And Gone,1989
+Reba McEntire ,true ,28 ,Cathy's Clown,1989
+James House ,true ,29 ,Don't Quit Me Now,1989
+Lionel Cartwright ,true ,30 ,Like Father Like Son,1989
+The Judds ,true ,31 ,Young Love (Strong Love),1989
+Gene Watson ,true ,32 ,Back In The Fire,1989
+Garth Brooks ,true ,33 ,Much Too Young (To Feel This Damn Old),1989
+The Shooters ,true ,34 ,If I Ever Go Crazy,1989
+Don Williams ,true ,35 ,One Good Well,1989
+Lorrie Morgan ,true ,36 ,Dear Me,1989
+Chris Hillman &amp; Roger McGuinn ,true ,37 ,You Ain't Going Nowhere,1989
+Dolly Parton ,true ,38 ,Why'd You Come In Here Lookin' Like That,1989
+Sweethearts Of The Rodeo ,true ,39 ,If I Never See Midnight Again,1989
+Ronnie McDowell ,true ,40 ,Sea Of Heartbreak,1989
+George Jones ,true ,41 ,The King Is Gone (So Are You),1989
+T. Graham Brown ,true ,42 ,Never Say Never,1989
+The Statler Brothers ,true ,43 ,More Than A Name On A Wall,1989
+Emmylou Harris ,true ,44 ,Heaven Only Knows,1989
+The Charlie Daniels Band ,true ,45 ,Midnight Train,1989
+Mary Chapin Carpenter ,true ,46 ,How Do,1989
+Patty Loveless ,true ,47 ,Don't Toss Us Away,1989
+Baillie And The Boys ,true ,48 ,She Deserves You,1989
+K.T. Oslin ,true ,49 ,Hey Bobby,1989
+Larry Gatlin &amp; The Gatlin Brothers ,true ,50 ,I Might Be What You're Lookin' For,1989
+Clint Black ,true ,1 ,Walkin' Away,1990
+Ricky Van Shelton ,true ,2 ,I've Cried My Last Tear For You,1990
+Keith Whitley ,true ,3 ,I'm Over You,1990
+Doug Stone ,true ,4 ,I'd Be Better Off (In A Pine Box),1990
+George Strait ,true ,5 ,Love Without End, Amen,1990
+Travis Tritt ,true ,6 ,Help Me Hold On,1990
+Tanya Tucker ,true ,7 ,Walking Shoes,1990
+Lionel Cartwright ,true ,8 ,I Watched It All (On My Radio),1990
+Alabama ,true ,9 ,Pass It On Down,1990
+Steve Wariner ,true ,10 ,The Domino Theory,1990
+Rodney Crowell ,true ,11 ,If Looks Could Kill,1990
+Reba McEntire ,true ,12 ,Walk On,1990
+Dan Seals ,true ,13 ,Love On Arrival,1990
+Kathy Mattea ,true ,14 ,She Came From Fort Worth,1990
+Robin Lee ,true ,15 ,Black Velvet,1990
+The Desert Rose Band ,true ,16 ,In Another Lifetime,1990
+The Judds ,true ,17 ,Guardian Angels,1990
+Eddie Rabbitt ,true ,18 ,Runnin' With The Wind,1990
+Lacy J. Dalton ,true ,19 ,Black Coffee,1990
+Alan Jackson ,true ,20 ,Here In The Real World,1990
+The Kentucky Headhunters ,true ,21 ,Dumas Walker,1990
+Restless Heart ,true ,22 ,Dancy's Dream,1990
+Ronnie Milsap ,true ,23 ,Stranger Things Have Happened,1990
+Earl Thomas Conley ,true ,24 ,Bring Back Your Love To Me,1990
+Lorrie Morgan ,true ,25 ,Five Minutes,1990
+T. Graham Brown ,true ,26 ,If You Could Only See Me Now,1990
+Randy Travis ,true ,27 ,He Walked On Water,1990
+Highway 101 ,true ,28 ,Walkin', Talkin', Cryin', Barely Beatin' Broken Heart,1990
+Shenandoah ,true ,29 ,See If I Care,1990
+Garth Brooks ,true ,30 ,The Dance,1990
+Eddy Raven ,true ,31 ,Island,1990
+Randy Travis ,true ,32 ,Hard Rock Bottom Of Your Heart,1990
+Don Williams ,true ,33 ,Just As Long As I Have You,1990
+Baillie And The Boys ,true ,34 ,Perfect,1990
+Patty Loveless ,true ,35 ,Chains,1990
+Southern Pacific ,true ,36 ,I Go To Pieces,1990
+Paul Overstreet ,true ,37 ,Seein' My Father In Me,1990
+Eddie Rabbitt ,true ,38 ,On Second Thought,1990
+Garth Brooks ,true ,39 ,Not Counting You,1990
+The Oak Ridge Boys ,true ,40 ,No Matter How High,1990
+Conway Twitty ,true ,41 ,Fit To Be Tied Down,1990
+Ricky Skaggs ,true ,42 ,Hummingbird,1990
+Foster &amp; Lloyd ,true ,43 ,Is It Love,1990
+Mary Chapin Carpenter ,true ,44 ,Quittin' Time,1990
+Mac McAnally ,true ,45 ,Back Where I Come From,1990
+Exile ,true ,46 ,Nobody's Talking,1990
+The Charlie Daniels Band ,true ,47 ,Mister DJ,1990
+Alabama ,true ,48 ,Southern Star,1990
+Restless Heart ,true ,49 ,Fast Movin' Train,1990
+Vern Gosdin ,true ,50 ,Right In The Wrong Direction,1990
+Doug Stone ,true ,1 ,In A Different Light,1991
+George Strait ,true ,2 ,If I Know Me,1991
+Diamond Rio ,true ,3 ,Meet In The Middle,1991
+Paul Overstreet ,true ,4 ,Heroes,1991
+Dwight Yoakam ,true ,5 ,You're The One,1991
+Mark Chesnutt ,true ,6 ,Blame It On Texas,1991
+Ronnie Milsap ,true ,7 ,Are You Lovin' Me Like I'm Lovin' You,1991
+Joe Diffie ,true ,8 ,If The Devil Danced (In Empty Pockets),1991
+Dolly Parton With Ricky Van Shelton ,true ,9 ,Rockin' Years,1991
+Garth Brooks ,true ,10 ,The Thunder Rolls,1991
+The Oak Ridge Boys ,true ,11 ,Lucky Moon,1991
+Clint Black ,true ,12 ,One More Payment,1991
+Kathy Mattea ,true ,13 ,Time Passes By,1991
+Lorrie Morgan ,true ,14 ,We Both Walk,1991
+Alabama ,true ,15 ,Down Home,1991
+Travis Tritt ,true ,16 ,Drift Off To Dream,1991
+Randy Travis ,true ,17 ,Point Of Light,1991
+The Judds ,true ,18 ,One Hundred And Two,1991
+Tanya Tucker ,true ,19 ,Oh What It Did To Me,1991
+Highway 101 ,true ,20 ,Bing Bang Boom,1991
+Pirates Of The Mississippi ,true ,21 ,Feed Jake,1991
+Alan Jackson ,true ,22 ,Don't Rock The Jukebox,1991
+Mike Reid ,true ,23 ,Till You Were Gone,1991
+Pam Tillis ,true ,24 ,One Of Those Things,1991
+Mark O'Connor &amp; The New Nashville Cats ,true ,25 ,Restless,1991
+Carlene Carter ,true ,26 ,The Sweetest Thing,1991
+Ricky Van Shelton ,true ,27 ,I Am A Simple Man,1991
+McBride &amp; The Ride ,true ,28 ,Can I Count On You,1991
+Garth Brooks ,true ,29 ,Two Of A Kind, Workin' On A Full House,1991
+Clinton Gregory ,true ,30 ,(If It Weren't For Country Music) I'd Go Crazy,1991
+Alan Jackson ,true ,31 ,I'd Love You All Over Again,1991
+Vince Gill ,true ,32 ,Pocket Full Of Gold,1991
+Reba McEntire ,true ,33 ,Fancy,1991
+Marty Stuart ,true ,34 ,Till I Found You,1991
+Randy Travis ,true ,35 ,Heroes And Friends,1991
+Clint Black ,true ,36 ,Loving Blind,1991
+Don Williams ,true ,37 ,True Love,1991
+Billy Dean ,true ,38 ,Somewhere In My Broken Heart,1991
+T. Graham Brown ,true ,39 ,With This Ring,1991
+Mark Collie ,true ,40 ,Let Her Go,1991
+Shenandoah ,true ,41 ,I Got You,1991
+Shenandoah ,true ,42 ,The Moon Over Georgia,1991
+Rob Crosby ,true ,43 ,She's A Natural,1991
+Patty Loveless ,true ,44 ,I'm That Kind Of Girl,1991
+Aaron Tippin ,true ,45 ,I Wonder How Far It Is Over You,1991
+Hank Williams Jr. ,true ,46 ,If It Will It Will,1991
+Shelby Lynne ,true ,47 ,What About The Love We Made,1991
+Martin Delray ,true ,48 ,Get Rhythm,1991
+Don Williams ,true ,49 ,Lord Have Mercy On A Country Boy,1991
+Mary Chapin Carpenter ,true ,50 ,Right Now,1991
+Billy Ray Cyrus ,true ,1 ,Achy Breaky Heart,1992
+Sawyer Brown ,true ,2 ,Some Girls Do,1992
+Collin Raye ,true ,3 ,Every Second,1992
+Travis Tritt ,true ,4 ,Nothing Short Of Dying,1992
+Ricky Van Shelton ,true ,5 ,Backroads,1992
+Doug Stone ,true ,6 ,Come In Out Of The Pain,1992
+Brooks &amp; Dunn ,true ,7 ,Neon Moon,1992
+McBride &amp; The Ride ,true ,8 ,Sacred Ground,1992
+Trisha Yearwood ,true ,9 ,The Woman Before Me,1992
+Rodney Crowell ,true ,10 ,Lovin' All Night,1992
+Diamond Rio ,true ,11 ,Norma Jean Riley,1992
+George Strait ,true ,12 ,Gone As A Girl Can Get,1992
+Garth Brooks ,true ,13 ,Papa Loved Mama,1992
+Hal Ketchum ,true ,14 ,Past The Point Of Rescue,1992
+Mark Chesnutt ,true ,15 ,Old Flames Have New Names,1992
+Alan Jackson ,true ,16 ,Midnight In Montgomery,1992
+Shenandoah ,true ,17 ,Rock My Baby,1992
+Ronnie Milsap ,true ,18 ,All Is Fair In Love And War,1992
+John Anderson ,true ,19 ,When It Comes To You,1992
+Wynonna ,true ,20 ,I Saw The Light,1992
+Randy Travis ,true ,21 ,I'd Surrender All,1992
+Suzy Bogguss ,true ,22 ,Aces,1992
+Reba McEntire ,true ,23 ,The Night The Lights Went Out In Georgia,1992
+Michelle Wright ,true ,24 ,Take It Like A Man,1992
+Joe Diffie ,true ,25 ,Ships That Don't Come In,1992
+Aaron Tippin ,true ,26 ,There Ain't Nothin' Wrong With The Radio,1992
+Tracy Lawrence ,true ,27 ,Today's Lonely Fool,1992
+Sammy Kershaw ,true ,28 ,Don't Go Near The Water,1992
+Little Texas ,true ,29 ,First Time For Everything,1992
+Pam Tillis ,true ,30 ,Blue Rose Is,1992
+Tanya Tucker ,true ,31 ,Some Kind Of Trouble,1992
+Marty Stuart ,true ,32 ,Burn Me Down,1992
+Steve Wariner ,true ,33 ,The Tips Of My Fingers,1992
+Reba McEntire ,true ,34 ,Is There Life Out There,1992
+Martina McBride ,true ,35 ,The Time Has Come,1992
+Wynonna ,true ,36 ,She Is His Only Need,1992
+Dwight Yoakam ,true ,37 ,The Heart That You Own,1992
+Lorrie Morgan ,true ,38 ,Something In Red,1992
+Vince Gill ,true ,39 ,Take Your Memory With You,1992
+Confederate Railroad ,true ,40 ,She Took It Like A Man,1992
+Matthews, Wright &amp; King ,true ,41 ,The Power Of Love,1992
+Patty Loveless ,true ,42 ,Can't Stop Myself From Loving You,1992
+Pirates Of The Mississippi ,true ,43 ,Till I'm Holding You Again,1992
+Billy Dean ,true ,44 ,Billy The Kid,1992
+Dan Seals ,true ,45 ,Mason Dixon Line,1992
+Dennis Robbins ,true ,46 ,Home Sweet Home,1992
+Neal McCoy ,true ,47 ,Where Forever Begins,1992
+Davis Daniel ,true ,48 ,Still Got A Crush On You,1992
+Ricky Skaggs ,true ,49 ,From The Word Love,1992
+Lee Roy Parnell ,true ,50 ,What Kind Of Fool Do You Think I Am,1992
+John Michael Montgomery ,true ,1 ,I Love The Way You Love Me,1993
+Dwight Yoakam ,true ,2 ,Ain't That Lonely Yet,1993
+Wynonna ,true ,3 ,Tell Me Why,1993
+Toby Keith ,true ,4 ,Should've Been A Cowboy,1993
+Larry Stewart ,true ,5 ,Alright Already,1993
+Alabama ,true ,6 ,Hometown Honeymoon,1993
+Doug Stone ,true ,7 ,Made For Lovin' You,1993
+Patty Loveless ,true ,8 ,Blame It On Your Heart,1993
+Lee Roy Parnell ,true ,9 ,Tender Moment,1993
+Sawyer Brown ,true ,10 ,Trouble On The Line,1993
+Joe Diffie ,true ,11 ,Honky Tonk Attitude,1993
+Hal Ketchum ,true ,12 ,Hearts Are Gonna Roll,1993
+Travis Tritt ,true ,13 ,T-R-O-U-B-L-E,1993
+Garth Brooks ,true ,14 ,That Summer,1993
+Diamond Rio ,true ,15 ,Oh Me, Oh My, Sweet Baby,1993
+Vince Gill ,true ,16 ,No Future In The Past,1993
+Tracy Lawrence ,true ,17 ,Alibis,1993
+John Anderson ,true ,18 ,Money In The Bank,1993
+McBride &amp; The Ride ,true ,19 ,Love On The Loose, Heart On The Run,1993
+Tanya Tucker With Delbert McClinton ,true ,20 ,Tell Me About It,1993
+Randy Travis ,true ,21 ,An Old Pair Of Shoes,1993
+Collin Raye ,true ,22 ,Somebody Else's Moon,1993
+Suzy Bogguss ,true ,23 ,Heartache,1993
+Billy Dean ,true ,24 ,I Wanna Take Care Of You,1993
+Sammy Kershaw ,true ,25 ,She Don't Know She's Beautiful,1993
+Mary Chapin Carpenter ,true ,26 ,The Hard Way,1993
+Clint Black With Wynonna ,true ,27 ,A Bad Goodbye,1993
+Ricky Van Shelton ,true ,28 ,Just As I Am,1993
+George Strait ,true ,29 ,When Did You Stop Loving Me,1993
+Lorrie Morgan ,true ,30 ,I Guess You Had To Be There,1993
+Robert Ellis Orrall ,true ,31 ,A Little Bit Of Her Love,1993
+Alan Jackson ,true ,32 ,Tonight I Climbed The Wall,1993
+Pam Tillis ,true ,33 ,Cleopatra, Queen Of Denial,1993
+Aaron Tippin ,true ,34 ,My Blue Angel,1993
+Radney Foster ,true ,35 ,Nobody Wins,1993
+Confederate Railroad ,true ,36 ,When You Leave That Way You Can Never Go Back,1993
+Reba McEntire &amp; Vince Gill ,true ,37 ,The Heart Won't Lie,1993
+Reba McEntire ,true ,38 ,It's Your Call,1993
+Mark Collie ,true ,39 ,Born To Love You,1993
+Brooks &amp; Dunn ,true ,40 ,We'll Burn That Bridge,1993
+Clint Black ,true ,41 ,When My Ship Comes In,1993
+Ricky Lynn Gregg ,true ,42 ,If I Had A Cheatin' Heart,1993
+Brooks &amp; Dunn ,true ,43 ,Hard Workin' Man,1993
+Marty Stuart ,true ,44 ,Hey Baby,1993
+Gibson/Miller Band ,true ,45 ,High Rollin',1993
+Tanya Tucker ,true ,46 ,It's A Little Too Late,1993
+Garth Brooks ,true ,47 ,Learning To Live Again,1993
+Sammy Kershaw ,true ,48 ,Haunted Heart,1993
+Billy Ray Cyrus ,true ,49 ,She's Not Cryin' Anymore,1993
+Trisha Yearwood ,true ,50 ,You Say You Will,1993
+Tim McGraw ,true ,1 ,Don't Take The Girl,1994
+Toby Keith ,true ,2 ,Wish I Didn't Know Now,1994
+John Berry ,true ,3 ,Your Love Amazes Me,1994
+John Michael Montgomery ,true ,4 ,Rope The Moon,1994
+Patty Loveless ,true ,5 ,How Can I Help You Say Goodbye,1994
+Randy Travis ,true ,6 ,Before You Kill Us All,1994
+Brooks &amp; Dunn ,true ,7 ,That Ain't No Way To Go,1994
+George Strait ,true ,8 ,Lovebug,1994
+Vince Gill ,true ,9 ,Whenever You Come Around,1994
+Kathy Mattea ,true ,10 ,Walking Away A Winner,1994
+Clay Walker ,true ,11 ,Where Do I Fit In The Picture,1994
+Neal McCoy ,true ,12 ,Wink,1994
+Pam Tillis ,true ,13 ,Spilled Perfume,1994
+Clint Black ,true ,14 ,A Good Run Of Bad Luck,1994
+Collin Raye ,true ,15 ,Little Rock,1994
+Reba McEntire ,true ,16 ,Why Haven't I Heard From You,1994
+Confederate Railroad ,true ,17 ,Daddy Never Was The Cadillac Kind,1994
+Boy Howdy ,true ,18 ,They Don't Make 'Em Like That Anymore,1994
+Joe Diffie ,true ,19 ,In My Own Backyard,1994
+Shenandoah ,true ,20 ,If Bubba Can Dance (I Can Too),1994
+Alabama ,true ,21 ,The Cheap Seats,1994
+Mark Chesnutt ,true ,22 ,Woman, Sensuous Woman,1994
+Mary Chapin Carpenter ,true ,23 ,I Take My Chances,1994
+Travis Tritt ,true ,24 ,Foolish Pride,1994
+BlackHawk ,true ,25 ,Every Once In A While,1994
+Doug Stone ,true ,26 ,Addicted To A Dollar,1994
+Faith Hill ,true ,27 ,Piece Of My Heart,1994
+Steve Wariner ,true ,28 ,It Won't Be Over You,1994
+Garth Brooks ,true ,29 ,One Night A Day,1994
+Tracy Byrd ,true ,30 ,Lifestyles Of The Not So Rich &amp; Famous,1994
+John Anderson ,true ,31 ,I Wish I Could Have Been There,1994
+Wynonna ,true ,32 ,Rock Bottom,1994
+Daron Norwood ,true ,33 ,Cowboys Don't Cry,1994
+Lari White ,true ,34 ,That's My Baby,1994
+Tracy Lawrence ,true ,35 ,If The Good Die Young,1994
+Little Texas ,true ,36 ,My Love,1994
+Sammy Kershaw ,true ,37 ,I Can't Reach Her Anymore,1994
+Hal Ketchum ,true ,38 ,(Tonight We Just Might) Fall In Love Again,1994
+David Ball ,true ,39 ,Thinkin' Problem,1994
+David Lee Murphy ,true ,40 ,Just Once,1994
+Aaron Tippin ,true ,41 ,Whole Lotta Love On The Line,1994
+Alan Jackson ,true ,42 ,(Who Says) You Can't Have It All,1994
+Tim McGraw ,true ,43 ,Indian Outlaw,1994
+Little Texas ,true ,44 ,Stop On A Dime,1994
+Suzy Bogguss ,true ,45 ,You Wouldn't Say That To A Stranger,1994
+Martina McBride ,true ,46 ,Independence Day,1994
+Lee Roy Parnell ,true ,47 ,Take These Chains From My Heart,1994
+Sammy Kershaw ,true ,48 ,National Working Woman's Holiday,1994
+Dwight Yoakam ,true ,49 ,Try Not To Look So Pretty,1994
+John And Audrey Wiggins ,true ,50 ,Falling Out Of Love,1994
+Ty Herndon ,true ,1 ,What Mattered Most,1995
+John Berry ,true ,2 ,Standing On The Edge Of Goodbye,1995
+Clint Black ,true ,3 ,Summer's Comin',1995
+George Strait ,true ,4 ,Adalida,1995
+Toby Keith ,true ,5 ,You Ain't Much Fun,1995
+Mark Chesnutt ,true ,6 ,Gonna Get A Life,1995
+Sawyer Brown ,true ,7 ,I Don't Believe In Goodbye,1995
+Hal Ketchum ,true ,8 ,Stay Forever,1995
+Alison Krauss + Union Station ,true ,9 ,When You Say Nothing At All,1995
+John Michael Montgomery ,true ,10 ,I Can Love You Like That,1995
+Tracy Lawrence ,true ,11 ,Texas Tornado,1995
+Wade Hayes ,true ,12 ,I'm Still Dancin' With You,1995
+Doug Stone ,true ,13 ,Faith In Me, Faith In You,1995
+Patty Loveless ,true ,14 ,You Don't Even Know Who I Am,1995
+Collin Raye ,true ,15 ,If I Were You,1995
+Tracy Byrd ,true ,16 ,The Keeper Of The Stars,1995
+Travis Tritt ,true ,17 ,Tell Me I Was Dreaming,1995
+Sammy Kershaw ,true ,18 ,If You're Gonna Walk, I'm Gonna Crawl,1995
+Kenny Chesney ,true ,19 ,Fall In Love,1995
+Neal McCoy ,true ,20 ,They're Playin' Our Song,1995
+Alan Jackson ,true ,21 ,Song For The Life,1995
+Mary Chapin Carpenter ,true ,22 ,House Of Cards,1995
+Brooks &amp; Dunn ,true ,23 ,Little Miss Honky Tonk,1995
+Kathy Mattea ,true ,24 ,Clown In Your Rodeo,1995
+David Lee Murphy ,true ,25 ,Party Crowd,1995
+4 Runner ,true ,26 ,Cain's Blood,1995
+John Anderson ,true ,27 ,Mississippi Moon,1995
+BlackHawk ,true ,28 ,That's Just About Right,1995
+Alabama ,true ,29 ,Give Me One More Shot,1995
+Shenandoah ,true ,30 ,Darned If I Don't (Danged If I Do),1995
+Vince Gill ,true ,31 ,You Better Think Twice,1995
+Tim McGraw ,true ,32 ,Refried Dreams,1995
+Reba McEntire ,true ,33 ,The Heart Is A Lonely Hunter,1995
+Trisha Yearwood ,true ,34 ,You Can Sleep While I Drive,1995
+Clay Walker ,true ,35 ,My Heart Will Never Know,1995
+John Michael Montgomery ,true ,36 ,Sold (The Grundy County Auction Incident),1995
+Trisha Yearwood ,true ,37 ,Thinkin' About You,1995
+Joe Diffie ,true ,38 ,So Help Me Girl,1995
+Daryle Singletary ,true ,39 ,I'm Living Up To Her Low Expectations,1995
+Little Texas ,true ,40 ,Southern Grace,1995
+Clay Walker ,true ,41 ,This Woman And This Man,1995
+Shania Twain ,true ,42 ,Whose Bed Have Your Boots Been Under,1995
+Lari White ,true ,43 ,That's How You Know (When You're In Love),1995
+Lorrie Morgan ,true ,44 ,I Didn't Know My Own Strength,1995
+Shania Twain ,true ,45 ,Any Man Of Mine,1995
+Randy Travis ,true ,46 ,The Box,1995
+Ken Mellons ,true ,47 ,Workin' For The Weekend,1995
+James House ,true ,48 ,This Is Me Missing You,1995
+Rick Trevino ,true ,49 ,Bobbie Ann Mason,1995
+Woody Lee ,true ,50 ,Get Over It,1995
+Brooks &amp; Dunn ,true ,1 ,My Maria,1996
+George Strait ,true ,2 ,Blue Clear Sky,1996
+Faith Hill ,true ,3 ,Someone Else's Dream,1996
+Jo Dee Messina ,true ,4 ,Heads Carolina, Tails California,1996
+Billy Dean ,true ,5 ,It's What I Do,1996
+Collin Raye ,true ,6 ,I Think About You,1996
+Bryan White ,true ,7 ,I'm Not Supposed To Love You Anymore,1996
+Tracy Lawrence ,true ,8 ,Time Marches On,1996
+Toby Keith ,true ,9 ,Does That Blue Moon Ever Shine On You,1996
+Tim McGraw ,true ,10 ,All I Want Is A Life,1996
+John Michael Montgomery ,true ,11 ,Long As I Live,1996
+BlackHawk ,true ,12 ,Almost A Memory Now,1996
+Mindy McCready ,true ,13 ,Ten Thousand Angels,1996
+Terri Clark ,true ,14 ,If I Were You,1996
+Vince Gill ,true ,15 ,High Lonesome Sound,1996
+David Lee Murphy ,true ,16 ,Every Time I Get Around You,1996
+Alan Jackson ,true ,17 ,Home,1996
+The Mavericks (Featuring Flaco Jimenez) ,true ,18 ,All You Ever Do Is Bring Me Down,1996
+Garth Brooks ,true ,19 ,The Change,1996
+Shania Twain ,true ,20 ,You Win My Love,1996
+Wynonna ,true ,21 ,Heaven Help My Heart,1996
+Jeff Carson ,true ,22 ,Holdin' On To Something,1996
+Reba McEntire ,true ,23 ,Starting Over Again,1996
+Lonestar ,true ,24 ,No News,1996
+Lee Roy Parnell ,true ,25 ,Heart's Desire,1996
+Paul Brandt ,true ,26 ,My Heart Has A History,1996
+Pam Tillis ,true ,27 ,The River And The Highway,1996
+Sammy Kershaw ,true ,28 ,Meant To Be,1996
+Sawyer Brown ,true ,29 ,Treat Her Right,1996
+Joe Diffie ,true ,30 ,C-O-U-N-T-R-Y,1996
+Patty Loveless ,true ,31 ,A Thousand Times A Day,1996
+Ricochet ,true ,32 ,Daddy's Money,1996
+Rhett Akins ,true ,33 ,Don't Get Me Started,1996
+Marty Stuart &amp; Travis Tritt ,true ,34 ,Honky Tonkin's What I Do Best,1996
+Clay Walker ,true ,35 ,Hypnotize The Moon,1996
+Shania Twain ,true ,36 ,No One Needs To Know,1996
+Martina McBride ,true ,37 ,Phones Are Ringin' All Over Town,1996
+Lorrie Morgan &amp; Jon Randall ,true ,38 ,By My Side,1996
+Diamond Rio ,true ,39 ,That's What I Get For Lovin' You,1996
+Wade Hayes ,true ,40 ,On A Good Night,1996
+Trace Adkins ,true ,41 ,There's A Girl In Texas,1996
+Linda Davis ,true ,42 ,A Love Story In The Making,1996
+Kenny Chesney ,true ,43 ,Back In My Arms Again,1996
+Neal McCoy ,true ,44 ,Then You Can Tell Me Goodbye,1996
+Ricky Skaggs ,true ,45 ,Cat's In The Cradle,1996
+Alabama ,true ,46 ,Say I,1996
+Lee Roy Parnell ,true ,47 ,Givin' Water To A Drowning Man,1996
+Tracy Byrd ,true ,48 ,Heaven In My Woman's Eyes,1996
+LeAnn Rimes ,true ,49 ,Blue,1996
+David Ball ,true ,50 ,Circle Of Friends,1996
+Bryan White ,true ,1 ,Sittin' On Go,1997
+George Strait ,true ,2 ,One Night At A Time,1997
+Tim McGraw With Faith Hill ,true ,3 ,It's Your Love,1997
+Mindy McCready ,true ,4 ,A Girl's Gotta Do (What A Girl's Gotta Do),1997
+Alan Jackson ,true ,5 ,Who's Cheatin' Who,1997
+John Michael Montgomery ,true ,6 ,I Miss You A Little,1997
+Kevin Sharp ,true ,7 ,She's Sure Taking It Well,1997
+Vince Gill ,true ,8 ,A Little More Love,1997
+Alabama ,true ,9 ,Sad Lookin' Moon,1997
+LeAnn Rimes ,true ,10 ,The Light In Your Eyes,1997
+Lorrie Morgan ,true ,11 ,Good As I Was To You,1997
+Tracy Lawrence ,true ,12 ,Better Man, Better Off,1997
+Brooks &amp; Dunn ,true ,13 ,Why Would I Say Goodbye,1997
+Sawyer Brown ,true ,14 ,Six Days On The Road,1997
+Collin Raye ,true ,15 ,On The Verge,1997
+Reba McEntire ,true ,16 ,I'd Rather Ride Around With You,1997
+Ty Herndon ,true ,17 ,Loved Too Much,1997
+Tanya Tucker ,true ,18 ,Little Things,1997
+Deana Carter ,true ,19 ,Count Me In,1997
+Mark Chesnutt ,true ,20 ,Let It Rain,1997
+Mark Wills ,true ,21 ,Places I've Never Been,1997
+Pam Tillis ,true ,22 ,All The Good Ones Are Gone,1997
+Lee Ann Womack ,true ,23 ,Never Again, Again,1997
+Trace Adkins ,true ,24 ,I Left Something Turned On At Home,1997
+Sons Of The Desert ,true ,25 ,Whatever Comes First,1997
+Rick Trevino ,true ,26 ,I Only Get This Way With You,1997
+Clay Walker ,true ,27 ,Rumor Has It,1997
+Patty Loveless ,true ,28 ,The Trouble With The Truth,1997
+Trace Adkins ,true ,29 ,(This Ain't) No Thinkin' Thing,1997
+David Kersh ,true ,30 ,Another You,1997
+Travis Tritt ,true ,31 ,She's Going Home With Me,1997
+Joe Diffie ,true ,32 ,This Is Your Brain,1997
+Tracy Byrd ,true ,33 ,Don't Take Her She's All I Got,1997
+Lonestar ,true ,34 ,Come Cryin' To Me,1997
+John Berry ,true ,35 ,I Will, If You Will,1997
+Clay Walker ,true ,36 ,One, Two, I Love You,1997
+Tammy Graham ,true ,37 ,A Dozen Red Roses,1997
+Paul Brandt ,true ,38 ,Take It From Me,1997
+James Bonamy ,true ,39 ,The Swing,1997
+Sammy Kershaw ,true ,40 ,Fit To Be Tied Down,1997
+Michael Peterson ,true ,41 ,Drink, Swear, Steal &amp; Lie,1997
+The Buffalo Club ,true ,42 ,If She Don't Love You,1997
+Ricochet ,true ,43 ,He Left A Lot To Be Desired,1997
+Tracy Byrd ,true ,44 ,Don't Love Make A Diamond Shine,1997
+Lee Roy Parnell ,true ,45 ,Lucky Me, Lucky You,1997
+Gary Allan ,true ,46 ,From Where I'm Sitting,1997
+Kathy Mattea ,true ,47 ,455 Rocket,1997
+George Strait ,true ,48 ,Carrying Your Love With Me,1997
+John &amp; Audrey Wiggins ,true ,49 ,Somewhere In Love,1997
+Bill Engvall With Special Guest Travis Tritt ,true ,50 ,Here's Your Sign (Get The Picture),1997
+Faith Hill ,true ,1 ,This Kiss,1998
+Steve Wariner ,true ,2 ,Holes In The Floor Of Heaven,1998
+Tracy Byrd ,true ,3 ,I'm From The Country,1998
+George Strait ,true ,4 ,I Just Want To Dance With You,1998
+Tim McGraw ,true ,5 ,One Of These Days,1998
+Randy Travis ,true ,6 ,Out Of My Bones,1998
+Mark Wills ,true ,7 ,I Do [Cherish You],1998
+Reba/Brooks &amp; Dunn ,true ,8 ,If You See Him/If You See Her,1998
+LeAnn Rimes ,true ,9 ,Commitment,1998
+Garth Brooks ,true ,10 ,Two Pina Coladas,1998
+Kenny Chesney ,true ,11 ,That's Why I'm Here,1998
+Clint Black ,true ,12 ,The Shoes You're Wearing,1998
+Jo Dee Messina ,true ,13 ,Bye Bye,1998
+Gary Allan ,true ,14 ,It Would Be You,1998
+Lonestar ,true ,15 ,Say When,1998
+Michael Peterson ,true ,16 ,Too Good To Be True,1998
+Toby Keith ,true ,17 ,Dream Walkin',1998
+Shania Twain ,true ,18 ,You're Still The One,1998
+Terri Clark ,true ,19 ,Now That I Found You,1998
+Mark Chesnutt ,true ,20 ,I Might Even Quit Lovin' You,1998
+Ty Herndon ,true ,21 ,A Man Holdin' On (To A Woman Lettin' Go),1998
+Sammy Kershaw ,true ,22 ,Matches,1998
+Joe Diffie ,true ,23 ,Texas Size Heartache,1998
+Collin Raye ,true ,24 ,I Can Still Feel You,1998
+Dixie Chicks ,true ,25 ,There's Your Trouble,1998
+Clay Walker ,true ,26 ,Then What?,1998
+Keith Harling ,true ,27 ,Papa Bear,1998
+Trisha Yearwood ,true ,28 ,There Goes My Baby,1998
+Clint Black ,true ,29 ,Nothin' But The Taillights,1998
+Trisha Yearwood ,true ,30 ,Perfect Love,1998
+Shania Twain ,true ,31 ,From This Moment On,1998
+Lee Ann Womack ,true ,32 ,Buckaroo,1998
+Garth Brooks ,true ,33 ,To Make You Feel My Love,1998
+Martina McBride ,true ,34 ,Happy Girl,1998
+John Michael Montgomery ,true ,35 ,Love Working On You,1998
+Bryan White ,true ,36 ,Bad Day To Let You Go,1998
+Hal Ketchum ,true ,37 ,I Saw The Light,1998
+Patty Loveless ,true ,38 ,To Have You Back Again,1998
+Chely Wright ,true ,39 ,I Already Do,1998
+Pam Tillis ,true ,40 ,I Said A Prayer,1998
+Trace Adkins ,true ,41 ,Big Time,1998
+Dwight Yoakam ,true ,42 ,Things Change,1998
+Suzy Bogguss ,true ,43 ,Somebody To Love,1998
+Lari White ,true ,44 ,Stepping Stone,1998
+Wynonna ,true ,45 ,Always Will,1998
+Clay Walker ,true ,46 ,Ordinary People,1998
+Trace Adkins ,true ,47 ,Lonely Won't Leave Me Alone,1998
+Restless Heart ,true ,48 ,No End To This Road,1998
+Daryle Singletary ,true ,49 ,That's Where You're Wrong,1998
+Wade Hayes ,true ,50 ,When The Wrong One Loves You Right,1998
+Tim McGraw ,true ,1 ,Please Remember Me,1999
+Andy Griggs ,true ,2 ,You Won't Ever Be Lonely,1999
+Steve Wariner ,true ,3 ,Two Teardrops,1999
+George Strait ,true ,4 ,Write This Down,1999
+Shania Twain ,true ,5 ,Man! I Feel Like A Woman!,1999
+Collin Raye ,true ,6 ,Anyone Else,1999
+Mark Wills ,true ,7 ,Wish You Were Here,1999
+Ty Herndon ,true ,8 ,Hands Of A Working Man,1999
+Martina McBride ,true ,9 ,Whatever You Say,1999
+Kenny Chesney ,true ,10 ,How Forever Feels,1999
+Alan Jackson ,true ,11 ,Gone Crazy,1999
+Dixie Chicks ,true ,12 ,Tonight The Heartache's On Me,1999
+Lila McCann ,true ,13 ,With You,1999
+Montgomery Gentry ,true ,14 ,Hillbilly Shoes,1999
+Lee Ann Womack ,true ,15 ,I'll Think Of A Reason Later,1999
+Randy Travis ,true ,16 ,Stranger In My Mirror,1999
+Reba ,true ,17 ,One Honest Heart,1999
+Sammy Kershaw &amp; Lorrie Morgan ,true ,18 ,Maybe Not Tonight,1999
+John Michael Montgomery ,true ,19 ,Hello L.O.V.E.,1999
+Alabama Featuring 'N Sync ,true ,20 ,God Must Have Spent A Little More Time On You,1999
+Joe Diffie ,true ,21 ,A Night To Remember,1999
+Clay Walker ,true ,22 ,She's Always Right,1999
+Lonestar ,true ,23 ,Amazed,1999
+Jo Dee Messina ,true ,24 ,Lesson In Leavin',1999
+Dixie Chicks ,true ,25 ,You Were Mine,1999
+SHeDAISY ,true ,26 ,Little Good-byes,1999
+Terri Clark ,true ,27 ,Everytime I Cry,1999
+Chely Wright ,true ,28 ,Single White Female,1999
+Shane Minor ,true ,29 ,Slave To The Habit,1999
+Jessica Andrews ,true ,30 ,I Will Be There For You,1999
+Brad Paisley ,true ,31 ,Who Needs Pictures,1999
+Kenny Rogers ,true ,32 ,The Greatest,1999
+Dwight Yoakam ,true ,33 ,Crazy Little Thing Called Love,1999
+Aaron Tippin ,true ,34 ,I'm Leaving,1999
+Kenny Chesney ,true ,35 ,You Had Me From Hello,1999
+BlackHawk ,true ,36 ,Your Own Little Corner Of My Heart,1999
+Mark Chesnutt ,true ,37 ,This Heartache Never Sleeps,1999
+Deana Carter ,true ,38 ,Angels Working Overtime,1999
+Faith Hill ,true ,39 ,The Secret Of Life,1999
+Brooks &amp; Dunn ,true ,40 ,I Can't Get Over You,1999
+Trisha Yearwood ,true ,41 ,I'll Still Love You More,1999
+Sara Evans ,true ,42 ,Fool, I'm A Woman,1999
+Patty Loveless ,true ,43 ,Can't Get Enough,1999
+Diamond Rio ,true ,44 ,I Know How The River Feels,1999
+Brooks &amp; Dunn ,true ,45 ,South Of Santa Fe,1999
+Mary Chapin Carpenter ,true ,46 ,Almost Home,1999
+Faith Hill ,true ,47 ,Love Ain't Like That,1999
+Doug Stone ,true ,48 ,Make Up In Love,1999
+Billy Ray Cyrus ,true ,49 ,Give My Heart To You,1999
+Ricochet ,true ,50 ,Seven Bridges Road,1999
+Faith Hill ,true ,1 ,The Way You Love Me,2000
+Andy Griggs ,true ,2 ,She's More,2000
+Clay Walker ,true ,3 ,The Chain Of Love,2000
+Chad Brock ,true ,4 ,Yes!,2000
+Kenny Rogers With Alison Krauss &amp; Billy Dean ,true ,5 ,Buy Me A Rose,2000
+George Strait ,true ,6 ,The Best Day,2000
+Collin Raye ,true ,7 ,Couldn't Last A Moment,2000
+Toby Keith ,true ,8 ,How Do You Like Me Now?!,2000
+Kenny Chesney ,true ,9 ,What I Need To Do,2000
+Clay Davidson ,true ,10 ,Unconditional,2000
+Clint Black With Steve Wariner ,true ,11 ,Been There,2000
+Phil Vassar ,true ,12 ,Carlene,2000
+Lee Ann Womack With Sons Of The Desert ,true ,13 ,I Hope You Dance,2000
+Trace Adkins ,true ,14 ,More,2000
+Tim McGraw ,true ,15 ,Some Things Never Change,2000
+Reba McEntire ,true ,16 ,I'll Be,2000
+Yankee Grey ,true ,17 ,Another Nine Minutes,2000
+Rascal Flatts ,true ,18 ,Prayin' For Daylight,2000
+Brad Paisley ,true ,19 ,Me Neither,2000
+Martina McBride ,true ,20 ,Love's The Only House,2000
+Eric Heatherly ,true ,21 ,Flowers On The Wall,2000
+Lonestar ,true ,22 ,What About Now,2000
+Dixie Chicks ,true ,23 ,Cowboy Take Me Away,2000
+Keith Urban ,true ,24 ,Your Everything,2000
+Tim McGraw ,true ,25 ,My Best Friend,2000
+The Judds ,true ,26 ,Stuck In Love,2000
+Brooks &amp; Dunn ,true ,27 ,You'll Always Be Loved By Me,2000
+Alan Jackson ,true ,28 ,It Must Be Love,2000
+Joe Diffie ,true ,29 ,It's Always Somethin',2000
+SHeDAISY ,true ,30 ,I Will...But,2000
+Ty Herndon ,true ,31 ,No Mercy,2000
+Steve Wariner ,true ,32 ,Faith In You,2000
+Dixie Chicks ,true ,33 ,Cold Day In July,2000
+LeAnn Rimes ,true ,34 ,I Need You,2000
+Mark Wills ,true ,35 ,Almost Doesn't Count,2000
+Darryl Worley ,true ,36 ,When You Need My Love,2000
+Jo Dee Messina ,true ,37 ,That's The Way,2000
+Garth Brooks ,true ,38 ,When You Come Back To Me Again,2000
+Craig Morgan ,true ,39 ,Something To Write Home About,2000
+The Warren Brothers Featuring Sara Evans ,true ,40 ,That's The Beat Of A Heart,2000
+Montgomery Gentry ,true ,41 ,Self Made Man,2000
+Steve Holy ,true ,42 ,Blue Moon,2000
+Gary Allan ,true ,43 ,Lovin' You Against My Will,2000
+Neal McCoy ,true ,44 ,Forever Works For Me (Monday, Tuesday, Wednesday, Thursday),2000
+Trisha Yearwood ,true ,45 ,Real Live Woman,2000
+BlackHawk ,true ,46 ,I Need You All The Time,2000
+The Kinleys ,true ,47 ,She Ain't The Girl For You,2000
+Ricochet ,true ,48 ,Do I Love You Enough,2000
+Tracy Byrd ,true ,49 ,Love, You Ain't Seen The Last Of Me,2000
+Sons Of The Desert ,true ,50 ,Change,2000
+Brooks &amp; Dunn ,true ,1 ,Ain't Nothing 'Bout You,2001
+Tim McGraw ,true ,2 ,Grown Men Don't Cry,2001
+Kenny Chesney ,true ,3 ,Don't Happen Twice,2001
+Dixie Chicks ,true ,4 ,If I Fall You're Going Down With Me,2001
+Travis Tritt ,true ,5 ,It's A Great Day To Be Alive,2001
+Gary Allan ,true ,6 ,Right Where I Need To Be,2001
+Lonestar ,true ,7 ,I'm Already There,2001
+Mark McGuinn ,true ,8 ,Mrs. Steven Rudy,2001
+Sara Evans ,true ,9 ,I Could Not Ask For More,2001
+George Strait ,true ,10 ,If You Can Do Anything Else,2001
+Alan Jackson ,true ,11 ,When Somebody Loves You,2001
+Jessica Andrews ,true ,12 ,Who I Am,2001
+Montgomery Gentry ,true ,13 ,She Couldn't Change Me,2001
+Brad Paisley ,true ,14 ,Two People Fell In Love,2001
+Diamond Rio ,true ,15 ,One More Day,2001
+Toby Keith ,true ,16 ,You Shouldn't Kiss Me Like This,2001
+Jo Dee Messina ,true ,17 ,Downtime,2001
+Aaron Tippin ,true ,18 ,People Like Us,2001
+Jamie O'Neal ,true ,19 ,When I Think About Angels,2001
+LeAnn Rimes ,true ,20 ,But I Do Love You,2001
+Clay Davidson ,true ,21 ,Sometimes,2001
+Chris Cagle ,true ,22 ,Laredo,2001
+Rascal Flatts ,true ,23 ,While You Loved Me,2001
+Keith Urban ,true ,24 ,Where The Blacktop Ends,2001
+Faith Hill ,true ,25 ,If My Heart Had Wings,2001
+Tracy Byrd Duet With Mark Chesnutt ,true ,26 ,A Good Way To Get On My Bad Side,2001
+Darryl Worley ,true ,27 ,Second Wind,2001
+Terri Clark ,true ,28 ,No Fear,2001
+Kenny Rogers ,true ,29 ,There You Go Again,2001
+Lee Ann Womack ,true ,30 ,Why They Call It Falling,2001
+Trisha Yearwood ,true ,31 ,I Would've Loved You Anyway,2001
+Blake Shelton ,true ,32 ,Austin,2001
+Phil Vassar ,true ,33 ,Rose Bouquet,2001
+Cyndi Thomson ,true ,34 ,What I Really Meant To Say,2001
+Sons Of The Desert ,true ,35 ,What I Did Right,2001
+Tammy Cochran ,true ,36 ,Angels In Waiting,2001
+Faith Hill ,true ,37 ,There You'll Be,2001
+Charlie Robison ,true ,38 ,I Want You Bad,2001
+Carolyn Dawn Johnson ,true ,39 ,So Complicated,2001
+SHeDAISY ,true ,40 ,Still Holding Out For You,2001
+Toby Keith ,true ,41 ,I'm Just Talkin' About Tonight,2001
+Mark Wills ,true ,42 ,Loving Every Minute,2001
+Diamond Rio ,true ,43 ,Sweet Summer,2001
+Trick Pony ,true ,44 ,On A Night Like This,2001
+Tracy Lawrence ,true ,45 ,Unforgiven,2001
+Lila McCann ,true ,46 ,Come A Little Closer,2001
+Patty Loveless ,true ,47 ,The Last Thing On My Mind,2001
+Alabama ,true ,48 ,Will You Marry Me,2001
+3 Of Hearts ,true ,49 ,Love Is Enough,2001
+Andy Griggs ,true ,50 ,How Cool Is That,2001
+Alan Jackson ,true ,1 ,Drive (For Daddy Gene),2002
+Tommy Shane Steiner ,true ,2 ,What If She's An Angel,2002
+Steve Azar ,true ,3 ,I Don't Have To Be Me ('til Monday),2002
+George Strait ,true ,4 ,Living And Living Well,2002
+Toby Keith ,true ,5 ,My List,2002
+Emerson Drive ,true ,6 ,I Should Be Sleeping,2002
+Brad Paisley ,true ,7 ,I'm Gonna Miss Her (The Fishin' Song),2002
+Travis Tritt ,true ,8 ,Modern Day Bonnie And Clyde,2002
+Carolyn Dawn Johnson ,true ,9 ,I Don't Want You To Go,2002
+Lonestar ,true ,10 ,Not A Day Goes By,2002
+Phil Vassar ,true ,11 ,That's When I Love You,2002
+Gary Allan ,true ,12 ,The One,2002
+Kenny Chesney ,true ,13 ,Young,2002
+Kellie Coffey ,true ,14 ,When You Lie Next To Me,2002
+Rascal Flatts ,true ,15 ,I'm Movin' On,2002
+Trick Pony ,true ,16 ,Just What I Do,2002
+Brooks &amp; Dunn ,true ,17 ,My Heart Is Lost To You,2002
+Tammy Cochran ,true ,18 ,I Cry,2002
+Martina McBride ,true ,19 ,Blessed,2002
+Chris Cagle ,true ,20 ,I Breathe In, I Breathe Out,2002
+Darryl Worley ,true ,21 ,I Miss My Friend,2002
+Andy Griggs ,true ,22 ,Tonight I Wanna Be Your Man,2002
+Willie Nelson Duet With Lee Ann Womack ,true ,23 ,Mendocino County Line,2002
+Trace Adkins ,true ,24 ,Help Me Understand,2002
+Sara Evans ,true ,25 ,I Keep Looking,2002
+Brad Martin ,true ,26 ,Before I Knew Better,2002
+Mark Chesnutt ,true ,27 ,She Was,2002
+Shannon Lawson ,true ,28 ,Goodbye On A Bad Day,2002
+Tracy Byrd ,true ,29 ,Ten Rounds With Jose Cuervo,2002
+Blake Shelton ,true ,30 ,Ol' Red,2002
+Kenny Chesney ,true ,31 ,The Good Stuff,2002
+Joe Nichols ,true ,32 ,The Impossible,2002
+Diamond Rio ,true ,33 ,Beautiful Mess,2002
+Little Big Town ,true ,34 ,Don't Waste My Time,2002
+SHeDAISY ,true ,35 ,Get Over Yourself,2002
+Cyndi Thomson ,true ,36 ,I'm Gone,2002
+Brett James ,true ,37 ,Chasin' Amy,2002
+Pinmonkey ,true ,38 ,Barbed Wire And Roses,2002
+Phil Vassar ,true ,39 ,American Child,2002
+Martina McBride ,true ,40 ,Where Would You Be,2002
+Toby Keith ,true ,41 ,Courtesy Of The Red, White And Blue (The Angry American),2002
+Hometown News ,true ,42 ,Minivan,2002
+Anthony Smith ,true ,43 ,If That Ain't Country,2002
+Jo Dee Messina ,true ,44 ,Dare To Dream,2002
+Sixwire ,true ,45 ,Look At Me Now,2002
+Garth Brooks Duet With Trisha Yearwood ,true ,46 ,Squeeze Me In,2002
+Chris Cagle ,true ,47 ,Country By The Grace Of God,2002
+Marie Sisters ,true ,48 ,Real Bad Mood,2002
+Kenny Rogers ,true ,49 ,Harder Cards,2002
+Aaron Tippin ,true ,50 ,I'll Take Love Over Money,2002
+Diamond Rio ,true ,1 ,I Believe,2003
+Randy Travis ,true ,2 ,Three Wooden Crosses,2003
+Keith Urban ,true ,3 ,Raining On Sunday,2003
+Chris Cagle ,true ,4 ,What A Beautiful Day,2003
+Toby Keith Duet With Willie Nelson ,true ,5 ,Beer For My Horses,2003
+Rascal Flatts ,true ,6 ,Love You Out Loud,2003
+Darryl Worley ,true ,7 ,Have You Forgotten?,2003
+Lonestar ,true ,8 ,My Front Porch Looking In,2003
+Tim McGraw ,true ,9 ,She's My Kind Of Rain,2003
+Kenny Chesney ,true ,10 ,Big Star,2003
+Jimmy Wayne ,true ,11 ,Stay Gone,2003
+Craig Morgan ,true ,12 ,Almost Home,2003
+Montgomery Gentry ,true ,13 ,Speed,2003
+Jeff Bates ,true ,14 ,The Love Song,2003
+Brooks &amp; Dunn ,true ,15 ,Red Dirt Road,2003
+Joe Nichols ,true ,16 ,Brokenheartsville,2003
+Tracy Byrd ,true ,17 ,The Truth About Men,2003
+Alan Jackson ,true ,18 ,That'd Be Alright,2003
+George Strait ,true ,19 ,Tell Me Something Bad About Tulsa,2003
+Jessica Andrews ,true ,20 ,There's More To Me Than You,2003
+Brad Paisley ,true ,21 ,Celebrity,2003
+Jo Dee Messina ,true ,22 ,Was That My Life,2003
+Shania Twain ,true ,23 ,Forever And For Always,2003
+Brian McComas ,true ,24 ,99.9% Sure (I've Never Been Here Before),2003
+Trace Adkins ,true ,25 ,Then They Do,2003
+Sara Evans ,true ,26 ,Backseat Of A Greyhound Bus,2003
+Wynonna ,true ,27 ,What The World Needs,2003
+Dusty Drake ,true ,28 ,One Last Time,2003
+Clay Walker ,true ,29 ,A Few Questions,2003
+Amy Dalley ,true ,30 ,Love's Got An Attitude (It Is What It Is),2003
+Mark Wills ,true ,31 ,When You Think Of Me,2003
+Dierks Bentley ,true ,32 ,What Was I Thinkin',2003
+Garth Brooks ,true ,33 ,Why Ain't I Running,2003
+Joe Nichols ,true ,34 ,She Only Smokes When She Drinks,2003
+Vince Gill ,true ,35 ,Someday,2003
+Terri Clark ,true ,36 ,Three Mississippi,2003
+Buddy Jewell ,true ,37 ,Help Pour Out The Rain (Lacey's Song),2003
+Blake Shelton ,true ,38 ,Heavy Liftin',2003
+Travis Tritt ,true ,39 ,Country Ain't Country,2003
+Kenny Chesney ,true ,40 ,No Shoes, No Shirt, No Problems,2003
+Emerson Drive ,true ,41 ,Only God (Could Stop Me Loving You),2003
+Faith Hill ,true ,42 ,You're Still Here,2003
+The Warren Brothers ,true ,43 ,Hey Mr. President,2003
+Aaron Lines ,true ,44 ,Love Changes Everything,2003
+Rushlow ,true ,45 ,I Can't Be Your Friend,2003
+LeAnn Rimes ,true ,46 ,Suddenly,2003
+Billy Currington ,true ,47 ,Walk A Little Straighter,2003
+Tim McGraw ,true ,48 ,Real Good Man,2003
+Sammy Kershaw ,true ,49 ,I Want My Money Back,2003
+Jennifer Hanson ,true ,50 ,This Far Gone,2003
+Gretchen Wilson ,true ,1 ,Redneck Woman,2004
+John Michael Montgomery ,true ,2 ,Letters From Home,2004
+Rascal Flatts ,true ,3 ,Mayberry,2004
+Tracy Lawrence ,true ,4 ,Paint Me A Birmingham,2004
+Keith Urban ,true ,5 ,You'll Think Of Me,2004
+George Strait ,true ,6 ,Desperately,2004
+Kenny Chesney &amp; Uncle Kracker ,true ,7 ,When The Sun Goes Down,2004
+Montgomery Gentry ,true ,8 ,If You Ever Stop Loving Me,2004
+Lonestar ,true ,9 ,Let's Be Us Again,2004
+Toby Keith ,true ,10 ,Whiskey Girl,2004
+Brooks &amp; Dunn ,true ,11 ,That's What She Gets For Loving Me,2004
+David Lee Murphy ,true ,12 ,Loco,2004
+Clay Walker ,true ,13 ,I Can't Sleep,2004
+SHeDAISY ,true ,14 ,Passenger Seat,2004
+Reba McEntire ,true ,15 ,Somebody,2004
+Billy Currington ,true ,16 ,I Got A Feelin',2004
+Brad Paisley Featuring Alison Krauss ,true ,17 ,Whiskey Lullaby,2004
+Shania Twain ,true ,18 ,It Only Hurts When I'm Breathing,2004
+Josh Gracin ,true ,19 ,I Want To Live,2004
+Joe Diffie ,true ,20 ,Tougher Than Nails,2004
+Emerson Drive ,true ,21 ,Last One Standing,2004
+Andy Griggs ,true ,22 ,She Thinks She Needs Me,2004
+Kenny Chesney ,true ,23 ,I Go Back,2004
+Terri Clark ,true ,24 ,Girls Lie Too,2004
+Rachel Proctor ,true ,25 ,Me And Emily,2004
+Martina McBride ,true ,26 ,How Far,2004
+Lee Ann Womack ,true ,27 ,The Wrong Girl,2004
+Jeff Bates ,true ,28 ,I Wanna Make You Cry,2004
+Joe Nichols ,true ,29 ,If Nobody Believed In You,2004
+Trent Willmon ,true ,30 ,Beer Man,2004
+Big &amp; Rich ,true ,31 ,Save A Horse (Ride A Cowboy),2004
+Amy Dalley ,true ,32 ,Men Don't Change,2004
+Trace Adkins ,true ,33 ,Rough &amp; Ready,2004
+Billy Dean ,true ,34 ,Thank God I'm A Country Boy,2004
+Julie Roberts ,true ,35 ,Break Down Here,2004
+Jimmy Buffett With Clint Black, Kenny Chesney, Alan Jackson, Toby Keith &amp; George Strait ,true ,36 ,Hey Good Lookin',2004
+The Jenkins ,true ,37 ,Blame It On Mama,2004
+Hank Williams Jr. ,true ,38 ,Why Can't We All Just Get A Long Neck?,2004
+Blake Shelton ,true ,39 ,When Somebody Knows You That Well,2004
+Chely Wright ,true ,40 ,Back Of The Bottom Drawer,2004
+Phil Vassar ,true ,41 ,In A Real Love,2004
+Sara Evans ,true ,42 ,Suds In The Bucket,2004
+Jimmy Wayne ,true ,43 ,You Are,2004
+Josh Turner ,true ,44 ,What It Ain't,2004
+Craig Morgan ,true ,45 ,Look At Us,2004
+Brad Cotter ,true ,46 ,I Meant To,2004
+Rodney Atkins ,true ,47 ,Someone To Share It With,2004
+Travis Tritt ,true ,48 ,The Girl's Gone Wild,2004
+Rushlow ,true ,49 ,Sweet Summer Rain,2004
+Dierks Bentley ,true ,50 ,How Am I Doin',2004
+Keith Urban ,true ,1 ,Making Memories Of Us,2005
+Gretchen Wilson ,true ,2 ,Homewrecker,2005
+Jo Dee Messina ,true ,3 ,My Give A Damn's Busted,2005
+Joe Nichols ,true ,4 ,What's A Guy Gotta Do,2005
+Dierks Bentley ,true ,5 ,Lot Of Leavin' Left To Do,2005
+Trace Adkins ,true ,6 ,Songs About Me,2005
+Rascal Flatts ,true ,7 ,Fast Cars And Freedom,2005
+Craig Morgan ,true ,8 ,That's What I Love About Sunday,2005
+George Strait ,true ,9 ,You'll Be There,2005
+Andy Griggs ,true ,10 ,If Heaven,2005
+Kenny Chesney ,true ,11 ,Anything But Mine,2005
+Montgomery Gentry ,true ,12 ,Gone,2005
+Brooks &amp; Dunn ,true ,13 ,It's Getting Better All The Time,2005
+Sugarland ,true ,14 ,Something More,2005
+Sugarland ,true ,15 ,Baby Girl,2005
+Darryl Worley ,true ,16 ,If Something Should Happen,2005
+Kenny Chesney ,true ,17 ,Keg In The Closet,2005
+Jeff Bates ,true ,18 ,Long, Slow Kisses,2005
+Tim McGraw ,true ,19 ,Drugs Or Jesus,2005
+Blake Shelton ,true ,20 ,Goodbye Time,2005
+Bobby Pinson ,true ,21 ,Don't Ask Me How I Know,2005
+Big &amp; Rich ,true ,22 ,Big Time,2005
+Keith Anderson ,true ,23 ,Pickin' Wildflowers,2005
+Toby Keith ,true ,24 ,As Good As I Once Was,2005
+Alan Jackson ,true ,25 ,The Talkin' Song Repair Blues,2005
+Lonestar ,true ,26 ,Class Reunion (That Used To Be Us),2005
+Faith Hill ,true ,27 ,Mississippi Girl,2005
+SHeDAISY ,true ,28 ,Don't Worry 'Bout A Thing,2005
+Reba McEntire ,true ,29 ,My Sister,2005
+Pat Green ,true ,30 ,Baby Doll,2005
+Van Zant ,true ,31 ,Help Somebody,2005
+Brad Paisley ,true ,32 ,Alcohol,2005
+Trick Pony ,true ,33 ,It's A Heartache,2005
+Toby Keith ,true ,34 ,Honkytonk U,2005
+Trisha Yearwood ,true ,35 ,Georgia Rain,2005
+Buddy Jewell ,true ,36 ,If She Were Any Other Woman,2005
+Jamie O'Neal ,true ,37 ,Somebody's Hero,2005
+LeAnn Rimes ,true ,38 ,Probably Wouldn't Be This Way,2005
+Sara Evans ,true ,39 ,A Real Fine Place To Start,2005
+Hanna-McEuen ,true ,40 ,Something Like A Broken Heart,2005
+Josh Gracin ,true ,41 ,Stay With Me (Brass Bed),2005
+Aaron Lines ,true ,42 ,Waitin' On The Wonderful,2005
+Jason Aldean ,true ,43 ,Hicktown,2005
+Hot Apple Pie ,true ,44 ,Hillbillies,2005
+Miranda Lambert ,true ,45 ,Bring Me Down,2005
+Shooter Jennings Featuring George Jones ,true ,46 ,4th Of July,2005
+Ryan Shupe &amp; The RubberBand ,true ,47 ,Dream Big,2005
+Travis Tritt ,true ,48 ,I See Me,2005
+Lee Ann Womack ,true ,49 ,He Oughta Know That By Now,2005
+Neal McCoy ,true ,50 ,Billy's Got His Beer Goggles On,2005
+Jason Aldean ,true ,1 ,Why,2006
+Dierks Bentley ,true ,2 ,Settle For A Slowdown,2006
+LeAnn Rimes ,true ,3 ,Something's Gotta Give,2006
+Jack Ingram ,true ,4 ,Wherever You Are,2006
+Tim McGraw ,true ,5 ,When The Stars Go Blue,2006
+Faith Hill ,true ,6 ,The Lucky One,2006
+Phil Vassar ,true ,7 ,Last Day Of My Life,2006
+Kenny Chesney ,true ,8 ,Summertime,2006
+Rascal Flatts ,true ,9 ,What Hurts The Most,2006
+Bon Jovi Duet With Jennifer Nettles ,true ,10 ,Who Says You Can't Go Home,2006
+Joe Nichols ,true ,11 ,Size Matters (Someday),2006
+Brad Paisley ,true ,12 ,The World,2006
+Keith Anderson ,true ,13 ,Every Time I Hear Your Name,2006
+George Strait ,true ,14 ,The Seashores Of Old Mexico,2006
+Carrie Underwood ,true ,15 ,Don't Forget To Remember Me,2006
+Craig Morgan ,true ,16 ,I Got You,2006
+Toby Keith ,true ,17 ,A Little Too Late,2006
+Rascal Flatts ,true ,18 ,Me And My Gang,2006
+Gary Allan ,true ,19 ,Life Ain't Always Beautiful,2006
+Rodney Atkins ,true ,20 ,If You're Going Through Hell (Before The Devil Even Knows),2006
+Little Big Town ,true ,21 ,Bring It On Home,2006
+Kenny Rogers ,true ,22 ,I Can't Unlove You,2006
+Eric Church ,true ,23 ,How 'Bout You,2006
+Sugarland ,true ,24 ,Down In Mississippi (Up To No Good),2006
+Billy Currington ,true ,25 ,Why, Why, Why,2006
+Gretchen Wilson Featuring Merle Haggard ,true ,26 ,Politically Uncorrect,2006
+Josh Gracin ,true ,27 ,Favorite State Of Mind,2006
+Jake Owen ,true ,28 ,Yee Haw,2006
+The Wreckers ,true ,29 ,Leave The Pieces,2006
+Trent Willmon ,true ,30 ,On Again Tonight,2006
+Steve Holy ,true ,31 ,Brand New Girlfriend,2006
+Pat Green ,false ,32 ,Feels Just Like It Should,2006
+Danielle Peck ,true ,33 ,Findin' A Good Man,2006
+Josh Turner ,true ,34 ,Would You Go With Me,2006
+Garth Brooks ,true ,35 ,That Girl Is A Cowboy,2006
+Megan Mullins ,true ,36 ,Ain't What It Used To Be,2006
+Blaine Larsen ,true ,37 ,I Don't Know What She Said,2006
+Trace Adkins ,true ,38 ,Swing,2006
+Miranda Lambert ,true ,39 ,New Strings,2006
+Hank Williams Jr. With Gretchen Wilson, Big &amp; Rich &amp; Van Zant ,true ,40 ,That's How They Do It In Dixie,2006
+Neal McCoy ,true ,41 ,The Last Of A Dying Breed,2006
+Diamond Rio ,true ,42 ,God Only Cries,2006
+Sara Evans ,true ,43 ,Coalmine,2006
+Cross Canadian Ragweed ,true ,44 ,This Time Around,2006
+Emerson Drive ,true ,45 ,A Good Man,2006
+Mark Wills ,true ,46 ,Hank,2006
+Big &amp; Rich ,true ,47 ,Never Mind Me,2006
+The Lost Trailers ,true ,48 ,Call Me Crazy,2006
+Rio Grand ,true ,49 ,Kill Me Now,2006
+Dixie Chicks ,true ,50 ,Everybody Knows,2006
+Billy Currington ,true ,1 ,Good Directions,2007
+Sugarland ,true ,2 ,Settlin',2007
+Emerson Drive ,true ,3 ,Moments,2007
+Toby Keith ,true ,4 ,High Maintenance Woman,2007
+Rascal Flatts ,true ,5 ,Stand,2007
+Brad Paisley ,true ,6 ,Ticks,2007
+Alan Jackson ,true ,7 ,A Woman's Love,2007
+Tracy Lawrence ,true ,8 ,Find Out Who Your Friends Are,2007
+Carrie Underwood ,true ,9 ,Wasted,2007
+Montgomery Gentry ,true ,10 ,Lucky Man,2007
+George Strait ,true ,11 ,Wrapped,2007
+Big &amp; Rich ,true ,12 ,Lost In This Moment,2007
+Blake Shelton ,true ,13 ,Don't Make Me,2007
+Keith Urban ,true ,14 ,I Told You So,2007
+Jake Owen ,true ,15 ,Startin' With Me,2007
+Jason Aldean ,true ,16 ,Johnny Cash,2007
+Tim McGraw ,true ,17 ,Last Dollar (Fly Away),2007
+Taylor Swift ,true ,18 ,Teardrops On My Guitar,2007
+Bucky Covington ,true ,19 ,A Different World,2007
+Rodney Atkins ,true ,20 ,These Are My People,2007
+Tim McGraw With Faith Hill ,true ,21 ,I Need You,2007
+Kellie Pickler ,true ,22 ,I Wonder,2007
+Craig Morgan ,true ,23 ,Tough,2007
+Eric Church ,true ,24 ,Guys Like Me,2007
+Little Big Town ,true ,25 ,A Little More You,2007
+Luke Bryan ,true ,26 ,All My Friends Say,2007
+Carolina Rain ,true ,27 ,Isn't She,2007
+Cole Deggs &amp; The Lonesome ,true ,28 ,I Got More,2007
+Sarah Buxton ,true ,29 ,That Kind Of Day,2007
+Jason Michael Carroll ,true ,30 ,Livin' Our Love Song,2007
+Terri Clark ,true ,31 ,Dirty Girl,2007
+Trace Adkins ,true ,32 ,I Wanna Feel Something,2007
+Clay Walker ,true ,33 ,Fall,2007
+The Wreckers ,true ,34 ,Tennessee,2007
+Martina McBride ,true ,35 ,How I Feel,2007
+Dusty Drake ,true ,36 ,Say Yes,2007
+Jack Ingram ,true ,37 ,Measure Of A Man,2007
+Miranda Lambert ,true ,38 ,Famous In A Small Town,2007
+Trent Tomlinson ,true ,39 ,Just Might Have Her Radio On,2007
+Lee Brice ,true ,40 ,She Ain't Right,2007
+Gretchen Wilson ,true ,41 ,One Of The Boys,2007
+Carrie Underwood ,true ,42 ,I'll Stand By You,2007
+Halfway To Hazard ,true ,43 ,Daisy,2007
+Joe Nichols ,true ,44 ,Another Side Of You,2007
+Bon Jovi ,true ,45 ,(You Want To) Make A Memory,2007
+Vince Gill With Sheryl Crow ,true ,46 ,What You Give Away,2007
+Catherine Britt ,true ,47 ,What I Did Last Night,2007
+Flynnville Train ,true ,48 ,Last Good Time,2007
+Little Texas ,true ,49 ,Missing Years,2007
+Jamie O'Neal ,true ,50 ,God Don't Make Mistakes,2007
+Brad Paisley ,true ,1 ,I'm Still A Guy,2008
+Phil Vassar ,true ,2 ,Love Is A Beautiful Thing,2008
+James Otto ,true ,3 ,Just Got Started Lovin' You,2008
+Rascal Flatts ,true ,4 ,Every Day,2008
+Lady Antebellum ,true ,5 ,Love Don't Live Here,2008
+George Strait ,true ,6 ,I Saw God Today,2008
+Carrie Underwood ,true ,7 ,Last Name,2008
+Kenny Chesney ,true ,8 ,Better As A Memory,2008
+Taylor Swift ,true ,9 ,Picture To Burn,2008
+Montgomery Gentry ,true ,10 ,Back When I Knew It All,2008
+Blake Shelton ,true ,11 ,Home,2008
+Dierks Bentley ,true ,12 ,Trying To Stop Your Leaving,2008
+Alan Jackson ,true ,13 ,Good Time,2008
+Toby Keith ,true ,14 ,She's A Hottie,2008
+Jewel ,true ,15 ,Stronger Woman,2008
+Tim McGraw ,true ,16 ,Kristofferson,2008
+Josh Turner Featuring Trisha Yearwood ,true ,17 ,Another Try,2008
+Miranda Lambert ,true ,18 ,Gunpowder And Lead,2008
+Reba McEntire With Kenny Chesney ,true ,19 ,Every Other Weekend,2008
+Keith Anderson ,true ,20 ,I Still Miss You,2008
+Josh Gracin ,true ,21 ,We Weren't Crazy,2008
+Brooks &amp; Dunn ,true ,22 ,Put A Girl In It,2008
+Gary Allan ,true ,23 ,Learning How To Bend,2008
+Joe Nichols ,true ,24 ,It Ain't No Crime,2008
+Trisha Yearwood ,true ,25 ,This Is Me You're Talking To,2008
+Jason Michael Carroll ,true ,26 ,I Can Sleep When I'm Dead,2008
+The Lost Trailers ,true ,27 ,Holler Back,2008
+Sugarland Featuring Little Big Town &amp; Jake Owen ,true ,28 ,Life In A Northern Town,2008
+Julianne Hough ,true ,29 ,That Song In My Head,2008
+Jimmy Wayne ,true ,30 ,Do You Believe Me Now,2008
+Sara Evans ,true ,31 ,Some Things Never Change,2008
+Heidi Newfield ,true ,32 ,Johnny &amp; June,2008
+Phil Stacey ,true ,33 ,If You Didn't Love Me,2008
+Luke Bryan ,true ,34 ,Country Man,2008
+LeAnn Rimes ,true ,35 ,Good Friend And A Glass Of Wine,2008
+Crystal Shawanda ,true ,36 ,You Can Let Go,2008
+Jason Aldean ,true ,37 ,Relentless,2008
+Garth Brooks ,true ,38 ,Midnight Sun,2008
+Darius Rucker ,true ,39 ,Don't Think I Don't Think About It,2008
+Jo Dee Messina ,true ,40 ,I'm Done,2008
+Chuck Wicks ,true ,41 ,All I Ever Wanted,2008
+Emily West ,true ,42 ,Rocks In Your Shoes,2008
+Jamey Johnson ,true ,43 ,In Color,2008
+Eli Young Band ,true ,44 ,When It Rains,2008
+Rodney Atkins ,true ,45 ,Invisibly Shaken,2008
+Eric Church ,true ,46 ,His Kind Of Money (My Kind Of Love),2008
+David Nail ,true ,47 ,I'm About To Come Alive,2008
+Craig Morgan ,true ,48 ,Love Remembers,2008
+Eddy Arnold ,true ,49 ,To Life,2008
+Bucky Covington ,true ,50 ,I'll Walk,2008
+Sugarland ,true ,1 ,It Happens,2009
+Brad Paisley ,true ,2 ,Then,2009
+Keith Urban ,true ,3 ,Kiss A Girl,2009
+Kenny Chesney ,true ,4 ,Out Last Night,2009
+Montgomery Gentry ,true ,5 ,One In Every Crowd,2009
+Jason Aldean ,true ,6 ,She's Country,2009
+Dierks Bentley ,true ,7 ,Sideways,2009
+Zac Brown Band ,true ,8 ,Whatever It Is,2009
+Carrie Underwood Featuring Randy Travis ,true ,9 ,I Told You So,2009
+Lady Antebellum ,true ,10 ,I Run To You,2009
+Eli Young Band ,true ,11 ,Always The Love Songs,2009
+Alan Jackson ,true ,12 ,Sissy's Song,2009
+Jason Michael Carroll ,true ,13 ,Where I'm From,2009
+Toby Keith ,true ,14 ,Lost You Anyway,2009
+Taylor Swift ,true ,15 ,You Belong With Me,2009
+Reba ,true ,16 ,Strange,2009
+Billy Currington ,true ,17 ,People Are Crazy,2009
+Kellie Pickler ,true ,18 ,Best Days Of Your Life,2009
+The Lost Trailers ,true ,19 ,How 'Bout You Don't,2009
+Darius Rucker ,true ,20 ,Alright,2009
+Randy Houser ,true ,21 ,Boots On,2009
+Gloriana ,true ,22 ,Wild At Heart,2009
+Blake Shelton ,true ,23 ,I'll Just Hold On,2009
+Justin Moore ,true ,24 ,Small Town USA,2009
+Eric Church ,true ,25 ,Love Your Love The Most,2009
+Jack Ingram ,true ,26 ,Barefoot And Crazy,2009
+Darryl Worley ,true ,27 ,Sounds Like Life To Me,2009
+Chuck Wicks ,true ,28 ,Man Of The House,2009
+Craig Morgan ,true ,29 ,God Must Really Love Me,2009
+Rascal Flatts ,true ,30 ,Summer Nights,2009
+Love And Theft ,true ,31 ,Runaway,2009
+Miley Cyrus ,true ,32 ,The Climb,2009
+Chris Young ,true ,33 ,Gettin' You Home,2009
+Joe Nichols ,true ,34 ,Believers,2009
+Jamey Johnson ,true ,35 ,High Cost Of Living,2009
+Bomshel ,true ,36 ,Fight Like A Girl,2009
+Jessica Harp ,true ,37 ,Boy Like Me,2009
+Pat Green ,true ,38 ,What I'm For,2009
+Brooks &amp; Dunn ,true ,39 ,Indian Summer,2009
+David Nail ,true ,40 ,Red Light,2009
+James Otto ,true ,41 ,Since You Brought It Up,2009
+Miranda Lambert ,true ,42 ,Dead Flowers,2009
+Bucky Covington ,true ,43 ,I Want My Life Back,2009
+Trace Adkins ,true ,44 ,All I Ask For Anymore,2009
+Luke Bryan ,true ,45 ,Do I,2009
+Lee Ann Womack ,true ,46 ,Solitary Thinkin',2009
+Caitlin &amp; Will ,true ,47 ,Address In The Stars,2009
+Jason Aldean ,true ,48 ,Big Green Tractor,2009
+Pat Green ,true ,49 ,Country Star,2009
+Trent Tomlinson ,true ,50 ,Henry Cartwright's Produce Stand,2009
+Chris Young ,true ,1 ,The Man I Want To Be,2010
+Joe Nichols ,true ,2 ,Gimmie That Girl,2010
+Kenny Chesney ,true ,3 ,Ain't Back Yet,2010
+Miranda Lambert ,true ,4 ,The House That Built Me,2010
+George Strait ,true ,5 ,I Gotta Get To You,2010
+Steel Magnolia ,true ,6 ,Keep On Lovin' You,2010
+Lady Antebellum ,true ,7 ,American Honey,2010
+Rascal Flatts ,true ,8 ,Unstoppable,2010
+Jason Aldean ,true ,9 ,Crazy Town,2010
+Justin Moore ,true ,10 ,Backwoods,2010
+Brad Paisley ,true ,11 ,Water,2010
+Clay Walker ,true ,12 ,She Won't Be Lonely Long,2010
+Luke Bryan ,true ,13 ,Rain Is A Good Thing,2010
+Reba ,true ,14 ,I Keep On Loving You,2010
+Martina McBride ,true ,15 ,Wrong Baby Wrong,2010
+Toby Keith ,true ,16 ,Every Dog Has Its Day,2010
+Jerrod Niemann ,true ,17 ,Lover, Lover,2010
+Tim McGraw ,true ,18 ,Still,2010
+Carrie Underwood ,true ,19 ,Undo It,2010
+Jaron And The Long Road To Love ,true ,20 ,Pray For You,2010
+Lee Brice ,true ,21 ,Love Like Crazy,2010
+Little Big Town ,true ,22 ,Little White Church,2010
+Blake Shelton ,true ,23 ,All About Tonight,2010
+Gretchen Wilson ,true ,24 ,Work Hard, Play Harder,2010
+Zac Brown Band ,true ,25 ,Free,2010
+Uncle Kracker ,true ,26 ,Smile,2010
+Craig Morgan ,true ,27 ,This Ain't Nothin',2010
+Gary Allan ,true ,28 ,Get Off On The Pain,2010
+Keith Urban ,true ,29 ,I'm In,2010
+Josh Turner ,true ,30 ,All Over Me,2010
+David Nail ,true ,31 ,Turning Home,2010
+Josh Thompson ,true ,32 ,Way Out Here,2010
+Bucky Covington ,true ,33 ,A Father's Love (The Only Way He Knew How),2010
+Laura Bell Bundy ,true ,34 ,Giddy On Up,2010
+Rodney Atkins ,true ,35 ,Farmer's Daughter,2010
+Alan Jackson ,true ,36 ,Hard Hat And A Hammer,2010
+Dierks Bentley ,true ,37 ,Up On The Ridge,2010
+James Otto ,true ,38 ,Groovy Little Summer Song,2010
+Easton Corbin ,true ,39 ,Roll With It,2010
+Gloriana ,true ,40 ,The World Is Ours Tonight,2010
+Randy Montana ,true ,41 ,Ain't Much Left Of Lovin' You,2010
+Steve Azar ,true ,42 ,Sunshine (Everybody Needs A Little),2010
+Jake Owen ,true ,43 ,Tell Me,2010
+Kevin Fowler ,true ,44 ,Pound Sign (#?*!),2010
+Eli Young Band ,true ,45 ,Guinevere,2010
+Emily West Featuring Keith Urban ,true ,46 ,Blue Sky,2010
+Kellie Pickler ,true ,47 ,Makin' Me Fall In Love Again,2010
+Blaine Larsen ,true ,48 ,Chillin',2010
+Ash Bowers ,true ,49 ,Ain't No Stopping Her Now,2010
+Montgomery Gentry ,true ,50 ,While You're Still Young,2010
+Miranda Lambert ,true ,1 ,Heart Like Mine,2011
+Brad Paisley Featuring Alabama ,true ,2 ,Old Alabama,2011
+Sara Evans ,true ,3 ,A Little Bit Stronger,2011
+Rascal Flatts ,true ,4 ,I Won't Let Go,2011
+Keith Urban ,true ,5 ,Without You,2011
+Taylor Swift ,true ,6 ,Mean,2011
+Kenny Chesney ,true ,7 ,Live A Little,2011
+The Band Perry ,true ,8 ,You Lie,2011
+Blake Shelton ,true ,9 ,Honey Bee,2011
+Justin Moore ,true ,10 ,If Heaven Wasn't So Far Away,2011
+Chris Young ,true ,11 ,Tomorrow,2011
+Ronnie Dunn ,true ,12 ,Bleed Red,2011
+Toby Keith ,true ,13 ,Somewhere Else,2011
+Luke Bryan ,true ,14 ,Country Girl (Shake It For Me),2011
+Easton Corbin ,true ,15 ,I Can't Love You Back,2011
+Dierks Bentley ,true ,16 ,Am I The Only One,2011
+Jason Aldean ,true ,17 ,Dirt Road Anthem,2011
+Martina McBride ,true ,18 ,Teenage Daughters,2011
+Ashton Shepherd ,true ,19 ,Look It Up,2011
+Lady Antebellum ,true ,20 ,Just A Kiss,2011
+Zac Brown Band Featuring Jimmy Buffett ,true ,21 ,Knee Deep,2011
+Eric Church ,true ,22 ,Homeboy,2011
+Trace Adkins ,true ,23 ,Just Fishin',2011
+Josh Turner ,true ,24 ,I Wouldn't Be A Man,2011
+Brett Eldredge ,true ,25 ,Raymond,2011
+Steel Magnolia ,true ,26 ,Last Night Again,2011
+Jake Owen ,true ,27 ,Barefoot Blue Jean Night,2011
+Josh Thompson ,true ,28 ,Won't Be Lonely Long,2011
+Eli Young Band ,true ,29 ,Crazy Girl,2011
+Billy Currington ,true ,30 ,Love Done Gone,2011
+Steve Holy ,true ,31 ,Love Don't Run,2011
+Rodney Atkins ,true ,32 ,Take A Back Road,2011
+Kenny Chesney Featuring Grace Potter ,true ,33 ,You And Tequila,2011
+Brantley Gilbert ,true ,34 ,Country Must Be Country Wide,2011
+Frankie Ballard ,true ,35 ,A Buncha Girls,2011
+Sugarland ,true ,36 ,Tonight,2011
+David Nail Featuring Sarah Buxton ,true ,37 ,Let It Rain,2011
+Randy Montana ,true ,38 ,1,000 Faces,2011
+Bradley Gaskin ,true ,39 ,Mr. Bartender,2011
+Gloriana ,true ,40 ,Wanna Take You Home,2011
+Thompson Square ,true ,41 ,I Got You,2011
+Little Big Town ,true ,42 ,The Reason Why,2011
+Reba ,true ,43 ,When Love Gets A Hold Of You,2011
+Jennette McCurdy ,true ,44 ,Generation Love,2011
+The JaneDear Girls ,true ,45 ,Shotgun Girl,2011
+Edens Edge ,true ,46 ,Amen,2011
+James Wesley ,true ,47 ,Didn't I,2011
+Sunny Sweeney ,true ,48 ,Staying's Worse Than Leaving,2011
+Kip Moore ,true ,49 ,Mary Was The Marrying Kind,2011
+Corey Smith ,true ,50 ,Twenty-One,2011
+Jason Aldean ,true ,1 ,Fly Over States,2012
+Miranda Lambert ,true ,2 ,Over You,2012
+Kip Moore ,true ,3 ,Somethin' 'Bout A Truck,2012
+Zac Brown Band ,true ,4 ,No Hurry,2012
+Carrie Underwood ,true ,5 ,Good Girl,2012
+Eric Church ,true ,6 ,Springsteen,2012
+Tim McGraw ,true ,7 ,Better Than I Used To Be,2012
+Rascal Flatts ,true ,8 ,Banjo,2012
+Luke Bryan ,true ,9 ,Drunk On You,2012
+Brantley Gilbert ,true ,10 ,You Don't Know Her Like I Do,2012
+Kenny Chesney &amp; Tim McGraw ,true ,11 ,Feel Like A Rock Star,2012
+Eli Young Band ,true ,12 ,Even If It Breaks Your Heart,2012
+Chris Cagle ,true ,13 ,Got My Country On,2012
+Toby Keith ,true ,14 ,Beers Ago,2012
+Craig Morgan ,true ,15 ,This Ole Boy,2012
+Josh Turner ,true ,16 ,Time Is Love,2012
+Gloriana ,true ,17 ,(Kissed You) Good Night,2012
+The Band Perry ,true ,18 ,Postcard From Paris,2012
+Dierks Bentley ,true ,19 ,5-1-5-0,2012
+Jana Kramer ,true ,20 ,Why Ya Wanna,2012
+Love And Theft ,true ,21 ,Angel Eyes,2012
+THE FARM ,true ,22 ,Home Sweet Home,2012
+Keith Urban ,true ,23 ,For You,2012
+Dustin Lynch ,true ,24 ,Cowboys And Angels,2012
+Thompson Square ,true ,25 ,Glass,2012
+Thomas Rhett ,true ,26 ,Something To Do With My Hands,2012
+Andy Gibson ,true ,27 ,Wanna Make You Love Me,2012
+Alan Jackson ,true ,28 ,So You Don't Have To Love Me Anymore,2012
+Kelly Clarkson ,true ,29 ,Mr. Know It All,2012
+Easton Corbin ,true ,30 ,Lovin' You Is Fun,2012
+Hunter Hayes ,true ,31 ,Wanted,2012
+Ronnie Dunn ,true ,32 ,Let The Cowboy Rock,2012
+Josh Thompson ,true ,33 ,Comin' Around,2012
+Chris Young ,true ,34 ,Neon,2012
+Phil Vassar ,true ,35 ,Don't Miss Your Life,2012
+Kix Brooks Featuring Joe Walsh ,true ,36 ,New To This Town,2012
+George Strait ,true ,37 ,Drinkin' Man,2012
+David Nail ,true ,38 ,The Sound Of A Million Dreams,2012
+Jerrod Niemann ,true ,39 ,Shinin' On Me,2012
+Blake Shelton ,true ,40 ,Over,2012
+Justin Moore ,true ,41 ,Til My Last Day,2012
+Greg Bates ,true ,42 ,Did It For The Girl,2012
+Edens Edge ,true ,43 ,Too Good To Be True,2012
+JT Hodges ,true ,44 ,Goodbyes Made You Mine,2012
+Kristen Kelly ,true ,45 ,Ex-Old Man,2012
+Scotty McCreery ,true ,46 ,Water Tower Town,2012
+Josh Abbott Band ,true ,47 ,Touch,2012
+Little Big Town ,true ,48 ,Pontoon,2012
+Jon Pardi ,true ,49 ,Missin' You Crazy,2012
+Martina McBride Featuring Pat Monahan Of Train ,true ,50 ,Marry Me,2012
+Florida Georgia Line ,true ,1 ,Cruise,2013
+Darius Rucker ,true ,2 ,Wagon Wheel,2013
+Blake Shelton Featuring Pistol Annies &amp; Friends ,true ,3 ,Boys 'round Here,2013
+Tim McGraw With Taylor Swift ,true ,4 ,Highway Don't Care,2013
+Florida Georgia Line ,true ,5 ,Get Your Shine On,2013
+Miranda Lambert ,true ,6 ,Mama's Broken Heart,2013
+Kenny Chesney ,true ,7 ,Pirate Flag,2013
+Lady Antebellum ,true ,8 ,Downtown,2013
+Luke Bryan ,true ,9 ,Crash My Party,2013
+George Strait ,true ,10 ,Give It All We Got Tonight,2013
+Hunter Hayes ,true ,11 ,I Want Crazy,2013
+The Band Perry ,true ,12 ,DONE.,2013
+Jason Aldean ,true ,13 ,1994,2013
+Eric Church ,true ,14 ,Like Jesus Does,2013
+Blake Shelton ,true ,15 ,Sure Be Cool If You Did,2013
+Brad Paisley ,true ,16 ,Beat This Summer,2013
+Jake Owen ,true ,17 ,Anywhere With You,2013
+Thompson Square ,true ,18 ,If I Didn't Have You,2013
+Kip Moore ,true ,19 ,Hey Pretty Girl,2013
+Gloriana ,true ,20 ,Can't Shake You,2013
+Carrie Underwood ,true ,21 ,See You Again,2013
+Brantley Gilbert ,true ,22 ,More Than Miles,2013
+The Band Perry ,true ,23 ,Better Dig Two,2013
+Randy Houser ,true ,24 ,Runnin' Outta Moonlight,2013
+Danielle Bradbery ,true ,25 ,Maybe It Was Memphis,2013
+Zac Brown Band ,true ,26 ,Jump Right In,2013
+Easton Corbin ,true ,27 ,All Over The Road,2013
+Billy Currington ,true ,28 ,Hey Girl,2013
+Brett Eldredge ,true ,29 ,Don't Ya,2013
+The Henningsens ,true ,30 ,American Beautiful,2013
+Justin Moore ,true ,31 ,Point At You,2013
+Tyler Farr ,true ,32 ,Redneck Crazy,2013
+Gary Allan ,true ,33 ,Pieces,2013
+Lauren Alaina ,true ,34 ,Barefoot And Buckwild,2013
+Lennon &amp; Maisy ,true ,35 ,Ho Hey,2013
+Sheryl Crow ,true ,36 ,Easy,2013
+Little Big Town ,true ,37 ,Your Side Of The Bed,2013
+Craig Morgan ,true ,38 ,More Trucks Than Cars,2013
+Luke Bryan ,true ,39 ,Buzzkill,2013
+Jana Kramer ,true ,40 ,Whiskey,2013
+Rascal Flatts ,true ,41 ,Changed,2013
+Craig Campbell ,true ,42 ,Outta My Head,2013
+Pistol Annies ,true ,43 ,I Feel A Sin Comin' On,2013
+The Swon Brothers ,true ,44 ,Fishin' In The Dark,2013
+Lady Antebellum ,true ,45 ,All For Love,2013
+Kacey Musgraves ,true ,46 ,Blowin' Smoke,2013
+Charlie Worsham ,true ,47 ,Could It Be,2013
+Parmalee ,true ,48 ,Carolina,2013
+Lee Brice ,true ,49 ,Parking Lot Party,2013
+Colt Ford Featuring Jason Aldean ,true ,50 ,Drivin' Around Song,2013
+Luke Bryan ,true ,1 ,Play It Again,2014
+Florida Georgia Line Featuring Luke Bryan ,true ,2 ,This Is How We Roll,2014
+Brantley Gilbert ,true ,3 ,Bottoms Up,2014
+Rascal Flatts ,true ,4 ,Rewind,2014
+Jake Owen ,true ,5 ,Beachin',2014
+Thomas Rhett ,true ,6 ,Get Me Some Of That,2014
+Miranda Lambert ,true ,7 ,Automatic,2014
+Brett Eldredge ,true ,8 ,Beat Of The Music,2014
+Keith Urban ,true ,9 ,Cop Car,2014
+Blake Shelton Featuring Gwen Sebastian ,true ,10 ,My Eyes,2014
+Eric Church ,true ,11 ,Give Me Back My Hometown,2014
+Justin Moore ,true ,12 ,Lettin' The Night Roll,2014
+Lee Brice ,true ,13 ,I Don't Dance,2014
+Tyler Farr ,true ,14 ,Whiskey In My Water,2014
+Chris Young ,true ,15 ,Who I Am With You,2014
+Joe Nichols ,true ,16 ,Yeah,2014
+Brad Paisley ,true ,17 ,River Bank,2014
+Billy Currington ,true ,18 ,We Are Tonight,2014
+Craig Campbell ,true ,19 ,Keep Them Kisses Comin',2014
+Dustin Lynch ,true ,20 ,Where It's At (Yep, Yep),2014
+Dierks Bentley ,true ,21 ,Drunk On A Plane,2014
+The Band Perry ,true ,22 ,Chainsaw,2014
+Jake Worthington ,true ,23 ,Heaven,2014
+Blake Shelton ,true ,24 ,Doin' What She Likes,2014
+Hunter Hayes ,true ,25 ,Invisible,2014
+George Strait ,true ,26 ,I Got A Car,2014
+Eric Paslay ,true ,27 ,Song About A Girl,2014
+Brantley Gilbert Featuring Justin Moore &amp; Thomas Rhett ,true ,28 ,Small Town Throwdown,2014
+Tim McGraw Featuring Faith Hill ,true ,29 ,Meanwhile Back At Mama's,2014
+Eli Young Band ,true ,30 ,Dust,2014
+Cole Swindell ,true ,31 ,Hope You Get Lonely Tonight,2014
+Sam Palladio ,true ,32 ,It Ain't Yours To Throw Away,2014
+Jake Worthington ,true ,33 ,Good Ol' Boys,2014
+The Cadillac Three Featuring Florida Georgia Line, Dierks Bentley &amp; Mike Eli ,true ,34 ,The South,2014
+The Swon Brothers ,true ,35 ,Later On,2014
+Easton Corbin ,true ,36 ,Clockwork,2014
+Frankie Ballard ,true ,37 ,Sunshine &amp; Whiskey,2014
+Big &amp; Rich ,true ,38 ,Look At You,2014
+Parmalee ,true ,39 ,Close Your Eyes,2014
+Scotty McCreery ,true ,40 ,Feelin' It,2014
+Hayden Panettiere ,true ,41 ,Don't Put Dirt On My Grave Just Yet,2014
+Kip Moore ,true ,42 ,Dirt Road,2014
+Cassadee Pope ,true ,43 ,I Wish I Could Break Your Heart,2014
+Zac Brown Band ,true ,44 ,All Alright,2014
+Jamie Lynn Spears ,true ,45 ,How Could I Want More,2014
+Kelleigh Bannen ,true ,46 ,Famous,2014
+Kristen Merlin ,true ,47 ,Gunpowder And Lead,2014
+David Nail ,true ,48 ,Kiss You Tonight,2014
+Lennon &amp; Maisy ,true ,49 ,A Life That's Good,2014
+Jon Pardi ,true ,50 ,What I Can't Put Down,2014
+Little Big Town ,true ,1 ,Girl Crush,2015
+Sam Hunt ,true ,2 ,Take Your Time,2015
+Florida Georgia Line ,true ,3 ,Sippin' On Fire,2015
+Blake Shelton ,true ,4 ,Sangria,2015
+A Thousand Horses ,true ,5 ,Smoke,2015
+Billy Currington ,true ,6 ,Don't It,2015
+Tyler Farr ,true ,7 ,A Guy Walks Into A Bar,2015
+Chris Young ,true ,8 ,I'm Comin' Over,2015
+Zac Brown Band ,true ,9 ,Homegrown,2015
+Carrie Underwood ,true ,10 ,Little Toy Guns,2015
+Keith Urban Featuring Eric Church ,true ,11 ,Raise 'Em Up,2015
+Kenny Chesney With Grace Potter ,true ,12 ,Wild Child,2015
+Kelsea Ballerini ,true ,13 ,Love Me Like You Mean It,2015
+Canaan Smith ,true ,14 ,Love You Like That,2015
+Eric Church ,true ,15 ,Like A Wrecking Ball,2015
+Tim McGraw With Catherine Dunn ,true ,16 ,Diamond Rings And Old Barstools,2015
+Easton Corbin ,true ,17 ,Baby Be My Love Song,2015
+Brantley Gilbert ,true ,18 ,One Hell Of An Amen,2015
+Eric Paslay ,true ,19 ,She Don't Love You,2015
+Jason Aldean ,true ,20 ,Tonight Looks Good On You,2015
+Luke Bryan ,true ,21 ,Games,2015
+Brad Paisley ,true ,22 ,Crushin' It,2015
+Thomas Rhett ,true ,23 ,Crash And Burn,2015
+Frankie Ballard ,true ,24 ,Young &amp; Crazy,2015
+Michael Ray ,true ,25 ,Kiss You In The Morning,2015
+Zac Brown Band ,true ,26 ,Loving You Easy,2015
+Steven Tyler ,true ,27 ,Love Is Your Name,2015
+Meghan Linsey ,true ,28 ,Tennessee Whiskey,2015
+Chris Janson ,true ,29 ,Buy Me A Boat,2015
+Rascal Flatts ,true ,30 ,Riot,2015
+Sam Hunt ,true ,31 ,House Party,2015
+Dustin Lynch ,true ,32 ,Hell Of A Night,2015
+Reba ,true ,33 ,Going Out Like That,2015
+Miranda Lambert ,true ,34 ,Little Red Wagon,2015
+Maddie &amp; Tae ,true ,35 ,Fly,2015
+Brett Eldredge ,true ,36 ,Lose My Mind,2015
+Jana Kramer ,true ,37 ,I Got The Boy,2015
+Kip Moore ,true ,38 ,I'm To Blame,2015
+Clare Bowen &amp; Sam Palladio ,true ,39 ,I Will Never Let You Know,2015
+Old Dominion ,true ,40 ,Break Up With Him,2015
+Gloriana ,true ,41 ,Trouble,2015
+Chase Rice ,true ,42 ,Gonna Wanna Tonight,2015
+Kacey Musgraves ,true ,43 ,Biscuits,2015
+Cole Swindell ,true ,44 ,Let Me See Ya Girl,2015
+Dan + Shay ,true ,45 ,Nothin' Like You,2015
+Brothers Osborne ,true ,46 ,Stay A Little Longer,2015
+Eli Young Band ,true ,47 ,Turn It On,2015
+Parmalee ,true ,48 ,Already Callin' You Mine,2015
+Luke Bryan ,true ,49 ,Kick The Dust Up,2015
+Brantley Gilbert ,true ,50 ,Stone Cold Sober,2015
+Florida Georgia Line ,true ,1 ,H.O.L.Y.,2016
+Dierks Bentley ,true ,2 ,Somewhere On A Beach,2016
+Tim McGraw ,true ,3 ,Humble And Kind,2016
+Blake Shelton ,true ,4 ,Came Here To Forget,2016
+Thomas Rhett ,true ,5 ,T-Shirt,2016
+Luke Bryan ,true ,6 ,Huntin', Fishin' &amp; Lovin' Every Day,2016
+Chris Young Duet With Cassadee Pope ,true ,7 ,Think Of You,2016
+Old Dominion ,true ,8 ,Snapback,2016
+Maren Morris ,true ,9 ,My Church,2016
+Dustin Lynch ,true ,10 ,Mind Reader,2016
+Cole Swindell ,true ,11 ,You Should Be Here,2016
+Keith Urban ,true ,12 ,Wasted Time,2016
+Blake Shelton Featuring Gwen Stefani ,true ,13 ,Go Ahead And Break My Heart,2016
+Jon Pardi ,true ,14 ,Head Over Boots,2016
+Jason Aldean ,true ,15 ,Lights Come On,2016
+Eric Church ,true ,16 ,Record Year,2016
+Carrie Underwood ,true ,17 ,Church Bells,2016
+Kenny Chesney ,true ,18 ,Noise,2016
+Kelsea Ballerini ,true ,19 ,Peter Pan,2016
+Dan + Shay ,true ,20 ,From The Ground Up,2016
+Sam Hunt ,true ,21 ,Make You Miss Me,2016
+Jake Owen ,true ,22 ,American Country Love Song,2016
+Chris Lane ,true ,23 ,Fix,2016
+Brett Eldredge ,true ,24 ,Drunk On Your Love,2016
+Keith Urban Featuring Carrie Underwood ,true ,25 ,The Fighter,2016
+David Nail ,true ,26 ,Night's On Fire,2016
+Frankie Ballard ,true ,27 ,It All Started With A Beer,2016
+Justin Moore ,true ,28 ,You Look Like I Need A Drink,2016
+Kip Moore ,true ,29 ,Running For You,2016
+Tucker Beathard ,true ,30 ,Rock On,2016
+Cole Swindell ,true ,31 ,Middle Of A Memory,2016
+Canaan Smith ,true ,32 ,Hole In A Bottle,2016
+Jennifer Nettles ,true ,33 ,Unlove You,2016
+Adam Wakefield ,true ,34 ,Love Has No Pride,2016
+Mary Sarah ,true ,35 ,My Church,2016
+Chris Stapleton ,true ,36 ,Fire Away,2016
+Cam ,true ,37 ,Mayday,2016
+Zac Brown Band ,true ,38 ,Castaway,2016
+Brothers Osborne ,true ,39 ,21 Summer,2016
+William Michael Morgan ,true ,40 ,I Met A Girl,2016
+Billy Currington ,true ,41 ,It Don't Hurt Like It Used To,2016
+Big &amp; Rich Featuring Tim McGraw ,true ,42 ,Lovin' Lately,2016
+Brett Young ,true ,43 ,Sleep Without You,2016
+Hillary Scott &amp; The Scott Family ,true ,44 ,Thy Will,2016
+Chris Stapleton ,true ,45 ,Parachute,2016
+Drake White ,true ,46 ,Livin' The Dream,2016
+Cole Swindell ,true ,47 ,Broke Down,2016
+Brad Paisley Featuring Demi Lovato ,true ,48 ,Without A Fight,2016
+Jordan Rager With Jason Aldean ,true ,49 ,Southern Boy,2016
+Thomas Rhett ,true ,50 ,Vacation,2016
+Sam Hunt ,true ,1 ,Body Like A Back Road,2017
+Brett Young ,true ,2 ,In Case You Didn't Know,2017
+Luke Combs ,true ,3 ,Hurricane,2017
+Dierks Bentley ,true ,4 ,Black,2017
+Keith Urban Featuring Carrie Underwood ,true ,5 ,The Fighter,2017
+Darius Rucker ,true ,6 ,If I Told You,2017
+Jon Pardi ,true ,7 ,Dirt On My Boots,2017
+Florida Georgia Line Featuring Backstreet Boys ,true ,8 ,God, Your Mama, And Me,2017
+Kelsea Ballerini ,true ,9 ,Yeah Boy,2017
+Brantley Gilbert ,true ,10 ,The Weekend,2017
+Thomas Rhett Featuring Maren Morris ,true ,11 ,Craving You,2017
+Dan + Shay ,true ,12 ,How Not To,2017
+Blake Shelton ,true ,13 ,Every Time I Hear That Song,2017
+Jason Aldean ,true ,14 ,Any Ol' Barstool,2017
+Dylan Scott ,true ,15 ,My Girl,2017
+Cole Swindell ,true ,16 ,Flatliner,2017
+Chris Stapleton ,true ,17 ,Either Way,2017
+Lady Antebellum ,true ,18 ,You Look Good,2017
+Midland ,true ,19 ,Drinkin' Problem,2017
+Chris Stapleton ,true ,20 ,Broken Halos,2017
+Rascal Flatts ,true ,21 ,Yours If You Want It,2017
+Zac Brown Band ,true ,22 ,My Old Man,2017
+Tim McGraw &amp; Faith Hill ,true ,23 ,Speak To A Girl,2017
+Old Dominion ,true ,24 ,No Such Thing As A Broken Heart,2017
+Justin Moore ,true ,25 ,Somebody Else Will,2017
+Dustin Lynch ,true ,26 ,Small Town Boy,2017
+Miranda Lambert ,true ,27 ,Tin Man,2017
+Maren Morris ,true ,28 ,I Could Use A Love Song,2017
+Chris Lane ,true ,29 ,For Her,2017
+Brothers Osborne ,true ,30 ,It Ain't My Fault,2017
+Scotty McCreery ,true ,31 ,Five More Minutes,2017
+Kane Brown Featuring Lauren Alaina ,true ,32 ,What Ifs,2017
+Brett Eldredge ,true ,33 ,Somethin' I'm Good At,2017
+Billy Currington ,true ,34 ,Do I Make You Wanna,2017
+Kenny Chesney ,true ,35 ,Bar At The End Of The World,2017
+Kip Moore ,true ,36 ,More Girls Like You,2017
+Chris Stapleton ,true ,37 ,Second One To Know,2017
+Drake White ,true ,38 ,Makin' Me Look Good Again,2017
+Zac Brown Band ,true ,39 ,Roots,2017
+Chris Stapleton ,true ,40 ,Last Thing I Needed, First This Morning,2017
+Chris Stapleton ,true ,41 ,I Was Wrong,2017
+Morgan Wallen ,true ,42 ,The Way I Talk,2017
+Lauren Duski ,true ,43 ,Tell Me Why,2017
+Eric Church ,true ,44 ,Round Here Buzz,2017
+LOCASH ,true ,45 ,Ring On Every Finger,2017
+John Mayer ,true ,46 ,In The Blood,2017
+Jon Pardi ,true ,47 ,Heartache On The Dance Floor,2017
+Little Big Town ,true ,48 ,Happy People,2017
+Brennley Brown ,true ,49 ,Anyway,2017
+Brad Paisley ,true ,50 ,Last Time For Everything,2017
+Bebe Rexha &amp; Florida Georgia Line ,true ,1 ,Meant To Be,2018
+Kane Brown ,true ,2 ,Heaven,2018
+Jason Aldean ,true ,3 ,You Make It Easy,2018
+Luke Combs ,true ,4 ,One Number Away,2018
+Dan + Shay ,true ,5 ,Tequila,2018
+Morgan Wallen Featuring Florida Georgia Line ,true ,6 ,Up Down,2018
+Kenny Chesney ,true ,7 ,Get Along,2018
+Blake Shelton ,true ,8 ,I Lived It,2018
+Darius Rucker ,true ,9 ,For The First Time,2018
+Thomas Rhett ,true ,10 ,Marry Me,2018
+Luke Bryan ,true ,11 ,Most People Are Good,2018
+Dierks Bentley ,true ,12 ,Woman, Amen,2018
+David Lee Murphy &amp; Kenny Chesney ,true ,13 ,Everything's Gonna Be Alright,2018
+Brett Young ,true ,14 ,Mercy,2018
+Carrie Underwood ,true ,15 ,Cry Pretty,2018
+Luke Combs ,true ,16 ,Beautiful Crazy,2018
+Jake Owen ,true ,17 ,I Was Jack (You Were Diane),2018
+Chris Lane Featuring Tori Kelly ,true ,18 ,Take Back Home Girl,2018
+Keith Urban Featuring Julia Michaels ,true ,19 ,Coming Home,2018
+Michael Ray ,true ,20 ,Get To You,2018
+Mason Ramsey ,true ,21 ,Famous,2018
+Cole Swindell ,true ,22 ,Break Up In The End,2018
+Morgan Evans ,true ,23 ,Kiss Somebody,2018
+Sam Hunt ,true ,24 ,Downtown's Dead,2018
+Dylan Scott ,true ,25 ,Hooked,2018
+Thomas Rhett ,true ,26 ,Life Changes,2018
+Lady Antebellum ,true ,27 ,Heart Break,2018
+Sugarland Featuring Taylor Swift ,true ,28 ,Babe,2018
+Chris Janson ,true ,29 ,Drunk Girl,2018
+Lindsay Ell ,true ,30 ,Criminal,2018
+LANCO ,true ,31 ,Born To Love You,2018
+Justin Moore ,true ,32 ,Kinda Don't Care,2018
+Brothers Osborne ,true ,33 ,Shoot Me Straight,2018
+Ashley McBryde ,true ,34 ,A Little Dive Bar In Dahlonega,2018
+Old Dominion ,true ,35 ,Hotel Key,2018
+Chase Rice ,true ,36 ,Three Chords &amp; The Truth,2018
+Lauren Alaina ,true ,37 ,Doin' Fine,2018
+Kelsea Ballerini ,true ,38 ,I Hate Love Songs,2018
+Chris Young ,true ,39 ,Hangin' On,2018
+Maren Morris ,true ,40 ,Rich,2018
+Jason Aldean Featuring Miranda Lambert ,true ,41 ,Drowns The Whiskey,2018
+Carly Pearce ,true ,42 ,Hide The Wine,2018
+Jimmie Allen ,true ,43 ,Best Shot,2018
+Tyler Rich ,true ,44 ,The Difference,2018
+Dustin Lynch ,true ,45 ,Good Girl,2018
+Chris Stapleton ,true ,46 ,Millionaire,2018
+Kacey Musgraves ,true ,47 ,Space Cowboy,2018
+Kacey Musgraves ,true ,48 ,Butterflies,2018
+Dan + Shay ,true ,49 ,All To Myself,2018
+Cole Swindell ,true ,50 ,Ones Who Got Me Here,2018
+Blake Shelton ,true ,1 ,God's Country,2019
+Morgan Wallen ,true ,2 ,Whiskey Glasses,2019
+Luke Combs ,true ,3 ,Beer Never Broke My Heart,2019
+Luke Combs ,true ,4 ,Beautiful Crazy,2019
+Kane Brown ,true ,5 ,Good As You,2019
+Chase Rice ,true ,6 ,Eyes On You,2019
+Thomas Rhett ,true ,7 ,Look What God Gave Her,2019
+Eli Young Band ,true ,8 ,Love Ain't,2019
+Lee Brice ,true ,9 ,Rumor,2019
+Dan + Shay ,true ,10 ,Speechless,2019
+Kelsea Ballerini ,true ,11 ,Miss Me More,2019
+Maren Morris ,true ,12 ,GIRL,2019
+Florida Georgia Line ,true ,13 ,Talk You Out Of It,2019
+Brett Eldredge ,true ,14 ,Love Someone,2019
+Luke Bryan ,true ,15 ,Knockin' Boots,2019
+Cody Johnson ,true ,16 ,On My Way To You,2019
+Dan + Shay ,true ,17 ,All To Myself,2019
+Eric Church ,true ,18 ,Some Of It,2019
+Jason Aldean ,true ,19 ,Rearview Town,2019
+George Strait ,true ,20 ,Every Little Honky Tonk Bar,2019
+Chris Young ,true ,21 ,Raised On Country,2019
+Chris Lane ,true ,22 ,I Don't Know About You,2019
+HARDY ,true ,23 ,Rednecker,2019
+Brantley Gilbert + Lindsay Ell ,true ,24 ,What Happens In A Small Town,2019
+Maren Morris ,true ,25 ,The Bones,2019
+Justin Moore ,true ,26 ,The Ones That Didn't Make It Back Home,2019
+Kacey Musgraves ,true ,27 ,Rainbow,2019
+Keith Urban ,true ,28 ,We Were,2019
+Dierks Bentley ,true ,29 ,Living,2019
+Cole Swindell ,true ,30 ,Love You Too Late,2019
+Tenille Townes ,true ,31 ,Somebody's Daughter,2019
+Tim McGraw ,true ,32 ,Thought About You,2019
+Dustin Lynch ,true ,33 ,Ridin' Roads,2019
+Russell Dickerson ,true ,34 ,Every Little Thing,2019
+Rascal Flatts ,true ,35 ,Back To Life,2019
+Carly Pearce ,true ,36 ,Closer To You,2019
+Runaway June ,true ,37 ,Buy My Own Drinks,2019
+Gabby Barrett ,true ,38 ,I Hope,2019
+Old Dominion ,true ,39 ,One Man Band,2019
+Dylan Scott ,true ,40 ,Nothing To Do Town,2019
+Matt Stell ,true ,41 ,Prayed For You,2019
+Chris Janson ,true ,42 ,Good Vibes,2019
+Midland ,true ,43 ,Mr. Lonely,2019
+Ryan Hurd ,true ,44 ,To A T,2019
+Morgan Evans ,true ,45 ,Day Drunk,2019
+Brooks &amp; Dunn With Luke Combs ,true ,46 ,Brand New Man,2019
+Carrie Underwood ,true ,47 ,Southbound,2019
+Mitchell Tenpenny ,true ,48 ,Alcohol You Later,2019
+Lauren Alaina ,true ,49 ,Ladies In The '90s,2019
+Seaforth ,true ,50 ,Love That,2019
